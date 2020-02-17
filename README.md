@@ -21,7 +21,7 @@
 ## Textbooks
 
 ### Machine Learning
-- <a href=https://www.amazon.ca/Introduction-Machine-Learning-Python-Scientists/dp/1449369413/ref=asc_df_1449369413/?tag=googleshopc0c-20&linkCode=df0&hvadid=292901695602&hvpos=&hvnetw=g&hvrand=17038007849797717881&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9061026&hvtargid=pla-423142395481&psc=1>Introduction to machine learning with Python: A Guide for Data Scientists, Andreas C. Müller & Sarah Guido, 2016</a>
+- [test](https://www.amazon.ca/Introduction-Machine-Learning-Python-Scientists/dp/1449369413/ref=asc_df_1449369413/?tag=googleshopc0c-20&linkCode=df0&hvadid=292901695602&hvpos=&hvnetw=g&hvrand=17038007849797717881&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9061026&hvtargid=pla-423142395481&psc=1 "Introduction to machine learning with Python: A Guide for Data Scientists, Andreas C. Müller & Sarah Guido, 2016")
 - <a href=https://www.amazon.ca/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646/ref=asc_df_1492032646/?tag=googleshopc0c-20&linkCode=df0&hvadid=335305582969&hvpos=1o1&hvnetw=g&hvrand=17038007849797717881&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9061026&hvtargid=pla-523968811896&psc=1>Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems - 2nd edition, Aurélien Géron, 2019</a>
 - <a href=https://www.amazon.ca/Python-Machine-Learning-scikit-learn-TensorFlow/dp/1789955750/ref=sr_1_fkmr0_1?keywords=%3Bachine+learning+sebastian&qid=1581965682&s=books&sr=1-1-fkmr0>Python Machine Learning: Machine Learning and Deep Learning with Python, scikit-learn, and TensorFlow 2 - 3rd Edition, Sebastian Raschka & Vahid Mirjalili, 2019</a>
 ### Deep Learning
