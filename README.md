@@ -61,6 +61,8 @@
 - [An Opinionated Guide to ML Research, John Schulman](http://joschu.net/blog/opinionated-guide-ml-research.html)
 - [How to Be a Researcher - 2nd Edition, Jonathan St B. T. Evans 2015](https://www.amazon.com/How-Be-Researcher-Jonathan-Evans-dp-1138917311/dp/1138917311/ref=mt_paperback?_encoding=UTF8&me=&qid=)
 - [How to write and publish your research](https://www.rndtoday.co.uk/resource/how-to-write-and-publish-your-research/)
+- [How to write a research paper, Science Direct](https://www.sciencedirect.com/science/article/abs/pii/S1878764915001606)
+
 
 ### PyTorch
 > Here a list a lot of ressources on PyTorch
@@ -69,12 +71,14 @@
 - [gwding](https://github.com/gwding/the-incredible-pytorch)
 - [jekbradbury](https://github.com/jekbradbury/the-incredible-pytorch)
 - [NurmaU](https://github.com/NurmaU/incredible_pytorch)
+- [Deep Learning With PyTorch](https://pytorch.org/deep-learning-with-pytorch)
 
 ### Tensorflow 
 > jtoy propose a github page with lot of ressources, models, tutorials, books etc. on tensorflow
 - [jtoy](https://github.com/jtoy/awesome-tensorflow)
 > Ritchie Ng has began a github for TensorFlow 2
 - [Ritchie Ng](https://github.com/ritchieng/the-incredible-tensorflow)
+- [TensorFlow Forum Discussion](https://groups.google.com/a/tensorflow.org/forum/#!forum/discuss)
 
 ### Quantum Computing
 - [Micheal Nielsen ](https://quantum.country/)
@@ -83,11 +87,14 @@
 - [D-Wave Tutorials on Quantum Annealing](https://www.dwavesys.com/resources/tutorials)
 
 ### Sites for articles
-- [ArXiv](https://arxiv.org/)
+- [Computer Science, ArXiv](https://arxiv.org/list/cs/recent)
 - [Paper With Codes](https://paperswithcode.com/)
 - [Google.ai](https://research.google/pubs/)
 - [Facebook](https://research.fb.com/publications/?cat=4)
 - [DeepAI Research](https://deepai.org/research)
+
+### NLP 
+- [NLP-progress, Sebastian Ruder](https://github.com/sebastianruder/NLP-progress)
 
 ### Blogs 
 - [Medium](https://medium.com/)
@@ -112,6 +119,18 @@
 - [Cambridge Maths Blog](https://www.cambridgemaths.org/blogs/)
 
 ### People to follow 
+
+- [Aaron Courville](https://arxiv.org/search/?searchtype=author&query=Courville%2C+A)
+- [Christopher D. Manning](https://arxiv.org/search/?searchtype=author&query=Manning%2C+C+D)
+- [Doina-Precup](https://arxiv.org/search/?searchtype=author&query=Precup%2C+D)
+- [François Chollet](https://arxiv.org/search/?searchtype=author&query=Chollet%2C+F)
+- [Geoffrey Hinton](https://arxiv.org/search/?searchtype=author&query=Hinton%2C+G)
+- [Hugo Larochelle](https://arxiv.org/search/?searchtype=author&query=Larochelle%2C+H)
+- [Ian Googfellow](https://arxiv.org/search/?searchtype=author&query=Goodfellow%2C+I)
+- [Oriol Vinyals](https://arxiv.org/search/?searchtype=author&query=Vinyals%2C+O)
+- [Sebastian Ruder](https://arxiv.org/search/?searchtype=author&query=Ruder%2C+S)
+- [Yann LeCun](https://arxiv.org/search/?searchtype=author&query=LeCun%2C+Y)
+- [Yoshua Bengio](https://arxiv.org/search/?searchtype=author&query=Bengio%2C+Y)
 
 
 ### Courses 
