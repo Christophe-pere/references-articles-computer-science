@@ -1,12 +1,12 @@
 ﻿# Computer Science References for researchers
 
-> This repository is made to group different resources for researchers and students in Computer Science specially for Machine Learning, Deep Learning, Reinforcement Learning and Quantum Computing. Additional usefull ressources can be find at the end, tutorials and others github pages about librairies in AI. 
-
+> This repository is made to gather different resources for researchers and students in Computer Science specially for Machine Learning, Deep Learning, Reinforcement Learning and Quantum Computing. Additional usefull ressources can be find at the end, tutorials and others github pages about librairies in AI. 
+> Don't hesitate to participe. 
 
 
 ## Table of Contents 
 
-> If your `README` has a lot of info, section headers might be nice.
+
 
 - [Textbooks](#textbooks)
 - [Articles](#articles)
