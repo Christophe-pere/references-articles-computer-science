@@ -1,7 +1,7 @@
 ﻿# Computer Science References for researchers
 
 > This repository is made to gather different resources for researchers and students in Computer Science specially for Machine Learning, Deep Learning, Reinforcement Learning and Quantum Computing. Additional usefull ressources can be find at the end, tutorials and others github pages about librairies in AI. 
-> Don't hesitate to participe. 
+> Page under construction 
 
 
 ## Table of Contents 
@@ -46,7 +46,8 @@
 ### Deep Learning
 
 ### Reinforcement Learning
-
+> Open AI maintained a web page with the most import paper in RL 
+- [Open AI spinningup](https://spinningup.openai.com/en/latest/spinningup/keypapers.html)
 
 ---
 ## Documentations
@@ -55,11 +56,38 @@
 
 ---
 ## Ressources
+### ML research guide 
+> The two references inside the article are very interesting
+- [An Opinionated Guide to ML Research, John Schulman](http://joschu.net/blog/opinionated-guide-ml-research.html)
+### PyTorch
+> Here a list a lot of ressources on PyTorch
+- [Ritchie Ng](https://github.com/ritchieng/the-incredible-pytorch)
+- [bharathgs](https://github.com/bharathgs/Awesome-pytorch-list)
+- [gwding](https://github.com/gwding/the-incredible-pytorch)
+- [jekbradbury](https://github.com/jekbradbury/the-incredible-pytorch)
+- [NurmaU](https://github.com/NurmaU/incredible_pytorch)
+### Tensorflow 
+> jtoy propose a github page with lot of ressources, models, tutorials, books etc. on tensorflow
+- [jtoy](https://github.com/jtoy/awesome-tensorflow)
+> Ritchie Ng has began a github for TensorFlow 2
+- [Ritchie Ng](https://github.com/ritchieng/the-incredible-tensorflow)
+### Quantum Computing
+
+### Blogs AI 
+
+- [Lil'Log](https://lilianweng.github.io/lil-log/) 
+
+
+### People to follow 
+
+
+### Courses 
 
 
 
 
 
+## Contributions
+Your contributions are always welcome!
 
-
-
+If you want to contribute to this list (please do), send me a pull request or contact me [@chris](twitter.com/Christo35427519) or [chris](linkedin.com/in/phdchristophepere)
