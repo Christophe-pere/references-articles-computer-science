@@ -44,6 +44,8 @@
 ### Machine Learning
 
 ### Deep Learning
+> terryum has a github page with the most important papers until 2016 (the repo isn't maintained) 
+- [Deep Learning papers, terryum](https://github.com/terryum/awesome-deep-learning-papers)
 
 ### Reinforcement Learning
 > Open AI maintained a web page with the most import paper in RL 
@@ -65,7 +67,7 @@
 
 
 ### PyTorch
-> Here a list a lot of ressources on PyTorch
+> Here a list a lot of github ressources on PyTorch, each repo contains an impressive collection of tutorials, books, papers etc. 
 - [Ritchie Ng](https://github.com/ritchieng/the-incredible-pytorch)
 - [bharathgs](https://github.com/bharathgs/Awesome-pytorch-list)
 - [gwding](https://github.com/gwding/the-incredible-pytorch)
@@ -118,19 +120,28 @@
 - [Element AI](https://www.elementai.com/news)
 - [Cambridge Maths Blog](https://www.cambridgemaths.org/blogs/)
 
+### List of most cited researchers
+- [Machine Learning](https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label%3Amachine_learning&btnG=)
+- [Deep Learning](https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:deep_learning&before_author=JEO1_xc5AQAJ&astart=0)
+- [Reinforcement Learning](https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label%3Areinforcement_learning&btnG=)
+- [Artificial Intelligence](https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label%3Aai&btnG=)
+
 ### People to follow 
 
-- [Aaron Courville](https://arxiv.org/search/?searchtype=author&query=Courville%2C+A)
-- [Christopher D. Manning](https://arxiv.org/search/?searchtype=author&query=Manning%2C+C+D)
-- [Doina-Precup](https://arxiv.org/search/?searchtype=author&query=Precup%2C+D)
-- [François Chollet](https://arxiv.org/search/?searchtype=author&query=Chollet%2C+F)
-- [Geoffrey Hinton](https://arxiv.org/search/?searchtype=author&query=Hinton%2C+G)
-- [Hugo Larochelle](https://arxiv.org/search/?searchtype=author&query=Larochelle%2C+H)
-- [Ian Googfellow](https://arxiv.org/search/?searchtype=author&query=Goodfellow%2C+I)
-- [Oriol Vinyals](https://arxiv.org/search/?searchtype=author&query=Vinyals%2C+O)
-- [Sebastian Ruder](https://arxiv.org/search/?searchtype=author&query=Ruder%2C+S)
-- [Yann LeCun](https://arxiv.org/search/?searchtype=author&query=LeCun%2C+Y)
-- [Yoshua Bengio](https://arxiv.org/search/?searchtype=author&query=Bengio%2C+Y)
+- [Aaron Courville, arxiv](https://arxiv.org/search/?searchtype=author&query=Courville%2C+A) [Aaron Courville, scholar google](https://scholar.google.com/citations?hl=en&user=km6CP8cAAAAJ)
+- [Andrew Barto, scholar google](https://scholar.google.com/citations?hl=en&user=CMIgrCgAAAAJ)
+- [Andrew Ng, arxiv](https://arxiv.org/search/?searchtype=author&query=Ng%2C+A+Y) [Andrew Ng, scholar google](https://scholar.google.com/citations?hl=en&user=mG4imMEAAAAJ)
+- [Christopher D. Manning, arxiv](https://arxiv.org/search/?searchtype=author&query=Manning%2C+C+D) [Christopher D. Manning, scholar google](https://scholar.google.com/citations?hl=en&user=1zmDOdwAAAAJ)
+- [Doina Precup, arxiv](https://arxiv.org/search/?searchtype=author&query=Precup%2C+D) [Doina Precup, scholar google](https://scholar.google.com/citations?hl=en&user=j54VcVEAAAAJ)
+- [François Chollet, arxiv](https://arxiv.org/search/?searchtype=author&query=Chollet%2C+F) [François Chollet, scholar google](https://scholar.google.com/citations?hl=en&user=VfYhf2wAAAAJ)
+- [Geoffrey Hinton, arxiv](https://arxiv.org/search/?searchtype=author&query=Hinton%2C+G) [Geoffrey Hinton, scholar google](https://scholar.google.com/citations?hl=en&user=JicYPdAAAAAJ)
+- [Hugo Larochelle, arxiv](https://arxiv.org/search/?searchtype=author&query=Larochelle%2C+H) [Hugo Larochelle, scholar google](https://scholar.google.com/citations?hl=en&user=U89FHq4AAAAJ)
+- [Ian Googfellow, arxiv](https://arxiv.org/search/?searchtype=author&query=Goodfellow%2C+I) [Ian Goodfellow, scholar google](https://scholar.google.com/citations?hl=en&user=iYN86KEAAAAJ)
+- [Oriol Vinyals, arxiv](https://arxiv.org/search/?searchtype=author&query=Vinyals%2C+O) [Oriol Vinyals, scholar google](https://scholar.google.com/citations?hl=en&user=NkzyCvUAAAAJ)
+- [Richard S. Sutton, arxiv](https://arxiv.org/search/?searchtype=author&query=Sutton%2C+R+S) [Richard S. Sutton, scholar google](https://scholar.google.com/citations?hl=en&user=6m4wv6gAAAAJ)
+- [Sebastian Ruder, arxiv](https://arxiv.org/search/?searchtype=author&query=Ruder%2C+S) [Sebastian Ruder, scholar google](https://scholar.google.com/citations?hl=en&user=8ONXPV8AAAAJ)
+- [Yann LeCun, arxiv](https://arxiv.org/search/?searchtype=author&query=LeCun%2C+Y) [Yann LeCun, scholar google](https://scholar.google.com/citations?hl=en&user=WLN3QrAAAAAJ)
+- [Yoshua Bengio, arxiv](https://arxiv.org/search/?searchtype=author&query=Bengio%2C+Y) [Yoshua Bengio, scholar google](https://scholar.google.com/citations?hl=en&user=kukA0LcAAAAJ)
 
 
 ### Courses 
