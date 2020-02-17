@@ -56,9 +56,12 @@
 
 ---
 ## Ressources
-### ML research guide 
+### Research guide 
 > The two references inside the article are very interesting
 - [An Opinionated Guide to ML Research, John Schulman](http://joschu.net/blog/opinionated-guide-ml-research.html)
+- [How to Be a Researcher - 2nd Edition, Jonathan St B. T. Evans 2015](https://www.amazon.com/How-Be-Researcher-Jonathan-Evans-dp-1138917311/dp/1138917311/ref=mt_paperback?_encoding=UTF8&me=&qid=)
+- [How to write and publish your research](https://www.rndtoday.co.uk/resource/how-to-write-and-publish-your-research/)
+
 ### PyTorch
 > Here a list a lot of ressources on PyTorch
 - [Ritchie Ng](https://github.com/ritchieng/the-incredible-pytorch)
@@ -66,24 +69,55 @@
 - [gwding](https://github.com/gwding/the-incredible-pytorch)
 - [jekbradbury](https://github.com/jekbradbury/the-incredible-pytorch)
 - [NurmaU](https://github.com/NurmaU/incredible_pytorch)
+
 ### Tensorflow 
 > jtoy propose a github page with lot of ressources, models, tutorials, books etc. on tensorflow
 - [jtoy](https://github.com/jtoy/awesome-tensorflow)
 > Ritchie Ng has began a github for TensorFlow 2
 - [Ritchie Ng](https://github.com/ritchieng/the-incredible-tensorflow)
+
 ### Quantum Computing
+- [Micheal Nielsen ](https://quantum.country/)
+- [Pennylane, Xanadu](https://github.com/XanaduAI/pennylane)
+- [Qiskit, IBM Resaerch](https://qiskit.org/textbook/ch-prerequisites/qiskit.html)[source code](https://github.com/Qiskit/qiskit-textbook)
+- [D-Wave Tutorials on Quantum Annealing](https://www.dwavesys.com/resources/tutorials)
 
-### Blogs AI 
+### Sites for articles
+- [ArXiv](https://arxiv.org/)
+- [Paper With Codes](https://paperswithcode.com/)
+- [Google.ai](https://research.google/pubs/)
+- [Facebook](https://research.fb.com/publications/?cat=4)
+- [DeepAI Research](https://deepai.org/research)
 
+### Blogs 
+- [Medium](https://medium.com/)
 - [Lil'Log](https://lilianweng.github.io/lil-log/) 
-
+- [A free introduction to quantum computing and quantum mechanics, Andy Matuschak & Micheal Nielsen](https://quantum.country/)
+- [Musty Thoughts, Michał Stęchły](https://www.mustythoughts.com/)
+- [Ypshua Bengio Blog](https://yoshuabengio.org/)
+- [Christopher Colah](https://colah.github.io/)
+- [Sebastian Ruder Blog](https://ruder.io/)
+- [Distill - ML explanations](https://distill.pub/)
+- [DeepAI](https://deepai.org/)
+- [Open AI](https://openai.com/)
+- [Microsoft Research](https://www.microsoft.com/en-us/research/)
+- [Microsoft](https://blogs.microsoft.com/)
+- [Facebook](https://ai.facebook.com/)
+- [DeepMind](https://deepmind.com/research)
+- [Fast.ai](http://nlp.fast.ai/)
+- [Google AI blog](https://ai.googleblog.com/)
+- [Apple](https://machinelearning.apple.com/)
+- [Amazon](https://www.amazon.science/)
+- [Element AI](https://www.elementai.com/news)
+- [Cambridge Maths Blog](https://www.cambridgemaths.org/blogs/)
 
 ### People to follow 
 
 
 ### Courses 
 
-
+- [Quantum Machine Learning, edx](https://www.edx.org/course/quantum-machine-learning)
+### AI communities
 
 
 
