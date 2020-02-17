@@ -101,7 +101,7 @@
 - [Lil'Log](https://lilianweng.github.io/lil-log/) 
 - [A free introduction to quantum computing and quantum mechanics, Andy Matuschak & Micheal Nielsen](https://quantum.country/)
 - [Musty Thoughts, Michał Stęchły](https://www.mustythoughts.com/)
-- [Ypshua Bengio Blog](https://yoshuabengio.org/)
+- [Yoshua Bengio Blog](https://yoshuabengio.org/)
 - [Christopher Colah](https://colah.github.io/)
 - [Sebastian Ruder Blog](https://ruder.io/)
 - [Distill - ML explanations](https://distill.pub/)
