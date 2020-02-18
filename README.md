@@ -128,20 +128,20 @@
 
 ### People to follow 
 
-- [Aaron Courville, arxiv](https://arxiv.org/search/?searchtype=author&query=Courville%2C+A) [Aaron Courville, scholar google](https://scholar.google.com/citations?hl=en&user=km6CP8cAAAAJ)
+- [Aaron Courville, arxiv](https://arxiv.org/search/?searchtype=author&query=Courville%2C+A) or [Aaron Courville, scholar google](https://scholar.google.com/citations?hl=en&user=km6CP8cAAAAJ)
 - [Andrew Barto, scholar google](https://scholar.google.com/citations?hl=en&user=CMIgrCgAAAAJ)
-- [Andrew Ng, arxiv](https://arxiv.org/search/?searchtype=author&query=Ng%2C+A+Y) [Andrew Ng, scholar google](https://scholar.google.com/citations?hl=en&user=mG4imMEAAAAJ)
-- [Christopher D. Manning, arxiv](https://arxiv.org/search/?searchtype=author&query=Manning%2C+C+D) [Christopher D. Manning, scholar google](https://scholar.google.com/citations?hl=en&user=1zmDOdwAAAAJ)
-- [Doina Precup, arxiv](https://arxiv.org/search/?searchtype=author&query=Precup%2C+D) [Doina Precup, scholar google](https://scholar.google.com/citations?hl=en&user=j54VcVEAAAAJ)
-- [François Chollet, arxiv](https://arxiv.org/search/?searchtype=author&query=Chollet%2C+F) [François Chollet, scholar google](https://scholar.google.com/citations?hl=en&user=VfYhf2wAAAAJ)
-- [Geoffrey Hinton, arxiv](https://arxiv.org/search/?searchtype=author&query=Hinton%2C+G) [Geoffrey Hinton, scholar google](https://scholar.google.com/citations?hl=en&user=JicYPdAAAAAJ)
-- [Hugo Larochelle, arxiv](https://arxiv.org/search/?searchtype=author&query=Larochelle%2C+H) [Hugo Larochelle, scholar google](https://scholar.google.com/citations?hl=en&user=U89FHq4AAAAJ)
-- [Ian Googfellow, arxiv](https://arxiv.org/search/?searchtype=author&query=Goodfellow%2C+I) [Ian Goodfellow, scholar google](https://scholar.google.com/citations?hl=en&user=iYN86KEAAAAJ)
-- [Oriol Vinyals, arxiv](https://arxiv.org/search/?searchtype=author&query=Vinyals%2C+O) [Oriol Vinyals, scholar google](https://scholar.google.com/citations?hl=en&user=NkzyCvUAAAAJ)
-- [Richard S. Sutton, arxiv](https://arxiv.org/search/?searchtype=author&query=Sutton%2C+R+S) [Richard S. Sutton, scholar google](https://scholar.google.com/citations?hl=en&user=6m4wv6gAAAAJ)
-- [Sebastian Ruder, arxiv](https://arxiv.org/search/?searchtype=author&query=Ruder%2C+S) [Sebastian Ruder, scholar google](https://scholar.google.com/citations?hl=en&user=8ONXPV8AAAAJ)
-- [Yann LeCun, arxiv](https://arxiv.org/search/?searchtype=author&query=LeCun%2C+Y) [Yann LeCun, scholar google](https://scholar.google.com/citations?hl=en&user=WLN3QrAAAAAJ)
-- [Yoshua Bengio, arxiv](https://arxiv.org/search/?searchtype=author&query=Bengio%2C+Y) [Yoshua Bengio, scholar google](https://scholar.google.com/citations?hl=en&user=kukA0LcAAAAJ)
+- [Andrew Ng, arxiv](https://arxiv.org/search/?searchtype=author&query=Ng%2C+A+Y) or [Andrew Ng, scholar google](https://scholar.google.com/citations?hl=en&user=mG4imMEAAAAJ)
+- [Christopher D. Manning, arxiv](https://arxiv.org/search/?searchtype=author&query=Manning%2C+C+D) or  [Christopher D. Manning, scholar google](https://scholar.google.com/citations?hl=en&user=1zmDOdwAAAAJ)
+- [Doina Precup, arxiv](https://arxiv.org/search/?searchtype=author&query=Precup%2C+D) or [Doina Precup, scholar google](https://scholar.google.com/citations?hl=en&user=j54VcVEAAAAJ)
+- [François Chollet, arxiv](https://arxiv.org/search/?searchtype=author&query=Chollet%2C+F) or [François Chollet, scholar google](https://scholar.google.com/citations?hl=en&user=VfYhf2wAAAAJ)
+- [Geoffrey Hinton, arxiv](https://arxiv.org/search/?searchtype=author&query=Hinton%2C+G) or [Geoffrey Hinton, scholar google](https://scholar.google.com/citations?hl=en&user=JicYPdAAAAAJ)
+- [Hugo Larochelle, arxiv](https://arxiv.org/search/?searchtype=author&query=Larochelle%2C+H) or [Hugo Larochelle, scholar google](https://scholar.google.com/citations?hl=en&user=U89FHq4AAAAJ)
+- [Ian Googfellow, arxiv](https://arxiv.org/search/?searchtype=author&query=Goodfellow%2C+I) or [Ian Goodfellow, scholar google](https://scholar.google.com/citations?hl=en&user=iYN86KEAAAAJ)
+- [Oriol Vinyals, arxiv](https://arxiv.org/search/?searchtype=author&query=Vinyals%2C+O) or [Oriol Vinyals, scholar google](https://scholar.google.com/citations?hl=en&user=NkzyCvUAAAAJ)
+- [Richard S. Sutton, arxiv](https://arxiv.org/search/?searchtype=author&query=Sutton%2C+R+S) or [Richard S. Sutton, scholar google](https://scholar.google.com/citations?hl=en&user=6m4wv6gAAAAJ)
+- [Sebastian Ruder, arxiv](https://arxiv.org/search/?searchtype=author&query=Ruder%2C+S) or [Sebastian Ruder, scholar google](https://scholar.google.com/citations?hl=en&user=8ONXPV8AAAAJ)
+- [Yann LeCun, arxiv](https://arxiv.org/search/?searchtype=author&query=LeCun%2C+Y) or [Yann LeCun, scholar google](https://scholar.google.com/citations?hl=en&user=WLN3QrAAAAAJ)
+- [Yoshua Bengio, arxiv](https://arxiv.org/search/?searchtype=author&query=Bengio%2C+Y) or [Yoshua Bengio, scholar google](https://scholar.google.com/citations?hl=en&user=kukA0LcAAAAJ)
 
 
 ### Courses 
