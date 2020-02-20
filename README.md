@@ -70,6 +70,8 @@
 
 
 ### PyTorch
+> Orinigal tutorials on pyTorch
+- [PyTorch](https://pytorch.org/tutorials/)
 > Here a list a lot of github ressources on PyTorch, each repo contains an impressive collection of tutorials, books, papers etc. 
 - [Ritchie Ng](https://github.com/ritchieng/the-incredible-pytorch)
 - [bharathgs](https://github.com/bharathgs/Awesome-pytorch-list)
@@ -79,6 +81,8 @@
 - [Deep Learning With PyTorch](https://pytorch.org/deep-learning-with-pytorch)
 
 ### Tensorflow 
+> Original tensorflow documentation and turorial 
+- [Tensroflow 2.x](https://www.tensorflow.org/tutorials)
 > jtoy propose a github page with lot of ressources, models, tutorials, books etc. on tensorflow
 - [jtoy](https://github.com/jtoy/awesome-tensorflow)
 > Ritchie Ng has began a github for TensorFlow 2
