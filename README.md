@@ -20,6 +20,9 @@
 
 ## Textbooks
 
+### Artificial Intelligence
+- [Artificial Intelligence: A Modern Approach, 4th edition, Stuart Russell & Peter Norvig](https://www.amazon.com/Artificial-Intelligence-A-Modern-Approach/dp/0134610997)
+
 ### Machine Learning
 - [Introduction to machine learning with Python: A Guide for Data Scientists, Andreas C. Müller & Sarah Guido, 2016](https://www.amazon.ca/Introduction-Machine-Learning-Python-Scientists/dp/1449369413/ref=asc_df_1449369413/?tag=googleshopc0c-20&linkCode=df0&hvadid=292901695602&hvpos=&hvnetw=g&hvrand=17038007849797717881&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9061026&hvtargid=pla-423142395481&psc=1)
 - [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems - 2nd edition, Aurélien Géron, 2019](https://www.amazon.ca/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646/ref=asc_df_1492032646/?tag=googleshopc0c-20&linkCode=df0&hvadid=335305582969&hvpos=1o1&hvnetw=g&hvrand=17038007849797717881&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9061026&hvtargid=pla-523968811896&psc=1)
