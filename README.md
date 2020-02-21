@@ -37,6 +37,8 @@
 - [Quantum Computation and Quantum Information - 10th Anniversary Edition, Michael A. Nielsen & Isaac L. CHuang, 2010](https://www.amazon.ca/Quantum-Computation-Information-10th-Anniversary/dp/1107002176/ref=sr_1_2?keywords=quantum+information+and+quantum+computing&qid=1581965920&s=books&sr=1-2)
 - [Dancing with Qubits: How quantum computing works and how it can change the world, Robert S. Sutor, 2019](https://www.amazon.ca/Dancing-Qubits-quantum-computing-change/dp/1838827366/ref=sr_1_1?keywords=dancing+with+qubits&qid=1581965988&s=books&sr=1-1)
 - [Quantum Computing: An Applied Approach, Jack D. Hilary, 2019](https://www.amazon.ca/Quantum-Computing-Approach-Jack-Hidary/dp/3030239217/ref=sr_1_1?keywords=quantum+information+and+quantum+computing&qid=1581965920&s=books&sr=1-1)
+### Mathematics for Machine Learning
+- [Mathematics for Machine Learning](https://mml-book.github.io/book/mml-book.pdf)
 ### Additional
 - [Dance of the Photons: From Einstein to Quantum Teleportation, Anton Zeilinger, 2010](https://www.amazon.co.uk/Dance-Photons-Einstein-Quantum-Teleportation/dp/0374239665/ref=sr_1_1?s=books&ie=UTF8&qid=1524589007&sr=1-1&keywords=dance+of+the+photons)
 - [Quantum Mechanics: The Theoretical Minimum (Theoretical Minimum 2), Leonard Susskind & Art Friedman, 2014](https://www.amazon.co.uk/Quantum-Mechanics-Theoretical-Art-Friedman/dp/0465036678/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1524588975&sr=1-1)
@@ -55,8 +57,13 @@
 - [Open AI spinningup](https://spinningup.openai.com/en/latest/spinningup/keypapers.html)
 
 ---
-## Documentations
+## Posts and thesis 
+### Blogs posts
 
+
+### Thesis
+- [Evolutionary principles in self-referential learning, or on learning how to learn,  J.  Schmidhuber, 1987](http://people.idsia.ch/~juergen/diploma1987ocr.pdf)
+- [Rational Approaches to Learning and Development, Celeste Kidd, 2013](https://www.celestekidd.com/papers/KiddDissertationMay2013.pdf)
 
 
 ---
@@ -82,7 +89,7 @@
 
 ### Tensorflow 
 > Original tensorflow documentation and turorial 
-- [Tensroflow 2.x](https://www.tensorflow.org/tutorials)
+- [Tensorflow 2.x](https://www.tensorflow.org/tutorials)
 > jtoy propose a github page with lot of ressources, models, tutorials, books etc. on tensorflow
 - [jtoy](https://github.com/jtoy/awesome-tensorflow)
 > Ritchie Ng has began a github for TensorFlow 2
