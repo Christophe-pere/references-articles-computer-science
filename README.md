@@ -39,6 +39,7 @@
 - [Quantum Computing: An Applied Approach, Jack D. Hilary, 2019](https://www.amazon.ca/Quantum-Computing-Approach-Jack-Hidary/dp/3030239217/ref=sr_1_1?keywords=quantum+information+and+quantum+computing&qid=1581965920&s=books&sr=1-1)
 ### Mathematics for Machine Learning
 - [Mathematics for Machine Learning](https://mml-book.github.io/book/mml-book.pdf)
+- [Math for Scientists Refreshing the Essentials, Maurits Natasha & Ćurčić-Blake Branislava, 2017](https://www.springer.com/gp/book/9783319573533)
 ### Additional
 - [Dance of the Photons: From Einstein to Quantum Teleportation, Anton Zeilinger, 2010](https://www.amazon.co.uk/Dance-Photons-Einstein-Quantum-Teleportation/dp/0374239665/ref=sr_1_1?s=books&ie=UTF8&qid=1524589007&sr=1-1&keywords=dance+of+the+photons)
 - [Quantum Mechanics: The Theoretical Minimum (Theoretical Minimum 2), Leonard Susskind & Art Friedman, 2014](https://www.amazon.co.uk/Quantum-Mechanics-Theoretical-Art-Friedman/dp/0465036678/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1524588975&sr=1-1)
@@ -159,10 +160,24 @@
 
 
 ### Courses 
-
+### MOOCs
 - [Quantum Machine Learning, edx](https://www.edx.org/course/quantum-machine-learning)
+- [Machine Learning, Coursera, Andrew Ng](https://www.coursera.org/learn/machine-learning#syllabus)
+### Youtube
+- [Machine Learning](https://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA)
+- [Machine Learning, Stanford, Andrew Ng](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
+- [Stanford CS231n, 2016](https://www.youtube.com/watch?list=PLlJy-eBtNFt6EuMxFYRiNRS07MCWN5UIA&v=g-PvXUjD6qg)
+- [Deep Learning, Stanford, 2018](https://www.youtube.com/watch?v=PySo_6S4ZAg&list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb)
+- [CS224N: Natural Language Processing with Deep Learning | Winter 2019](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
+- [Reinforcement Learning, Stanford, 2019](https://www.youtube.com/watch?v=FgzM3zpZ55o&list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
+- [Introduction to Reinforcement Learning, DeepMind](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
+- [Advanced Deep Learing and Reinforcement learning, DeepMind](https://www.youtube.com/watch?v=iOh7QUZGyiU&list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
+- [Sentdex](https://www.youtube.com/user/sentdex)
+### Sites
+- [Practical Deep Learning for Coders, v3](https://course.fast.ai/index.html)
 ### AI communities
-
+- [AI Dreams](https://aidreams.co.uk/)
+- [Forum for Artificial Intelligence](https://www.cs.utexas.edu/~ai-lab/fai/) 
 
 
 ## Contributions
