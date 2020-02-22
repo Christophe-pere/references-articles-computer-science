@@ -84,28 +84,34 @@
 ### Artificial Intelligence
 - [On the Measure of intelligence, François Chollet, 2019](https://arxiv.org/pdf/1911.01547.pdf)
 - [The Next Decade in AI: Four Steps Towards Robust Artificial Intelligence, Gary Marcus, 2020](https://arxiv.org/pdf/2002.06177v3)
+> In progress...
 
 ### Machine Learning
+> In progress...
 
 ### Deep Learning
 > terryum has a github page with the most important papers until 2016 (the repo isn't maintained) 
 - [Deep Learning papers, terryum](https://github.com/terryum/awesome-deep-learning-papers)
+> In progress...
 
 ### Reinforcement Learning
 > Open AI maintained a web page with the most import paper in RL 
 - [Open AI spinningup](https://spinningup.openai.com/en/latest/spinningup/keypapers.html)
+> In progress...
 
 ### Quantum Computing
+> In progress...
 
 ---
 ## Posts and thesis 
 ### Blogs posts
+> In progress...
 
 
 ### Thesis
 - [Evolutionary principles in self-referential learning, or on learning how to learn,  J.  Schmidhuber, 1987](http://people.idsia.ch/~juergen/diploma1987ocr.pdf)
 - [Rational Approaches to Learning and Development, Celeste Kidd, 2013](https://www.celestekidd.com/papers/KiddDissertationMay2013.pdf)
-
+> In progress...
 
 ---
 ## Ressources
@@ -115,7 +121,6 @@
 - [How to Be a Researcher - 2nd Edition, Jonathan St B. T. Evans 2015](https://www.amazon.com/How-Be-Researcher-Jonathan-Evans-dp-1138917311/dp/1138917311/ref=mt_paperback?_encoding=UTF8&me=&qid=)
 - [How to write and publish your research](https://www.rndtoday.co.uk/resource/how-to-write-and-publish-your-research/)
 - [How to write a research paper, Science Direct](https://www.sciencedirect.com/science/article/abs/pii/S1878764915001606)
-
 
 ### PyTorch
 > Orinigal tutorials on pyTorch
@@ -150,9 +155,11 @@
 - [Google.ai](https://research.google/pubs/)
 - [Facebook](https://research.fb.com/publications/?cat=4)
 - [DeepAI Research](https://deepai.org/research)
+> In progress...
 
 ### NLP 
 - [NLP-progress, Sebastian Ruder](https://github.com/sebastianruder/NLP-progress)
+> In progress...
 
 ### Blogs 
 - [Medium](https://medium.com/)
@@ -220,7 +227,7 @@
 - [Terrence Sejnowski, scholar google](https://scholar.google.com/citations?hl=en&user=m1qAiOUAAAAJ)
 - [Yann LeCun, arxiv](https://arxiv.org/search/?searchtype=author&query=LeCun%2C+Y) or [Yann LeCun, scholar google](https://scholar.google.com/citations?hl=en&user=WLN3QrAAAAAJ)
 - [Yoshua Bengio, arxiv](https://arxiv.org/search/?searchtype=author&query=Bengio%2C+Y) or [Yoshua Bengio, scholar google](https://scholar.google.com/citations?hl=en&user=kukA0LcAAAAJ)
-
+> In progress...
 
 ### Courses 
 #### MOOCs
@@ -230,6 +237,7 @@
 - [Deep Learning Specialization, Coursera](https://www.coursera.org/specializations/deep-learning)
 - [Deep Reinforcement Learning, Berkeley](http://rail.eecs.berkeley.edu/deeprlcourse/)
 - [Rinforcement Learning, UCL](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
+> In progress...
 
 #### Youtube
 - [Machine Learning](https://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA)
@@ -242,18 +250,22 @@
 - [Advanced Deep Learing and Reinforcement learning, DeepMind](https://www.youtube.com/watch?v=iOh7QUZGyiU&list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
 - [Sentdex](https://www.youtube.com/user/sentdex)
 - [Machine Learning, Josh Gordon](https://www.youtube.com/playlist?reload=9&list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal) 
+> In progress...
 
 ### Sites
 - [Practical Deep Learning for Coders, v3](https://course.fast.ai/index.html)
 - [Machine Learning Mastery, Jason Brownlee](https://machinelearningmastery.com/blog/)
 - [Towards Data Science, Medium](https://towardsdatascience.com/)
 - [A.I. Wiki, Pathmind](https://pathmind.com/wiki/)
+> In progress...
 
 ### AI communities
 - [AI Dreams](https://aidreams.co.uk/)
 - [Forum for Artificial Intelligence](https://www.cs.utexas.edu/~ai-lab/fai/) 
 - [AI, Reddit](https://www.reddit.com/r/artificial/)
+> In progress...
 
+---
 ## Contribution
 Your contributions are always welcome!
 
