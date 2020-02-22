@@ -9,19 +9,36 @@
 
 
 - [Textbooks](#textbooks)
-	- [Artificial intelligence](#artificialintelligence)
-	- [Machine Learning](#machinelearning)
-	- [Deep Learning](#deeplearning)
-	- [Reinfrocement Learning](#reinforcementlearning)
-	- [Mathematics for Machine Learning](#mathematicsformachinelearning)
-	- [Additional books](#additionalbooks)
+	- [Artificial intelligence](#artificial-intelligence)
+	- [Machine Learning](#machine-learning)
+	- [Deep Learning](#deep-learning)
+	- [Reinfrocement Learning](#reinforcement-learning)
+	- [Mathematics for Machine Learning](#mathematics-for-machine-learning)
+	- [Additional books](#additional-books)
 - [Articles](#articles)
-- [Machine learning](#machinelearning)
-- [Deep Learning](#deeplearning)
-- [Reinforcement Learning](#reinforcementlearning)
-- [Documentation](#documentation)
+	- [Artificial intelligence](#artificial-intelligence)
+	- [Machine Learning](#machine-learning)
+	- [Deep Learning](#deep-learning)
+	- [Reinfrocement Learning](#reinforcement-learning)
+- [Posts and thesis](#posts-and-thesis)
+	- [Blog posts](#blog-posts)
+	- [Thesis](#thesis)
 - [Ressources](#ressources)
-
+	- [Research Guide](#research-guide)
+	- [PyTorch](#pytorch)
+	- [Tensorflow](#tensorflow)
+	- [Quantum Computing](#quantum-computing)
+	- [Sites for articles](#Sites-for-articles)
+	- [NLP](#nlp)
+	- [Blogs](#blogs)
+	- [List of most cited researchers](#list-of-most-cited-researchers)
+	- [People to follow](#people-to-follow)
+	- [Courses](#courses)
+		- [MOOCs](#moocs)
+		- [YouTube](#youtube)
+	- [Sites](#sites)
+	- [AI Communities](#ai-communities)
+- [Contribution](#contribution)
 ---
 
 ## Textbooks
@@ -53,6 +70,9 @@
 ---
 
 ## Articles
+### Artificial Intelligence
+- [On the Measure of intelligence, François Chollet, 2019](https://arxiv.org/pdf/1911.01547.pdf)
+
 ### Machine Learning
 
 ### Deep Learning
