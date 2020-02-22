@@ -97,7 +97,15 @@
 ### Reinforcement Learning
 > Open AI maintained a web page with the most import paper in RL 
 - [Open AI spinningup](https://spinningup.openai.com/en/latest/spinningup/keypapers.html)
-> In progress...
+
+> A short list 
+- [Playing Atari with Deep Reinforcement Learning, Mnih et al, 2013](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)
+- [Deep Recurrent Q-Learning for Partially Observable MDPs, Hausknecht and Stone, 2015](https://arxiv.org/pdf/1507.06527)
+- [Deep Reinforcement Learning with Double Q-learning, Hasselt et al 2015](https://arxiv.org/pdf/1509.06461)
+- [Prioritized Experience Replay, Schaul et al, 2015](https://arxiv.org/pdf/1511.05952)
+- [Dueling Network Architectures for Deep Reinforcement Learning, Wang et al, 2015](https://arxiv.org/abs/1511.06581)
+- [Rainbow: Combining Improvements in Deep Reinforcement Learning, Hessel et al, 2017](https://arxiv.org/pdf/1710.02298)
+- [Grandmaster level in StarCraft II using multi-agent reinforcement learning, Oriol Vinyals et al, 2019](https://www.nature.com/articles/s41586-019-1724-z.epdf?author_access_token=lZH3nqPYtWJXfDA10W0CNNRgN0jAjWel9jnR3ZoTv0PSZcPzJFGNAZhOlk4deBCKzKm70KfinloafEF1bCCXL6IIHHgKaDkaTkBcTEv7aT-wqDoG1VeO9-wO3GEoAMF9bAOt7mJ0RWQnRVMbyfgH9A%3D%3D)
 
 ### Quantum Computing
 > In progress...
