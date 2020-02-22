@@ -13,13 +13,16 @@
 	- [Machine Learning](#machine-learning)
 	- [Deep Learning](#deep-learning)
 	- [Reinfrocement Learning](#reinforcement-learning)
+	- [Quantum Computing](#quantum-computing)
 	- [Mathematics for Machine Learning](#mathematics-for-machine-learning)
+	- [Causality](#causality)
 	- [Additional books](#additional-books)
 - [Articles](#articles)
 	- [Artificial intelligence](#artificial-intelligence)
 	- [Machine Learning](#machine-learning)
 	- [Deep Learning](#deep-learning)
 	- [Reinfrocement Learning](#reinforcement-learning)
+	- [Quantum Computing](#quantum-computing)
 - [Posts and thesis](#posts-and-thesis)
 	- [Blog posts](#blog-posts)
 	- [Thesis](#thesis)
@@ -63,16 +66,24 @@
 ### Mathematics for Machine Learning
 - [Mathematics for Machine Learning](https://mml-book.github.io/book/mml-book.pdf)
 - [Math for Scientists Refreshing the Essentials, Maurits Natasha & Ćurčić-Blake Branislava, 2017](https://www.springer.com/gp/book/9783319573533)
+### Causality
+- [The Book Of Why, Judea Pearl, 2018](https://www.amazon.ca/s?k=the+book+of+why&gclid=Cj0KCQiAnL7yBRD3ARIsAJp_oLZvL4ri7zRq9iKm6wyCwOFg58aKVxCf4Z7qFcTT2e6M_goUr8nEhfIaAnhVEALw_wcB&hvadid=231052835689&hvdev=c&hvlocphy=9061026&hvnetw=g&hvqmt=e&hvrand=14158692902202346976&hvtargid=kwd-300942500351&hydadcr=23340_10308593&tag=googcana-20&ref=pd_sl_78ok7l002g_e)
+
 ### Additional Books
 - [Dance of the Photons: From Einstein to Quantum Teleportation, Anton Zeilinger, 2010](https://www.amazon.co.uk/Dance-Photons-Einstein-Quantum-Teleportation/dp/0374239665/ref=sr_1_1?s=books&ie=UTF8&qid=1524589007&sr=1-1&keywords=dance+of+the+photons)
 - [Quantum Mechanics: The Theoretical Minimum (Theoretical Minimum 2), Leonard Susskind & Art Friedman, 2014](https://www.amazon.co.uk/Quantum-Mechanics-Theoretical-Art-Friedman/dp/0465036678/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1524588975&sr=1-1)
 - [Hands-On Neuroevolution with Python, Iaroslav Omelianenko, 2019](https://www.packtpub.com/data/hands-on-neuroevolution-with-python)
+- [Algorithms for Reinforcement Learning, Csaba Szepesvári, 2010](https://sites.ualberta.ca/~szepesva/RLBook.html)
+- [Markov Decision Processes: Discrete Stochastic Dynamic Programming, Martin L. Puterman, 2005](https://www.wiley.com/en-us/Markov+Decision+Processes%3A+Discrete+Stochastic+Dynamic+Programming-p-9780471727828)
+- [Dynamic Programming and Optimal Control Vol I-II, Dimitri P. Bertsekas, 2012-2017](http://www.athenasc.com/dpbook.html)
+- [Approximate Dynamic Programming Solving the curses of dimensionality, Warren B. Powell, 2015](http://adp.princeton.edu/)
 
 ---
 
 ## Articles
 ### Artificial Intelligence
 - [On the Measure of intelligence, François Chollet, 2019](https://arxiv.org/pdf/1911.01547.pdf)
+- [The Next Decade in AI: Four Steps Towards Robust Artificial Intelligence, Gary Marcus, 2020](https://arxiv.org/pdf/2002.06177v3)
 
 ### Machine Learning
 
@@ -83,6 +94,8 @@
 ### Reinforcement Learning
 > Open AI maintained a web page with the most import paper in RL 
 - [Open AI spinningup](https://spinningup.openai.com/en/latest/spinningup/keypapers.html)
+
+### Quantum Computing
 
 ---
 ## Posts and thesis 
@@ -191,15 +204,19 @@
 - [Daphne Koller, scholar google](http://ai.stanford.edu/users/koller/)
 - [Doina Precup, arxiv](https://arxiv.org/search/?searchtype=author&query=Precup%2C+D) or [Doina Precup, scholar google](https://scholar.google.com/citations?hl=en&user=j54VcVEAAAAJ)
 - [François Chollet, arxiv](https://arxiv.org/search/?searchtype=author&query=Chollet%2C+F) or [François Chollet, scholar google](https://scholar.google.com/citations?hl=en&user=VfYhf2wAAAAJ)
+- [Gary Marcus](https://dblp.org/pers/m/Marcus:Gary.html)
 - [Geoffrey Hinton, arxiv](https://arxiv.org/search/?searchtype=author&query=Hinton%2C+G) or [Geoffrey Hinton, scholar google](https://scholar.google.com/citations?hl=en&user=JicYPdAAAAAJ)
 - [Hugo Larochelle, arxiv](https://arxiv.org/search/?searchtype=author&query=Larochelle%2C+H) or [Hugo Larochelle, scholar google](https://scholar.google.com/citations?hl=en&user=U89FHq4AAAAJ)
 - [Ian Googfellow, arxiv](https://arxiv.org/search/?searchtype=author&query=Goodfellow%2C+I) or [Ian Goodfellow, scholar google](https://scholar.google.com/citations?hl=en&user=iYN86KEAAAAJ)
+- [Judea Pearl, scholar google](https://scholar.google.com/citations?hl=en&user=bAipNH8AAAAJ)
 - [Jürgen Schmidhuber, scholar google](https://scholar.google.com/citations?hl=en&user=gLnCTgIAAAAJ)
 - [Michael I. Jordan, scholar google](https://scholar.google.com/citations?hl=en&user=nzEluBwAAAAJ)
 - [Nando de Freitas, scholar google](https://scholar.google.com/citations?hl=en&user=nzEluBwAAAAJ)
 - [Oriol Vinyals, arxiv](https://arxiv.org/search/?searchtype=author&query=Vinyals%2C+O) or [Oriol Vinyals, scholar google](https://scholar.google.com/citations?hl=en&user=NkzyCvUAAAAJ)
+- [Peter Norvig, scholar google](https://scholar.google.com/citations?user=Ol0vcWgAAAAJ&hl=en)
 - [Richard S. Sutton, arxiv](https://arxiv.org/search/?searchtype=author&query=Sutton%2C+R+S) or [Richard S. Sutton, scholar google](https://scholar.google.com/citations?hl=en&user=6m4wv6gAAAAJ)
 - [Sebastian Ruder, arxiv](https://arxiv.org/search/?searchtype=author&query=Ruder%2C+S) or [Sebastian Ruder, scholar google](https://scholar.google.com/citations?hl=en&user=8ONXPV8AAAAJ)
+- [Stuart Russell, scholar google](https://scholar.google.com/citations?hl=en&user=2oy3OXYAAAAJ)
 - [Terrence Sejnowski, scholar google](https://scholar.google.com/citations?hl=en&user=m1qAiOUAAAAJ)
 - [Yann LeCun, arxiv](https://arxiv.org/search/?searchtype=author&query=LeCun%2C+Y) or [Yann LeCun, scholar google](https://scholar.google.com/citations?hl=en&user=WLN3QrAAAAAJ)
 - [Yoshua Bengio, arxiv](https://arxiv.org/search/?searchtype=author&query=Bengio%2C+Y) or [Yoshua Bengio, scholar google](https://scholar.google.com/citations?hl=en&user=kukA0LcAAAAJ)
@@ -209,6 +226,10 @@
 #### MOOCs
 - [Quantum Machine Learning, edx](https://www.edx.org/course/quantum-machine-learning)
 - [Machine Learning, Coursera, Andrew Ng](https://www.coursera.org/learn/machine-learning#syllabus)
+- [Reinforcement Learning Specialization, Coursera](https://www.coursera.org/specializations/reinforcement-learning)
+- [Deep Learning Specialization, Coursera](https://www.coursera.org/specializations/deep-learning)
+- [Deep Reinforcement Learning, Berkeley](http://rail.eecs.berkeley.edu/deeprlcourse/)
+- [Rinforcement Learning, UCL](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
 
 #### Youtube
 - [Machine Learning](https://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA)
