@@ -107,6 +107,7 @@
 ### PyTorch
 > Orinigal tutorials on pyTorch
 - [PyTorch](https://pytorch.org/tutorials/)
+- [Introduction to Pytorch Code Examples, Stanford](https://cs230.stanford.edu/blog/pytorch/)
 > Here a list a lot of github ressources on PyTorch, each repo contains an impressive collection of tutorials, books, papers etc. 
 - [Ritchie Ng](https://github.com/ritchieng/the-incredible-pytorch)
 - [bharathgs](https://github.com/bharathgs/Awesome-pytorch-list)
