@@ -133,10 +133,18 @@
 - [Google AI blog](https://ai.googleblog.com/)
 - [Apple](https://machinelearning.apple.com/)
 - [Amazon](https://www.amazon.science/)
+- [Baidu Research](http://research.baidu.com/)
+- [Intel AI](https://software.intel.com/en-us/ai)
+- [Allen AI](http://allenai.org/)
 - [Element AI](https://www.elementai.com/news)
 - [Cambridge Maths Blog](https://www.cambridgemaths.org/blogs/)
 - [Andrej Karpathy](http://karpathy.github.io/)
-
+- [Nando de Freitas](https://www.cs.ubc.ca/~nando/)
+- [Daphne Koller](http://ai.stanford.edu/users/koller/)
+- [Adam Coates](https://cs.stanford.edu/~acoates/)
+- [Jürgen Schmidhuber](http://people.idsia.ch/~juergen/)
+- [Terrence Sejnowski](https://www.salk.edu/scientist/terrence-sejnowski/)
+- [Michael I. Jordan](https://people.eecs.berkeley.edu/~jordan/)
 
 ### List of most cited researchers
 - [Machine Learning](https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label%3Amachine_learning&btnG=)
@@ -147,18 +155,24 @@
 ### People to follow 
 
 - [Aaron Courville, arxiv](https://arxiv.org/search/?searchtype=author&query=Courville%2C+A) or [Aaron Courville, scholar google](https://scholar.google.com/citations?hl=en&user=km6CP8cAAAAJ)
+- [Adam Coates](https://scholar.google.com/citations?hl=en&user=bLUllHEAAAAJ)
 - [Andrej Karpathy]()
 - [Andrew Barto, scholar google](https://scholar.google.com/citations?hl=en&user=CMIgrCgAAAAJ)
 - [Andrew Ng, arxiv](https://arxiv.org/search/?searchtype=author&query=Ng%2C+A+Y) or [Andrew Ng, scholar google](https://scholar.google.com/citations?hl=en&user=mG4imMEAAAAJ)
 - [Christopher D. Manning, arxiv](https://arxiv.org/search/?searchtype=author&query=Manning%2C+C+D) or  [Christopher D. Manning, scholar google](https://scholar.google.com/citations?hl=en&user=1zmDOdwAAAAJ)
+- [Daphne Koller](http://ai.stanford.edu/users/koller/)
 - [Doina Precup, arxiv](https://arxiv.org/search/?searchtype=author&query=Precup%2C+D) or [Doina Precup, scholar google](https://scholar.google.com/citations?hl=en&user=j54VcVEAAAAJ)
 - [François Chollet, arxiv](https://arxiv.org/search/?searchtype=author&query=Chollet%2C+F) or [François Chollet, scholar google](https://scholar.google.com/citations?hl=en&user=VfYhf2wAAAAJ)
 - [Geoffrey Hinton, arxiv](https://arxiv.org/search/?searchtype=author&query=Hinton%2C+G) or [Geoffrey Hinton, scholar google](https://scholar.google.com/citations?hl=en&user=JicYPdAAAAAJ)
 - [Hugo Larochelle, arxiv](https://arxiv.org/search/?searchtype=author&query=Larochelle%2C+H) or [Hugo Larochelle, scholar google](https://scholar.google.com/citations?hl=en&user=U89FHq4AAAAJ)
 - [Ian Googfellow, arxiv](https://arxiv.org/search/?searchtype=author&query=Goodfellow%2C+I) or [Ian Goodfellow, scholar google](https://scholar.google.com/citations?hl=en&user=iYN86KEAAAAJ)
+- [Jürgen Schmidhuber](https://scholar.google.com/citations?hl=en&user=gLnCTgIAAAAJ)
+- [[Michael I. Jordan](https://scholar.google.com/citations?hl=en&user=nzEluBwAAAAJ)
+- [Nando de Freitas](https://scholar.google.com/citations?hl=en&user=nzEluBwAAAAJ)
 - [Oriol Vinyals, arxiv](https://arxiv.org/search/?searchtype=author&query=Vinyals%2C+O) or [Oriol Vinyals, scholar google](https://scholar.google.com/citations?hl=en&user=NkzyCvUAAAAJ)
 - [Richard S. Sutton, arxiv](https://arxiv.org/search/?searchtype=author&query=Sutton%2C+R+S) or [Richard S. Sutton, scholar google](https://scholar.google.com/citations?hl=en&user=6m4wv6gAAAAJ)
 - [Sebastian Ruder, arxiv](https://arxiv.org/search/?searchtype=author&query=Ruder%2C+S) or [Sebastian Ruder, scholar google](https://scholar.google.com/citations?hl=en&user=8ONXPV8AAAAJ)
+- [Terrence Sejnowski](https://scholar.google.com/citations?hl=en&user=m1qAiOUAAAAJ)
 - [Yann LeCun, arxiv](https://arxiv.org/search/?searchtype=author&query=LeCun%2C+Y) or [Yann LeCun, scholar google](https://scholar.google.com/citations?hl=en&user=WLN3QrAAAAAJ)
 - [Yoshua Bengio, arxiv](https://arxiv.org/search/?searchtype=author&query=Bengio%2C+Y) or [Yoshua Bengio, scholar google](https://scholar.google.com/citations?hl=en&user=kukA0LcAAAAJ)
 
@@ -189,7 +203,7 @@
 ### AI communities
 - [AI Dreams](https://aidreams.co.uk/)
 - [Forum for Artificial Intelligence](https://www.cs.utexas.edu/~ai-lab/fai/) 
-
+- [AI, Reddit](https://www.reddit.com/r/artificial/)
 
 ## Contributions
 Your contributions are always welcome!
