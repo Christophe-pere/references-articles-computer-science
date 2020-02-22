@@ -9,7 +9,12 @@
 
 
 - [Textbooks](#textbooks)
-	
+	- [Artificial intelligence](#artificialintelligence)
+	- [Machine Learning](#machinelearning)
+	- [Deep Learning](#deeplearning)
+	- [Reinfrocement Learning](#reinforcementlearning)
+	- [Mathematics for Machine Learning](#mathematicsformachinelearning)
+	- [Additional books](#additionalbooks)
 - [Articles](#articles)
 - [Machine learning](#machinelearning)
 - [Deep Learning](#deeplearning)
@@ -41,7 +46,7 @@
 ### Mathematics for Machine Learning
 - [Mathematics for Machine Learning](https://mml-book.github.io/book/mml-book.pdf)
 - [Math for Scientists Refreshing the Essentials, Maurits Natasha & Ćurčić-Blake Branislava, 2017](https://www.springer.com/gp/book/9783319573533)
-### Additional
+### Additional Books
 - [Dance of the Photons: From Einstein to Quantum Teleportation, Anton Zeilinger, 2010](https://www.amazon.co.uk/Dance-Photons-Einstein-Quantum-Teleportation/dp/0374239665/ref=sr_1_1?s=books&ie=UTF8&qid=1524589007&sr=1-1&keywords=dance+of+the+photons)
 - [Quantum Mechanics: The Theoretical Minimum (Theoretical Minimum 2), Leonard Susskind & Art Friedman, 2014](https://www.amazon.co.uk/Quantum-Mechanics-Theoretical-Art-Friedman/dp/0465036678/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1524588975&sr=1-1)
 
@@ -145,6 +150,7 @@
 - [Jürgen Schmidhuber](http://people.idsia.ch/~juergen/)
 - [Terrence Sejnowski](https://www.salk.edu/scientist/terrence-sejnowski/)
 - [Michael I. Jordan](https://people.eecs.berkeley.edu/~jordan/)
+- [The Data Frog, Colin Bernet](https://thedatafrog.com/en/)
 
 ### List of most cited researchers
 - [Machine Learning](https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label%3Amachine_learning&btnG=)
@@ -155,24 +161,24 @@
 ### People to follow 
 
 - [Aaron Courville, arxiv](https://arxiv.org/search/?searchtype=author&query=Courville%2C+A) or [Aaron Courville, scholar google](https://scholar.google.com/citations?hl=en&user=km6CP8cAAAAJ)
-- [Adam Coates](https://scholar.google.com/citations?hl=en&user=bLUllHEAAAAJ)
-- [Andrej Karpathy]()
+- [Adam Coates, scholar google](https://scholar.google.com/citations?hl=en&user=bLUllHEAAAAJ)
+- [Andrej Karpathy, scholar google](https://scholar.google.com/citations?user=l8WuQJgAAAAJ&hl=en)
 - [Andrew Barto, scholar google](https://scholar.google.com/citations?hl=en&user=CMIgrCgAAAAJ)
 - [Andrew Ng, arxiv](https://arxiv.org/search/?searchtype=author&query=Ng%2C+A+Y) or [Andrew Ng, scholar google](https://scholar.google.com/citations?hl=en&user=mG4imMEAAAAJ)
 - [Christopher D. Manning, arxiv](https://arxiv.org/search/?searchtype=author&query=Manning%2C+C+D) or  [Christopher D. Manning, scholar google](https://scholar.google.com/citations?hl=en&user=1zmDOdwAAAAJ)
-- [Daphne Koller](http://ai.stanford.edu/users/koller/)
+- [Daphne Koller, scholar google](http://ai.stanford.edu/users/koller/)
 - [Doina Precup, arxiv](https://arxiv.org/search/?searchtype=author&query=Precup%2C+D) or [Doina Precup, scholar google](https://scholar.google.com/citations?hl=en&user=j54VcVEAAAAJ)
 - [François Chollet, arxiv](https://arxiv.org/search/?searchtype=author&query=Chollet%2C+F) or [François Chollet, scholar google](https://scholar.google.com/citations?hl=en&user=VfYhf2wAAAAJ)
 - [Geoffrey Hinton, arxiv](https://arxiv.org/search/?searchtype=author&query=Hinton%2C+G) or [Geoffrey Hinton, scholar google](https://scholar.google.com/citations?hl=en&user=JicYPdAAAAAJ)
 - [Hugo Larochelle, arxiv](https://arxiv.org/search/?searchtype=author&query=Larochelle%2C+H) or [Hugo Larochelle, scholar google](https://scholar.google.com/citations?hl=en&user=U89FHq4AAAAJ)
 - [Ian Googfellow, arxiv](https://arxiv.org/search/?searchtype=author&query=Goodfellow%2C+I) or [Ian Goodfellow, scholar google](https://scholar.google.com/citations?hl=en&user=iYN86KEAAAAJ)
-- [Jürgen Schmidhuber](https://scholar.google.com/citations?hl=en&user=gLnCTgIAAAAJ)
-- [[Michael I. Jordan](https://scholar.google.com/citations?hl=en&user=nzEluBwAAAAJ)
-- [Nando de Freitas](https://scholar.google.com/citations?hl=en&user=nzEluBwAAAAJ)
+- [Jürgen Schmidhuber, scholar google](https://scholar.google.com/citations?hl=en&user=gLnCTgIAAAAJ)
+- [Michael I. Jordan, scholar google](https://scholar.google.com/citations?hl=en&user=nzEluBwAAAAJ)
+- [Nando de Freitas, scholar google](https://scholar.google.com/citations?hl=en&user=nzEluBwAAAAJ)
 - [Oriol Vinyals, arxiv](https://arxiv.org/search/?searchtype=author&query=Vinyals%2C+O) or [Oriol Vinyals, scholar google](https://scholar.google.com/citations?hl=en&user=NkzyCvUAAAAJ)
 - [Richard S. Sutton, arxiv](https://arxiv.org/search/?searchtype=author&query=Sutton%2C+R+S) or [Richard S. Sutton, scholar google](https://scholar.google.com/citations?hl=en&user=6m4wv6gAAAAJ)
 - [Sebastian Ruder, arxiv](https://arxiv.org/search/?searchtype=author&query=Ruder%2C+S) or [Sebastian Ruder, scholar google](https://scholar.google.com/citations?hl=en&user=8ONXPV8AAAAJ)
-- [Terrence Sejnowski](https://scholar.google.com/citations?hl=en&user=m1qAiOUAAAAJ)
+- [Terrence Sejnowski, scholar google](https://scholar.google.com/citations?hl=en&user=m1qAiOUAAAAJ)
 - [Yann LeCun, arxiv](https://arxiv.org/search/?searchtype=author&query=LeCun%2C+Y) or [Yann LeCun, scholar google](https://scholar.google.com/citations?hl=en&user=WLN3QrAAAAAJ)
 - [Yoshua Bengio, arxiv](https://arxiv.org/search/?searchtype=author&query=Bengio%2C+Y) or [Yoshua Bengio, scholar google](https://scholar.google.com/citations?hl=en&user=kukA0LcAAAAJ)
 
