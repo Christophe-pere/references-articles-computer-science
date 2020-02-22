@@ -9,6 +9,7 @@
 
 
 - [Textbooks](#textbooks)
+	
 - [Articles](#articles)
 - [Machine learning](#machinelearning)
 - [Deep Learning](#deeplearning)
@@ -134,6 +135,8 @@
 - [Amazon](https://www.amazon.science/)
 - [Element AI](https://www.elementai.com/news)
 - [Cambridge Maths Blog](https://www.cambridgemaths.org/blogs/)
+- [Andrej Karpathy](http://karpathy.github.io/)
+
 
 ### List of most cited researchers
 - [Machine Learning](https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label%3Amachine_learning&btnG=)
@@ -144,6 +147,7 @@
 ### People to follow 
 
 - [Aaron Courville, arxiv](https://arxiv.org/search/?searchtype=author&query=Courville%2C+A) or [Aaron Courville, scholar google](https://scholar.google.com/citations?hl=en&user=km6CP8cAAAAJ)
+- [Andrej Karpathy]()
 - [Andrew Barto, scholar google](https://scholar.google.com/citations?hl=en&user=CMIgrCgAAAAJ)
 - [Andrew Ng, arxiv](https://arxiv.org/search/?searchtype=author&query=Ng%2C+A+Y) or [Andrew Ng, scholar google](https://scholar.google.com/citations?hl=en&user=mG4imMEAAAAJ)
 - [Christopher D. Manning, arxiv](https://arxiv.org/search/?searchtype=author&query=Manning%2C+C+D) or  [Christopher D. Manning, scholar google](https://scholar.google.com/citations?hl=en&user=1zmDOdwAAAAJ)
@@ -160,10 +164,11 @@
 
 
 ### Courses 
-### MOOCs
+#### MOOCs
 - [Quantum Machine Learning, edx](https://www.edx.org/course/quantum-machine-learning)
 - [Machine Learning, Coursera, Andrew Ng](https://www.coursera.org/learn/machine-learning#syllabus)
-### Youtube
+
+#### Youtube
 - [Machine Learning](https://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA)
 - [Machine Learning, Stanford, Andrew Ng](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
 - [Stanford CS231n, 2016](https://www.youtube.com/watch?list=PLlJy-eBtNFt6EuMxFYRiNRS07MCWN5UIA&v=g-PvXUjD6qg)
@@ -173,8 +178,14 @@
 - [Introduction to Reinforcement Learning, DeepMind](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
 - [Advanced Deep Learing and Reinforcement learning, DeepMind](https://www.youtube.com/watch?v=iOh7QUZGyiU&list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
 - [Sentdex](https://www.youtube.com/user/sentdex)
+- [Machine Learning, Josh Gordon](https://www.youtube.com/playlist?reload=9&list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal) 
+
 ### Sites
 - [Practical Deep Learning for Coders, v3](https://course.fast.ai/index.html)
+- [Machine Learning Mastery, Jason Brownlee](https://machinelearningmastery.com/blog/)
+- [Towards Data Science, Medium](https://towardsdatascience.com/)
+- [A.I. Wiki, Pathmind](https://pathmind.com/wiki/)
+
 ### AI communities
 - [AI Dreams](https://aidreams.co.uk/)
 - [Forum for Artificial Intelligence](https://www.cs.utexas.edu/~ai-lab/fai/) 
