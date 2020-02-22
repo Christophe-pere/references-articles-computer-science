@@ -66,6 +66,7 @@
 ### Additional Books
 - [Dance of the Photons: From Einstein to Quantum Teleportation, Anton Zeilinger, 2010](https://www.amazon.co.uk/Dance-Photons-Einstein-Quantum-Teleportation/dp/0374239665/ref=sr_1_1?s=books&ie=UTF8&qid=1524589007&sr=1-1&keywords=dance+of+the+photons)
 - [Quantum Mechanics: The Theoretical Minimum (Theoretical Minimum 2), Leonard Susskind & Art Friedman, 2014](https://www.amazon.co.uk/Quantum-Mechanics-Theoretical-Art-Friedman/dp/0465036678/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1524588975&sr=1-1)
+- [Hands-On Neuroevolution with Python, Iaroslav Omelianenko, 2019](https://www.packtpub.com/data/hands-on-neuroevolution-with-python)
 
 ---
 
@@ -231,7 +232,7 @@
 - [Forum for Artificial Intelligence](https://www.cs.utexas.edu/~ai-lab/fai/) 
 - [AI, Reddit](https://www.reddit.com/r/artificial/)
 
-## Contributions
+## Contribution
 Your contributions are always welcome!
 
 If you want to contribute to this list (please do), send me a pull request or contact me [@chris](twitter.com/Christo35427519) or [chris](linkedin.com/in/phdchristophepere)
