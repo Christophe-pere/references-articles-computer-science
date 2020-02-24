@@ -31,8 +31,10 @@
 	- [Thesis](#thesis)
 - [Ressources](#ressources)
 	- [Research Guide](#research-guide)
-	- [PyTorch](#pytorch)
-	- [Tensorflow](#tensorflow)
+	- [Libraries](#libraries)
+		- [PyTorch](#pytorch)
+		- [Tensorflow](#tensorflow)
+		- [Packages](#packages)
 	- [Quantum Computing](#quantum-computing)
 	- [Sites for articles](#Sites-for-articles)
 	- [NLP](#nlp)
@@ -148,8 +150,8 @@
 - [Google's Hybrid Approach to Research, Alfred Spector, Peter Norvig, Slav Petrov, 2013](https://cacm.acm.org/magazines/2012/7/151226-googles-hybrid-approach-to-research/fulltext)
 - [Google's Brain Team Approach](https://ai.googleblog.com/2017/09/the-google-brain-teams-approach-to.html)
 
-
-### PyTorch
+### Librairies
+#### PyTorch
 > Orinigal tutorials on pyTorch
 - [PyTorch](https://pytorch.org/tutorials/)
 - [Introduction to Pytorch Code Examples, Stanford](https://cs230.stanford.edu/blog/pytorch/)
@@ -161,7 +163,7 @@
 - [NurmaU](https://github.com/NurmaU/incredible_pytorch)
 - [Deep Learning With PyTorch](https://pytorch.org/deep-learning-with-pytorch)
 
-### Tensorflow 
+#### Tensorflow 
 > Original tensorflow documentation and turorial 
 - [Tensorflow 2.x](https://www.tensorflow.org/tutorials)
 > jtoy propose a github page with lot of ressources, models, tutorials, books etc. on tensorflow
@@ -170,11 +172,16 @@
 - [Ritchie Ng](https://github.com/ritchieng/the-incredible-tensorflow)
 - [TensorFlow Forum Discussion](https://groups.google.com/a/tensorflow.org/forum/#!forum/discuss)
 
+#### Packages
+- [Catalyst, Kolesnikov, Sergey, 2018](https://github.com/catalyst-team/catalyst)
+
+
 ### Quantum Computing
 - [Micheal Nielsen ](https://quantum.country/)
 - [Pennylane, Xanadu](https://github.com/XanaduAI/pennylane)
 - [Qiskit, IBM Resaerch](https://qiskit.org/textbook/ch-prerequisites/qiskit.html)[source code](https://github.com/Qiskit/qiskit-textbook)
 - [D-Wave Tutorials on Quantum Annealing](https://www.dwavesys.com/resources/tutorials)
+> In progress...
 
 ### Sites for articles
 - [Computer Science, ArXiv](https://arxiv.org/list/cs/recent)
@@ -281,7 +288,7 @@
 
 #### Support courses 
 - [A Beginner's Guide to the Mathematics of Neural Networks, A.C.C. Coolen, 1998](https://nms.kcl.ac.uk/ton.coolen/published/1998/summerschool98.pdf) or [this link](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.161.3556&rep=rep1&type=pdf)
-
+> In progress... 
 ### Sites
 - [Practical Deep Learning for Coders, v3](https://course.fast.ai/index.html)
 - [Machine Learning Mastery, Jason Brownlee](https://machinelearningmastery.com/blog/)
@@ -303,8 +310,10 @@
 - [There is no such thing as Artificial Intelligence, Luc julia, 2020](https://www.amazon.ca/There-such-thing-Artificial-Intelligence/dp/241205911X/ref=sr_1_8?keywords=luc+julia&qid=1582506912&sr=8-8)
 - [How We Learn: Why Brains Learn Better Than Any Machine . . . for Now, Stanislas Daheane, 2020](https://www.amazon.ca/How-We-Learn-Brains-Machine/dp/0525559884/ref=sr_1_1?crid=25CYFQQQ9ZVWJ&keywords=how+we+learn+why+brains+learn+better+than+any+machine&qid=1582507037&sprefix=how+we+learn+%2Caps%2C180&sr=8-1)
 - [Life 3.0: Being Human in the Age of Artificial Intelligence, Max Tegmark, 2018](https://www.amazon.ca/Life-3-0-Being-Artificial-Intelligence/dp/1101970316/ref=sr_1_1?crid=23BZ8KHCHHZDS&keywords=max+tegmark&qid=1582507239&sprefix=max+tergm%2Caps%2C178&sr=8-1)
+> In progress...
 
-### Technical 
+### Technical
+> In progres...
 ---
 ## Contribution
 Your contributions are always welcome!
