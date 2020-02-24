@@ -134,19 +134,27 @@
 ### Deep Learning
 > terryum has a github page with the most important papers until 2016 (the repo isn't maintained) 
 - [Deep Learning papers, terryum](https://github.com/terryum/awesome-deep-learning-papers)
+> fllodsung has created a paper reading roadmap for deep learning for newcomers
+- [Deep Learning Papers Reading Roadmap, floodsung](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
 > List
+- [XLNet: Generalized Autoregressive Pretraining for Language Understanding, Zhilin Yang et al, 2019](https://arxiv.org/pdf/1906.08237.pdf)
 - [TensorFlow: a system for large-scale machine learning, Martín A. el al, 2016](https://www.usenix.org/system/files/conference/osdi16/osdi16-abadi.pdf)
+- [Deep Residual Learning for Image Recognition, Kaiming He et al, 2016](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 - [Deep Learning, Yann LeCun & Yoshua Bengio & Geoffrey Hinton, 2015](https://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf)
 - [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks, Shaoqing R. et al., 2015](https://arxiv.org/pdf/1506.01497.pdf)
 - [Long-term recurrent convolutional networks for visual recognition and description,  Jeff D. et al., 2015](https://arxiv.org/pdf/1411.4389.pdf)
 - [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks, Alec R. & Luke M. & Soumith C., 2015](https://arxiv.org/pdf/1511.06434.pdf)
 - [U-Net: Convolutional Networks for Biomedical Image Segmentation, Olaf R. & Philipp F. & Thomas B.,2015](https://arxiv.org/pdf/1505.04597.pdf)
 - [Character-level convolutional networks for text classification, Xiang Z. & Junbo Jake Z. & Yann L. 2015](http://papers.nips.cc/paper/5782-character-level-convolutional-networks-for-text-classification.pdf)
+- [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift, Sergey Ioffe & Christian Szegedy, 2015](https://arxiv.org/pdf/1502.03167)
+- [Dropout: A Simple Way to Prevent Neural Networks from Overfitting, Nitish Srivastava et al, 2014](http://jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf)
 - [Generative Adversarial Nets, Ian J. Goodfellow et al, 2014](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)
 - [Visualizing and Understanding Convolutional Networks, by Matt Zeiler & Rob Fergus, 2013](https://arxiv.org/pdf/1311.2901.pdf)
 - [Distinctive Image Features from Scale-Invariant Keypoints, David G. Lowe, 2004](https://www.cs.ubc.ca/~lowe/papers/ijcv04.pdf)
 - [A tutorial on hidden Markov models and selected applications in speech recognition, R Rabiner, 1989](http://www.cs.cmu.edu/~cga/behavior/rabiner1.pdf)
 - [A computational approach to edge detection, J Canny, 1986](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.420.3300&rep=rep1&type=pdf)
+- [A Threshold Selection Method from Gray-Level Histograms, Nobuyuki Otsu, 1979](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=4310076)
+
 > An exhaustive list can be found in the Deep Learning, Goodfellow I. et al, 2016:
 - [Deep Learning, Goodfellow I. et al, 2016 - bibliography](https://www.deeplearningbook.org/contents/bib.html)
 > In progress...
@@ -206,7 +214,7 @@
 ### Others
 - [A Mathematical Theory of Communication,  C. E. SHANNON, 1949](https://mast.queensu.ca/~math474/shannon1948.pdf)
 - [Introduction to Algorithms, T H Cormen et al 1990](https://mitpress.mit.edu/books/introduction-algorithms)
-- [Computational Complexity, Christos H Papadimitriou, 1994]
+- [Computational Complexity: A Modern Approach, Sanjeev Arora & Boaz Barak, 2007](https://theory.cs.princeton.edu/complexity/book.pdf)
 
 ---
 ## Posts and thesis 
@@ -267,10 +275,13 @@
 
 ### Sites for articles
 - [Computer Science, ArXiv](https://arxiv.org/list/cs/recent)
+- [Arxiv Sanity Preserver](http://www.arxiv-sanity.com/)
 - [Paper With Codes](https://paperswithcode.com/)
 - [Google.ai](https://research.google/pubs/)
 - [Facebook](https://research.fb.com/publications/?cat=4)
 - [DeepAI Research](https://deepai.org/research)
+- [Journal of Artificial Intelligence](https://www.jair.org/index.php/jair)
+- [Google Scholar](https://scholar.google.com/schhp?hl=en&as_sdt=0,5)
 > In progress...
 
 ### NLP 
@@ -383,6 +394,7 @@
 - [AI Dreams](https://aidreams.co.uk/)
 - [Forum for Artificial Intelligence](https://www.cs.utexas.edu/~ai-lab/fai/) 
 - [AI, Reddit](https://www.reddit.com/r/artificial/)
+- [Quora](https://www.quora.com/)
 > In progress...
 
 --- 
