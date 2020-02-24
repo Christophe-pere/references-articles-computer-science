@@ -93,17 +93,34 @@
 
 ## Articles
 ### Artificial Intelligence
+- [On Computable Numbers,with an Application to the Entscheidungsproblem, A. M. Turing, 1936](https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf)
+- [Computing Machinery and Intelligence, A. M. Turing, 1950](https://academic.oup.com/mind/article/LIX/236/433/986238)
+- [A Proposal for the Dartmouth Summer Research Project on Artificial Intelligence, John NcCarthy at al, 1955](http://jmc.stanford.edu/articles/dartmouth/dartmouth.pdf)
+- [Fuzzy sets, L.A.Zadeh, 1965](https://www.sciencedirect.com/science/article/pii/S001999586590241X)
+- [Universal Artificial Intelligence: Sequential Decisions Based on Algorithmic Probability, Marcus Hutter, 2004](https://books.google.ca/books?id=NP53iZGt4KUC&redir_esc=y)
 - [On the Measure of intelligence, François Chollet, 2019](https://arxiv.org/pdf/1911.01547.pdf)
 - [The Next Decade in AI: Four Steps Towards Robust Artificial Intelligence, Gary Marcus, 2020](https://arxiv.org/pdf/2002.06177v3)
-
 > In progress...
 
 ### Machine Learning
+- [Latent Dirichlet Allocation, David M. Blei & Andrew Y. Ng & Michael I. Jordan, 2003](http://jmlr.org/papers/v3/blei03a.html)
+- [Random Forests, Leo Breiman , 2001](https://link.springer.com/article/10.1023%2FA%3A1010933404324)
+
 > In progress...
 
 ### Deep Learning
 > terryum has a github page with the most important papers until 2016 (the repo isn't maintained) 
 - [Deep Learning papers, terryum](https://github.com/terryum/awesome-deep-learning-papers)
+> List
+- [TensorFlow: a system for large-scale machine learning, Martín A. el al, 2016](https://www.usenix.org/system/files/conference/osdi16/osdi16-abadi.pdf)
+- [Deep Learning, Yann LeCun & Yoshua Bengio & Geoffrey Hinton, 2015](https://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf)
+- [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks, Shaoqing R. et al., 2015](https://arxiv.org/pdf/1506.01497.pdf)
+- [Long-term recurrent convolutional networks for visual recognition and description,  Jeff D. et al., 2015](https://arxiv.org/pdf/1411.4389.pdf)
+- [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks, Alec R. & Luke M. & Soumith C., 2015](https://arxiv.org/pdf/1511.06434.pdf)
+- [U-Net: Convolutional Networks for Biomedical Image Segmentation, Olaf R. & Philipp F. & Thomas B.,2015](https://arxiv.org/pdf/1505.04597.pdf)
+- [Character-level convolutional networks for text classification, Xiang Z. & Junbo Jake Z. & Yann L. 2015](http://papers.nips.cc/paper/5782-character-level-convolutional-networks-for-text-classification.pdf)
+- [Generative Adversarial Nets, Ian J. Goodfellow et al, 2014](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)
+- [Visualizing and Understanding Convolutional Networks, by Matt Zeiler & Rob Fergus, 2013](https://arxiv.org/pdf/1311.2901.pdf)
 > In progress...
 
 ### Reinforcement Learning
@@ -116,6 +133,8 @@
 - [Deep Reinforcement Learning with Double Q-learning, Hasselt et al 2015](https://arxiv.org/pdf/1509.06461)
 - [Prioritized Experience Replay, Schaul et al, 2015](https://arxiv.org/pdf/1511.05952)
 - [Dueling Network Architectures for Deep Reinforcement Learning, Wang et al, 2015](https://arxiv.org/abs/1511.06581)
+- [Human-level control through deep reinforcement learning, Volodymyr M. et al 2015](https://web.stanford.edu/class/psych209/Readings/MnihEtAlHassibis15NatureControlDeepRL.pdf)
+- [Asynchronous methods for deep reinforcement learning, Volodymyr M., et al., 2016](http://proceedings.mlr.press/v48/mniha16.pdf)
 - [Rainbow: Combining Improvements in Deep Reinforcement Learning, Hessel et al, 2017](https://arxiv.org/pdf/1710.02298)
 - [Grandmaster level in StarCraft II using multi-agent reinforcement learning, Oriol Vinyals et al, 2019](https://www.nature.com/articles/s41586-019-1724-z.epdf?author_access_token=lZH3nqPYtWJXfDA10W0CNNRgN0jAjWel9jnR3ZoTv0PSZcPzJFGNAZhOlk4deBCKzKm70KfinloafEF1bCCXL6IIHHgKaDkaTkBcTEv7aT-wqDoG1VeO9-wO3GEoAMF9bAOt7mJ0RWQnRVMbyfgH9A%3D%3D)
 
@@ -123,6 +142,7 @@
 > In progress...
 
 ### Causality
+- [Probabilistic Reasoning in Intelligent Systems: Networks of Plausible Inference, Judea Pearl, 1988](https://www.sciencedirect.com/book/9780080514895/probabilistic-reasoning-in-intelligent-systems)
 > In progress...
 
 ### Computational Neuroscience
