@@ -99,6 +99,22 @@
 ---
 
 ## Articles
+### Repositories
+> An important list of materials about Computer Vision
+- [Awesome computer vision, jbhuang0604](https://github.com/jbhuang0604/awesome-computer-vision)
+> An important list of materials about Deep Learning in Computer Vision
+- [Awesome deep vision, kjw0612](https://github.com/kjw0612/awesome-deep-vision)
+> An important list of materials about Recurrent Neural Network
+- [Awesome rnn, kjw0612](https://github.com/kjw0612/awesome-rnn)
+> An important list of materials about Random Forest
+- [Awesome random forest, kjw0612](https://github.com/kjw0612/awesome-random-forest)
+> Terry Taewoong Um has a github page with the most important papers until 2017 
+- [Deep Learning papers, Terry Taewoong Um](https://github.com/terryum/awesome-deep-learning-papers)
+> floodsung has created a paper reading roadmap for deep learning for newcomers
+- [Deep Learning Papers Reading Roadmap, floodsung](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
+> Open AI maintained a web page with the most import paper in RL 
+- [Open AI spinningup](https://spinningup.openai.com/en/latest/spinningup/keypapers.html)
+
 ### Artificial Intelligence
 - [On Computable Numbers,with an Application to the Entscheidungsproblem, A. M. Turing, 1936](https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf)
 - [Computing Machinery and Intelligence, A. M. Turing, 1950](https://academic.oup.com/mind/article/LIX/236/433/986238)
@@ -132,11 +148,7 @@
 > In progress...
 
 ### Deep Learning
-> terryum has a github page with the most important papers until 2016 (the repo isn't maintained) 
-- [Deep Learning papers, terryum](https://github.com/terryum/awesome-deep-learning-papers)
-> fllodsung has created a paper reading roadmap for deep learning for newcomers
-- [Deep Learning Papers Reading Roadmap, floodsung](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
-> List
+
 - [XLNet: Generalized Autoregressive Pretraining for Language Understanding, Zhilin Yang et al, 2019](https://arxiv.org/pdf/1906.08237.pdf)
 - [TensorFlow: a system for large-scale machine learning, Martín A. el al, 2016](https://www.usenix.org/system/files/conference/osdi16/osdi16-abadi.pdf)
 - [Deep Residual Learning for Image Recognition, Kaiming He et al, 2016](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
@@ -160,8 +172,7 @@
 > In progress...
 
 ### Reinforcement Learning
-> Open AI maintained a web page with the most import paper in RL 
-- [Open AI spinningup](https://spinningup.openai.com/en/latest/spinningup/keypapers.html)
+
 
 > A short list 
 - [Reinforcement Learning, an introduction, R Sutton & A Barto, 1998](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.32.7692&rep=rep1&type=pdf)
