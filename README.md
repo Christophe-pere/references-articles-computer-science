@@ -103,8 +103,21 @@
 > In progress...
 
 ### Machine Learning
+
+
+- [A fast learning algorithm for deep belief nets, Geoffrey E. Hinton & Simon Osindero & Yee-Whye Teh, 2006](https://www.cs.toronto.edu/~hinton/absps/fastnc.pdf)
 - [Latent Dirichlet Allocation, David M. Blei & Andrew Y. Ng & Michael I. Jordan, 2003](http://jmlr.org/papers/v3/blei03a.html)
 - [Random Forests, Leo Breiman , 2001](https://link.springer.com/article/10.1023%2FA%3A1010933404324)
+- [A training algorithm for optimum margin classifiers, Bernhard E. Boser & Isabelle M. Guyon & Vladimir N. Vapnik, 1992](https://www.svms.org/training/BOGV92.pdf)
+- [The strength of weak learnability, Robert E. Schapire, 1990](http://rob.schapire.net/papers/strengthofweak.pdf)
+- [Learning to predict by the method of Temporal difference, Richard S. Sutton, 1988](https://link.springer.com/content/pdf/10.1007/BF00115009.pdf)
+- [Learning Quickly When Irrelevant Attributes Abound: A New Linear-threshold Algorithm, Nick Littlestone, 1988](https://link.springer.com/content/pdf/10.1023/A:1022869011914.pdf)
+- [Induction of Decision Trees, J.R. Quinlan, 1986](https://link.springer.com/content/pdf/10.1007/BF00116251.pdf)
+- [Learning representations by back-propagating errors, David E. Rumelhart & Geoffrey E. Hinton & Ronald J. Williams, 1986](https://www.nature.com/articles/323533a0)
+- [A theory of the learnable, Leslie Valiant, 1984](https://people.mpi-inf.mpg.de/~mehlhorn/SeminarEvolvability/ValiantLearnable.pdf)
+- [On the uniform convergence of relative frequencies of events to their probabilities, V. Vapnik & A. Chervonenkis, 1971](https://courses.engr.illinois.edu/ece544na/fa2014/vapnik71.pdf)
+- [Language identification in the limit, E. Mark Gold, 1967](http://web.mit.edu/~6.863/www/spring2009/readings/gold67limit.pdf)
+- [An Inductive Inference Machine, Ray Solomonoff, 1957](http://world.std.com/~rjs/indinf56.pdf)
 
 > In progress...
 
