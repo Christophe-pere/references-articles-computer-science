@@ -150,8 +150,26 @@
 - [Asynchronous methods for deep reinforcement learning, Volodymyr M., et al., 2016](http://proceedings.mlr.press/v48/mniha16.pdf)
 - [Rainbow: Combining Improvements in Deep Reinforcement Learning, Hessel et al, 2017](https://arxiv.org/pdf/1710.02298)
 - [Grandmaster level in StarCraft II using multi-agent reinforcement learning, Oriol Vinyals et al, 2019](https://www.nature.com/articles/s41586-019-1724-z.epdf?author_access_token=lZH3nqPYtWJXfDA10W0CNNRgN0jAjWel9jnR3ZoTv0PSZcPzJFGNAZhOlk4deBCKzKm70KfinloafEF1bCCXL6IIHHgKaDkaTkBcTEv7aT-wqDoG1VeO9-wO3GEoAMF9bAOt7mJ0RWQnRVMbyfgH9A%3D%3D)
+> In progress...
 
 ### Quantum Computing
+#### Quantum Computing
+> In progress...
+#### Quantum Approximate Optimization Algorithm
+- [A Quantum Approximate Optimization Algorithm, Edward Farhi & Jeffrey Goldstone, 2014](https://arxiv.org/pdf/1411.4028.pdf)
+- [Improving Variational Quantum Optimization using CVaR, Panagiotis Kl. Barkoutsos et al, 2019](https://arxiv.org/pdf/1907.04769.pdf)
+- [Evaluating Quantum Approximate Optimization Algorithm: A Case Study, Ruslan Shaydulin & Yuri Alexeev, 2019](https://arxiv.org/pdf/1910.04881.pdf)
+- [Analysis of Quantum Approximate Optimization Algorithm under Realistic Noise in Superconducting Qubits, Mahabubul Alam & Abdullah Ash-Saki & Swaroop Ghosh, 2019](https://arxiv.org/pdf/1907.09631.pdf)
+> In progress...
+
+#### Quantum Machine Learning 
+
+- [Quantum Deep Learning, Nathan Wiebe & Ashish Kapoor & Krysta M. Svore, 2014](https://arxiv.org/pdf/1412.3489v2.pdf)
+- [Quantum Inspired Computational Intelligence, Siddhartha Bhattacharyya & Ujjwal Maulik & Paramartha Dutta, 2017](https://www.sciencedirect.com/book/9780128044094/quantum-inspired-computational-intelligence)
+- [Quantum Kitchen Sinks: An algorithm for machine learning on near-term quantum computers, C. M. Wilson et al, 2018](https://arxiv.org/pdf/1806.08321.pdf) 
+- [Hierarchical quantum classifiers, Edward Grant et al, 2018](https://arxiv.org/pdf/1804.03680.pdf)
+- [Quantum Graph Neural Networks, Guillaume Verdon et al, 2019](https://arxiv.org/pdf/1909.12264.pdf)
+- [Quantum circuit structure learning, Mateusz Ostaszewski & Edward Grant & Marcello Benedett, 2019](https://arxiv.org/pdf/1905.09692.pdf)
 > In progress...
 
 ### Causality
