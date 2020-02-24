@@ -115,6 +115,8 @@
 - [A fast learning algorithm for deep belief nets, Geoffrey E. Hinton & Simon Osindero & Yee-Whye Teh, 2006](https://www.cs.toronto.edu/~hinton/absps/fastnc.pdf)
 - [Latent Dirichlet Allocation, David M. Blei & Andrew Y. Ng & Michael I. Jordan, 2003](http://jmlr.org/papers/v3/blei03a.html)
 - [Random Forests, Leo Breiman , 2001](https://link.springer.com/article/10.1023%2FA%3A1010933404324)
+- [An Overview of Statistical Learning Theory, V Vapnik, 1999](http://web.mit.edu/6.962/www/www_spring_2001/emin/slt.pdf)
+- [Multivariate Density Estimation, David W Scott, 1992](https://onlinelibrary.wiley.com/doi/pdf/10.1002/9780470316849.fmatter)
 - [A training algorithm for optimum margin classifiers, Bernhard E. Boser & Isabelle M. Guyon & Vladimir N. Vapnik, 1992](https://www.svms.org/training/BOGV92.pdf)
 - [The strength of weak learnability, Robert E. Schapire, 1990](http://rob.schapire.net/papers/strengthofweak.pdf)
 - [Learning to predict by the method of Temporal difference, Richard S. Sutton, 1988](https://link.springer.com/content/pdf/10.1007/BF00115009.pdf)
@@ -122,6 +124,7 @@
 - [Induction of Decision Trees, J.R. Quinlan, 1986](https://link.springer.com/content/pdf/10.1007/BF00116251.pdf)
 - [Learning representations by back-propagating errors, David E. Rumelhart & Geoffrey E. Hinton & Ronald J. Williams, 1986](https://www.nature.com/articles/323533a0)
 - [A theory of the learnable, Leslie Valiant, 1984](https://people.mpi-inf.mpg.de/~mehlhorn/SeminarEvolvability/ValiantLearnable.pdf)
+- [Maximum likelihood from incomplete data via the EM algorithm, A P Dempster & N M Laird & D B Rubin, 1977](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.133.4884&rep=rep1&type=pdf)
 - [On the uniform convergence of relative frequencies of events to their probabilities, V. Vapnik & A. Chervonenkis, 1971](https://courses.engr.illinois.edu/ece544na/fa2014/vapnik71.pdf)
 - [Language identification in the limit, E. Mark Gold, 1967](http://web.mit.edu/~6.863/www/spring2009/readings/gold67limit.pdf)
 - [An Inductive Inference Machine, Ray Solomonoff, 1957](http://world.std.com/~rjs/indinf56.pdf)
@@ -141,6 +144,9 @@
 - [Character-level convolutional networks for text classification, Xiang Z. & Junbo Jake Z. & Yann L. 2015](http://papers.nips.cc/paper/5782-character-level-convolutional-networks-for-text-classification.pdf)
 - [Generative Adversarial Nets, Ian J. Goodfellow et al, 2014](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)
 - [Visualizing and Understanding Convolutional Networks, by Matt Zeiler & Rob Fergus, 2013](https://arxiv.org/pdf/1311.2901.pdf)
+- [Distinctive Image Features from Scale-Invariant Keypoints, David G. Lowe, 2004](https://www.cs.ubc.ca/~lowe/papers/ijcv04.pdf)
+- [A tutorial on hidden Markov models and selected applications in speech recognition, R Rabiner, 1989](http://www.cs.cmu.edu/~cga/behavior/rabiner1.pdf)
+- [A computational approach to edge detection, J Canny, 1986](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.420.3300&rep=rep1&type=pdf)
 > An exhaustive list can be found in the Deep Learning, Goodfellow I. et al, 2016:
 - [Deep Learning, Goodfellow I. et al, 2016 - bibliography](https://www.deeplearningbook.org/contents/bib.html)
 > In progress...
@@ -150,6 +156,7 @@
 - [Open AI spinningup](https://spinningup.openai.com/en/latest/spinningup/keypapers.html)
 
 > A short list 
+- [Reinforcement Learning, an introduction, R Sutton & A Barto, 1998](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.32.7692&rep=rep1&type=pdf)
 - [Playing Atari with Deep Reinforcement Learning, Mnih et al, 2013](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)
 - [Deep Recurrent Q-Learning for Partially Observable MDPs, Hausknecht and Stone, 2015](https://arxiv.org/pdf/1507.06527)
 - [Deep Reinforcement Learning with Double Q-learning, Hasselt et al 2015](https://arxiv.org/pdf/1509.06461)
@@ -163,6 +170,13 @@
 
 ### Quantum Computing
 #### Quantum Computing
+- [Optimization by simulated annealing, S Kirkpatrick & C D Gelatt & M P Vecchi., 1983](http://www2.stat.duke.edu/~scs/Courses/Stat376/Papers/TemperAnneal/KirkpatrickAnnealScience1983.pdf)
+- [Quantum mechanical computers, Richard P. Feynman, 1986](https://link.springer.com/article/10.1007%2FBF01886518)
+- [The Solovay-Kitaev algorithm, 1997](http://arxiv.org/abs/quant-ph/0505030)
+- [Polynomial-Time Algorithms for Prime Factorization and Discrete Logarithms on a Quantum Computer, Peter W. Shor, 1995](http://arxiv.org/abs/quant-ph/9508027)
+- [Good quantum error-correcting codes exist, A. R. Calderbank & Peter W. Shor, 1996](http://www-math.mit.edu/~shor/papers/good-codes.pdf)
+- [Fault-tolerant quantum computation by anyons, A. Yu. Kitaev, 1997](https://arxiv.org/pdf/quant-ph/9707021)
+- [Quantum Computation by Adiabatic Evolution, Edward Farhi, 2000](https://arxiv.org/pdf/quant-ph/0001106)
 > In progress...
 #### Quantum Approximate Optimization Algorithm
 - [A Quantum Approximate Optimization Algorithm, Edward Farhi & Jeffrey Goldstone, 2014](https://arxiv.org/pdf/1411.4028.pdf)
@@ -188,6 +202,12 @@
 ### Computational Neuroscience
 - [A Framework for Intelligence and Cortical Function Based on Grid Cells in the Neocortex, Jeff Hawkins, 2019](https://numenta.com/neuroscience-research/research-publications/papers/a-framework-for-intelligence-and-cortical-function-based-on-grid-cells-in-the-neocortex/) or [this link](https://www.frontiersin.org/articles/10.3389/fncir.2018.00121/full)
 > In progress
+
+### Others
+- [A Mathematical Theory of Communication,  C. E. SHANNON, 1949](https://mast.queensu.ca/~math474/shannon1948.pdf)
+- [Introduction to Algorithms, T H Cormen et al 1990](https://mitpress.mit.edu/books/introduction-algorithms)
+- [Computational Complexity, Christos H Papadimitriou, 1994]
+
 ---
 ## Posts and thesis 
 ### Blogs posts
