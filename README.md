@@ -63,23 +63,29 @@
 - [Python Machine Learning: Machine Learning and Deep Learning with Python, scikit-learn, and TensorFlow 2 - 3rd Edition, Sebastian Raschka & Vahid Mirjalili, 2019](https://www.amazon.ca/Python-Machine-Learning-scikit-learn-TensorFlow/dp/1789955750/ref=sr_1_fkmr0_1?keywords=%3Bachine+learning+sebastian&qid=1581965682&s=books&sr=1-1-fkmr0 )
 - [The Hundred-Page Machine Learning Book, Andriy Burkov, 2019](https://www.amazon.co.uk/Hundred-Page-Machine-Learning-Book/dp/199957950X/ref=pd_aw_sbs_14_5/262-1001262-4541403?_encoding=UTF8&pd_rd_i=199957950X&pd_rd_r=ceb793b5-741c-4388-bbcb-c4b656d7da98&pd_rd_w=t3urK&pd_rd_wg=7EqqE&pf_rd_p=15216146-4434-47f5-99d9-56240c85bf4d&pf_rd_r=RAHG1THCANSMBVCZC4WJ&psc=1&refRID=RAHG1THCANSMBVCZC4WJ)
 - [The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition,  Trevor Hastie & Robert Tibshirani & Jerome Friedman, 2008](https://www.amazon.ca/Elements-Statistical-Learning-Inference-Prediction/dp/0387848576/ref=sr_1_3?keywords=learning+statistics&qid=1582507088&sr=8-3)
+
 ### Deep Learning
 - [Deep Learning, Ian Goodfellow et al., 2016](https://www.amazon.ca/Deep-Learning-Ian-Goodfellow/dp/0262035618/ref=sr_1_1?crid=383XDGD8SRUNC&keywords=deep+learning+ian+goodfellow&qid=1581965751&s=books&sprefix=deep+learning%2Cstripbooks%2C269&sr=1-1)
 - [Deep Learning with Python, François Chollet 2017](https://www.amazon.ca/Deep-Learning-Python-Francois-Chollet/dp/1617294438/ref=sr_1_1?keywords=deep+learning+with+python&qid=1581965794&s=books&sr=1-1)
 - [Dive into Deep Learning, Aston Zhang et al, 2020](https://d2l.ai/)
+
 ### Reinforcement Learning
 - [Reinforcement Learning: An Introduction - 2nd edition, Richard S. Sutton & Andrew G. Barto, 2018](https://www.amazon.ca/Reinforcement-Learning-Introduction-Richard-Sutton/dp/0262039249/ref=sr_1_1?crid=19RA25TZFYZJB&keywords=reinforcement+learning+an+introduction&qid=1581965840&s=books&sprefix=introduction+to+reinforce%2Cstripbooks%2C264&sr=1-1)
+
 ### Quantum Computing
 - [Quantum Computation and Quantum Information - 10th Anniversary Edition, Michael A. Nielsen & Isaac L. CHuang, 2010](https://www.amazon.ca/Quantum-Computation-Information-10th-Anniversary/dp/1107002176/ref=sr_1_2?keywords=quantum+information+and+quantum+computing&qid=1581965920&s=books&sr=1-2)
 - [Dancing with Qubits: How quantum computing works and how it can change the world, Robert S. Sutor, 2019](https://www.amazon.ca/Dancing-Qubits-quantum-computing-change/dp/1838827366/ref=sr_1_1?keywords=dancing+with+qubits&qid=1581965988&s=books&sr=1-1)
 - [Quantum Computing: An Applied Approach, Jack D. Hilary, 2019](https://www.amazon.ca/Quantum-Computing-Approach-Jack-Hidary/dp/3030239217/ref=sr_1_1?keywords=quantum+information+and+quantum+computing&qid=1581965920&s=books&sr=1-1)
+
 ### Mathematics for Machine Learning
 - [Mathematics for Machine Learning](https://mml-book.github.io/book/mml-book.pdf)
 - [Math for Scientists Refreshing the Essentials, Maurits Natasha & Ćurčić-Blake Branislava, 2017](https://www.springer.com/gp/book/9783319573533)
+
 ### Causality
 - [The Book Of Why, Judea Pearl, 2018](https://www.amazon.ca/s?k=the+book+of+why&gclid=Cj0KCQiAnL7yBRD3ARIsAJp_oLZvL4ri7zRq9iKm6wyCwOFg58aKVxCf4Z7qFcTT2e6M_goUr8nEhfIaAnhVEALw_wcB&hvadid=231052835689&hvdev=c&hvlocphy=9061026&hvnetw=g&hvqmt=e&hvrand=14158692902202346976&hvtargid=kwd-300942500351&hydadcr=23340_10308593&tag=googcana-20&ref=pd_sl_78ok7l002g_e)
 
 ### Computational Neuroscience
+> In progress...
 
 ### Additional Books
 - [Dance of the Photons: From Einstein to Quantum Teleportation, Anton Zeilinger, 2010](https://www.amazon.co.uk/Dance-Photons-Einstein-Quantum-Teleportation/dp/0374239665/ref=sr_1_1?s=books&ie=UTF8&qid=1524589007&sr=1-1&keywords=dance+of+the+photons)
@@ -135,6 +141,8 @@
 - [Character-level convolutional networks for text classification, Xiang Z. & Junbo Jake Z. & Yann L. 2015](http://papers.nips.cc/paper/5782-character-level-convolutional-networks-for-text-classification.pdf)
 - [Generative Adversarial Nets, Ian J. Goodfellow et al, 2014](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)
 - [Visualizing and Understanding Convolutional Networks, by Matt Zeiler & Rob Fergus, 2013](https://arxiv.org/pdf/1311.2901.pdf)
+> An exhaustive list can be found in the Deep Learning, Goodfellow I. et al, 2016:
+- [Deep Learning, Goodfellow I. et al, 2016 - bibliography](https://www.deeplearningbook.org/contents/bib.html)
 > In progress...
 
 ### Reinforcement Learning
@@ -338,6 +346,7 @@
 - [Advanced Deep Learing and Reinforcement learning, DeepMind](https://www.youtube.com/watch?v=iOh7QUZGyiU&list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
 - [Sentdex](https://www.youtube.com/user/sentdex)
 - [Machine Learning, Josh Gordon](https://www.youtube.com/playlist?reload=9&list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal) 
+- [Stanford’s Free Artificial Intelligence course now available online, Arun C, 2020](https://medium.com/the-ultimate-engineer/stanfords-free-artificial-intelligence-course-now-available-online-e02fb5f966f)
 > In progress...
 
 #### Support courses 
