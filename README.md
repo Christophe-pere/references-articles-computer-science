@@ -200,6 +200,7 @@
 - [How to write a research paper, Science Direct](https://www.sciencedirect.com/science/article/abs/pii/S1878764915001606)
 - [Google's Hybrid Approach to Research, Alfred Spector, Peter Norvig, Slav Petrov, 2013](https://cacm.acm.org/magazines/2012/7/151226-googles-hybrid-approach-to-research/fulltext)
 - [Google's Brain Team Approach](https://ai.googleblog.com/2017/09/the-google-brain-teams-approach-to.html)
+- [How to read a scientific paper, Christophe Pere, 2019](https://medium.com/@pere.christophe1/how-to-quickly-read-a-scientific-paper-efa066db2b0)
 
 ### Librairies
 #### PyTorch
@@ -225,7 +226,7 @@
 
 #### Packages
 - [Catalyst, Kolesnikov, Sergey, 2018](https://github.com/catalyst-team/catalyst)
-
+- [trfl, Deepmind, 2019](https://github.com/deepmind/trfl)
 
 ### Quantum Computing
 - [Micheal Nielsen ](https://quantum.country/)
