@@ -353,6 +353,7 @@
 - [AI, Reddit](https://www.reddit.com/r/artificial/)
 > In progress...
 
+--- 
 ## General and technical additional books
 ### General
 #### AI
@@ -364,6 +365,9 @@
 > In progress...
 
 ### Technical
+- [Advanced Deep Learning with Python, Ivan Vasilev, 2019](https://www.packtpub.com/data/advanced-deep-learning-with-python)
+- [The art of Computer Programming, Vol 1-2-3-4a, Donald E. Knuth](https://www.amazon.ca/Computer-Programming-Volumes-1-4A-Boxed/dp/0321751043)
+
 > In progres...
 ---
 ## Contribution
