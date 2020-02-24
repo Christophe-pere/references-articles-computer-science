@@ -16,6 +16,7 @@
 	- [Quantum Computing](#quantum-computing)
 	- [Mathematics for Machine Learning](#mathematics-for-machine-learning)
 	- [Causality](#causality)
+	- [Computational Neuroscience](#computational-neuroscience)
 	- [Additional books](#additional-books)
 - [Articles](#articles)
 	- [Artificial intelligence](#artificial-intelligence)
@@ -23,6 +24,8 @@
 	- [Deep Learning](#deep-learning)
 	- [Reinfrocement Learning](#reinforcement-learning)
 	- [Quantum Computing](#quantum-computing)
+	- [Causality](#causality)
+	- [Computational Neuroscience](#computational-neuroscience)
 - [Posts and thesis](#posts-and-thesis)
 	- [Blog posts](#blog-posts)
 	- [Thesis](#thesis)
@@ -41,6 +44,9 @@
 		- [YouTube](#youtube)
 	- [Sites](#sites)
 	- [AI Communities](#ai-communities)
+- [General and technical additional books](#general-and-technical-additional-books)
+	- [General](#general)
+	- [Technical](#technical)
 - [Contribution](#contribution)
 ---
 
@@ -54,6 +60,7 @@
 - [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems - 2nd edition, Aurélien Géron, 2019](https://www.amazon.ca/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646/ref=asc_df_1492032646/?tag=googleshopc0c-20&linkCode=df0&hvadid=335305582969&hvpos=1o1&hvnetw=g&hvrand=17038007849797717881&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9061026&hvtargid=pla-523968811896&psc=1)
 - [Python Machine Learning: Machine Learning and Deep Learning with Python, scikit-learn, and TensorFlow 2 - 3rd Edition, Sebastian Raschka & Vahid Mirjalili, 2019](https://www.amazon.ca/Python-Machine-Learning-scikit-learn-TensorFlow/dp/1789955750/ref=sr_1_fkmr0_1?keywords=%3Bachine+learning+sebastian&qid=1581965682&s=books&sr=1-1-fkmr0 )
 - [The Hundred-Page Machine Learning Book, Andriy Burkov, 2019](https://www.amazon.co.uk/Hundred-Page-Machine-Learning-Book/dp/199957950X/ref=pd_aw_sbs_14_5/262-1001262-4541403?_encoding=UTF8&pd_rd_i=199957950X&pd_rd_r=ceb793b5-741c-4388-bbcb-c4b656d7da98&pd_rd_w=t3urK&pd_rd_wg=7EqqE&pf_rd_p=15216146-4434-47f5-99d9-56240c85bf4d&pf_rd_r=RAHG1THCANSMBVCZC4WJ&psc=1&refRID=RAHG1THCANSMBVCZC4WJ)
+- [The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition,  Trevor Hastie & Robert Tibshirani & Jerome Friedman, 2008](https://www.amazon.ca/Elements-Statistical-Learning-Inference-Prediction/dp/0387848576/ref=sr_1_3?keywords=learning+statistics&qid=1582507088&sr=8-3)
 ### Deep Learning
 - [Deep Learning, Ian Goodfellow et al., 2016](https://www.amazon.ca/Deep-Learning-Ian-Goodfellow/dp/0262035618/ref=sr_1_1?crid=383XDGD8SRUNC&keywords=deep+learning+ian+goodfellow&qid=1581965751&s=books&sprefix=deep+learning%2Cstripbooks%2C269&sr=1-1)
 - [Deep Learning with Python, François Chollet 2017](https://www.amazon.ca/Deep-Learning-Python-Francois-Chollet/dp/1617294438/ref=sr_1_1?keywords=deep+learning+with+python&qid=1581965794&s=books&sr=1-1)
@@ -68,6 +75,8 @@
 - [Math for Scientists Refreshing the Essentials, Maurits Natasha & Ćurčić-Blake Branislava, 2017](https://www.springer.com/gp/book/9783319573533)
 ### Causality
 - [The Book Of Why, Judea Pearl, 2018](https://www.amazon.ca/s?k=the+book+of+why&gclid=Cj0KCQiAnL7yBRD3ARIsAJp_oLZvL4ri7zRq9iKm6wyCwOFg58aKVxCf4Z7qFcTT2e6M_goUr8nEhfIaAnhVEALw_wcB&hvadid=231052835689&hvdev=c&hvlocphy=9061026&hvnetw=g&hvqmt=e&hvrand=14158692902202346976&hvtargid=kwd-300942500351&hydadcr=23340_10308593&tag=googcana-20&ref=pd_sl_78ok7l002g_e)
+
+### Computational Neuroscience
 
 ### Additional Books
 - [Dance of the Photons: From Einstein to Quantum Teleportation, Anton Zeilinger, 2010](https://www.amazon.co.uk/Dance-Photons-Einstein-Quantum-Teleportation/dp/0374239665/ref=sr_1_1?s=books&ie=UTF8&qid=1524589007&sr=1-1&keywords=dance+of+the+photons)
@@ -84,6 +93,7 @@
 ### Artificial Intelligence
 - [On the Measure of intelligence, François Chollet, 2019](https://arxiv.org/pdf/1911.01547.pdf)
 - [The Next Decade in AI: Four Steps Towards Robust Artificial Intelligence, Gary Marcus, 2020](https://arxiv.org/pdf/2002.06177v3)
+
 > In progress...
 
 ### Machine Learning
@@ -110,6 +120,12 @@
 ### Quantum Computing
 > In progress...
 
+### Causality
+> In progress...
+
+### Computational Neuroscience
+- [A Framework for Intelligence and Cortical Function Based on Grid Cells in the Neocortex, Jeff Hawkins, 2019](https://numenta.com/neuroscience-research/research-publications/papers/a-framework-for-intelligence-and-cortical-function-based-on-grid-cells-in-the-neocortex/) or [this link](https://www.frontiersin.org/articles/10.3389/fncir.2018.00121/full)
+> In progress
 ---
 ## Posts and thesis 
 ### Blogs posts
@@ -129,6 +145,9 @@
 - [How to Be a Researcher - 2nd Edition, Jonathan St B. T. Evans 2015](https://www.amazon.com/How-Be-Researcher-Jonathan-Evans-dp-1138917311/dp/1138917311/ref=mt_paperback?_encoding=UTF8&me=&qid=)
 - [How to write and publish your research](https://www.rndtoday.co.uk/resource/how-to-write-and-publish-your-research/)
 - [How to write a research paper, Science Direct](https://www.sciencedirect.com/science/article/abs/pii/S1878764915001606)
+- [Google's Hybrid Approach to Research, Alfred Spector, Peter Norvig, Slav Petrov, 2013](https://cacm.acm.org/magazines/2012/7/151226-googles-hybrid-approach-to-research/fulltext)
+- [Google's Brain Team Approach](https://ai.googleblog.com/2017/09/the-google-brain-teams-approach-to.html)
+
 
 ### PyTorch
 > Orinigal tutorials on pyTorch
@@ -260,6 +279,9 @@
 - [Machine Learning, Josh Gordon](https://www.youtube.com/playlist?reload=9&list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal) 
 > In progress...
 
+#### Support courses 
+- [A Beginner's Guide to the Mathematics of Neural Networks, A.C.C. Coolen, 1998](https://nms.kcl.ac.uk/ton.coolen/published/1998/summerschool98.pdf) or [this link](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.161.3556&rep=rep1&type=pdf)
+
 ### Sites
 - [Practical Deep Learning for Coders, v3](https://course.fast.ai/index.html)
 - [Machine Learning Mastery, Jason Brownlee](https://machinelearningmastery.com/blog/)
@@ -273,6 +295,16 @@
 - [AI, Reddit](https://www.reddit.com/r/artificial/)
 > In progress...
 
+## General and technical additional books
+### General
+#### AI
+- [Superintelligence: Paths, Dangers, Strategies, Nick Bostrom, 2016](https://www.amazon.ca/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/0198739834/ref=sr_1_1?gclid=Cj0KCQiA4sjyBRC5ARIsAEHsELHxPya7k-L3v-CkJz5vYjk42FdwCkCtBFSzLPV0MdhVBIQ3LTIxfKgaAmp2EALw_wcB&hvadid=267118898067&hvdev=c&hvlocphy=9061026&hvnetw=g&hvqmt=e&hvrand=9290510744535489763&hvtargid=kwd-310248068568&hydadcr=22489_9261686&keywords=superintelligence+by+nick+bostrom&qid=1582506567&sr=8-1)
+- [Architects of Intelligence: The truth about AI from the people building it, Martin Ford, 2018](https://www.amazon.ca/Architects-Intelligence-truth-people-building/dp/1789131510/ref=sr_1_1?keywords=martin+ford&qid=1582506752&sr=8-1)
+- [There is no such thing as Artificial Intelligence, Luc julia, 2020](https://www.amazon.ca/There-such-thing-Artificial-Intelligence/dp/241205911X/ref=sr_1_8?keywords=luc+julia&qid=1582506912&sr=8-8)
+- [How We Learn: Why Brains Learn Better Than Any Machine . . . for Now, Stanislas Daheane, 2020](https://www.amazon.ca/How-We-Learn-Brains-Machine/dp/0525559884/ref=sr_1_1?crid=25CYFQQQ9ZVWJ&keywords=how+we+learn+why+brains+learn+better+than+any+machine&qid=1582507037&sprefix=how+we+learn+%2Caps%2C180&sr=8-1)
+- [Life 3.0: Being Human in the Age of Artificial Intelligence, Max Tegmark, 2018](https://www.amazon.ca/Life-3-0-Being-Artificial-Intelligence/dp/1101970316/ref=sr_1_1?crid=23BZ8KHCHHZDS&keywords=max+tegmark&qid=1582507239&sprefix=max+tergm%2Caps%2C178&sr=8-1)
+
+### Technical 
 ---
 ## Contribution
 Your contributions are always welcome!
