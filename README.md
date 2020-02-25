@@ -71,6 +71,7 @@
 
 ### Reinforcement Learning
 - [Reinforcement Learning: An Introduction - 2nd edition, Richard S. Sutton & Andrew G. Barto, 2018](https://www.amazon.ca/Reinforcement-Learning-Introduction-Richard-Sutton/dp/0262039249/ref=sr_1_1?crid=19RA25TZFYZJB&keywords=reinforcement+learning+an+introduction&qid=1581965840&s=books&sprefix=introduction+to+reinforce%2Cstripbooks%2C264&sr=1-1)
+- [Algorithms for Reinforcement Learning, Csaba Szepesvári, 2019](https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf)
 
 ### Quantum Computing
 - [Quantum Computation and Quantum Information - 10th Anniversary Edition, Michael A. Nielsen & Isaac L. CHuang, 2010](https://www.amazon.ca/Quantum-Computation-Information-10th-Anniversary/dp/1107002176/ref=sr_1_2?keywords=quantum+information+and+quantum+computing&qid=1581965920&s=books&sr=1-2)
@@ -249,6 +250,7 @@
 - [Google's Hybrid Approach to Research, Alfred Spector, Peter Norvig, Slav Petrov, 2013](https://cacm.acm.org/magazines/2012/7/151226-googles-hybrid-approach-to-research/fulltext)
 - [Google's Brain Team Approach](https://ai.googleblog.com/2017/09/the-google-brain-teams-approach-to.html)
 - [How to read a scientific paper, Christophe Pere, 2019](https://medium.com/@pere.christophe1/how-to-quickly-read-a-scientific-paper-efa066db2b0)
+- [Getting started with Git and GitHub](https://github.com/maptime/getting-started-with-git-and-github/blob/master/README.md)
 
 ### Librairies
 #### PyTorch
@@ -276,6 +278,7 @@
 - [Catalyst, Kolesnikov, Sergey, 2018](https://github.com/catalyst-team/catalyst)
 - [trfl, Deepmind, 2019](https://github.com/deepmind/trfl)
 - [d2l, Aston Zhang et al, 2020](https://github.com/dsgiitr/d2l-pytorch/blob/master/README.md)
+- [graph_nets, Graph Representation Learning, Data Science Group, IIT Roorkee](https://github.com/dsgiitr/graph_nets)
 
 ### Quantum Computing
 - [Micheal Nielsen ](https://quantum.country/)
@@ -331,6 +334,8 @@
 - [Terrence Sejnowski](https://www.salk.edu/scientist/terrence-sejnowski/)
 - [Michael I. Jordan](https://people.eecs.berkeley.edu/~jordan/)
 - [The Data Frog, Colin Bernet](https://thedatafrog.com/en/)
+- [Daniel Lemire' Blog](https://lemire.me/blog/)
+- [Berkeley Artificial Intelligence Research](https://bair.berkeley.edu/blog/) or [this link](https://bair.berkeley.edu/blog/archive/)
 
 ### List of most cited researchers
 - [Machine Learning](https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label%3Amachine_learning&btnG=)
@@ -389,6 +394,7 @@
 - [Sentdex](https://www.youtube.com/user/sentdex)
 - [Machine Learning, Josh Gordon](https://www.youtube.com/playlist?reload=9&list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal) 
 - [Stanford’s Free Artificial Intelligence course now available online, Arun C, 2020](https://medium.com/the-ultimate-engineer/stanfords-free-artificial-intelligence-course-now-available-online-e02fb5f966f)
+- [CS 287: Advanced Robotics, Fall 2019, Berkeley](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa19/)
 > In progress...
 
 #### Support courses 
