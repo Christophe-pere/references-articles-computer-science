@@ -58,11 +58,11 @@
 - [Artificial Intelligence: A Modern Approach, 4th edition, Stuart Russell & Peter Norvig](https://www.amazon.com/Artificial-Intelligence-A-Modern-Approach/dp/0134610997)
 
 ### Machine Learning
+- [The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition,  Trevor Hastie & Robert Tibshirani & Jerome Friedman, 2008](https://www.amazon.ca/Elements-Statistical-Learning-Inference-Prediction/dp/0387848576/ref=sr_1_3?keywords=learning+statistics&qid=1582507088&sr=8-3)
 - [Introduction to machine learning with Python: A Guide for Data Scientists, Andreas C. Müller & Sarah Guido, 2016](https://www.amazon.ca/Introduction-Machine-Learning-Python-Scientists/dp/1449369413/ref=asc_df_1449369413/?tag=googleshopc0c-20&linkCode=df0&hvadid=292901695602&hvpos=&hvnetw=g&hvrand=17038007849797717881&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9061026&hvtargid=pla-423142395481&psc=1)
 - [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems - 2nd edition, Aurélien Géron, 2019](https://www.amazon.ca/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646/ref=asc_df_1492032646/?tag=googleshopc0c-20&linkCode=df0&hvadid=335305582969&hvpos=1o1&hvnetw=g&hvrand=17038007849797717881&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9061026&hvtargid=pla-523968811896&psc=1)
 - [Python Machine Learning: Machine Learning and Deep Learning with Python, scikit-learn, and TensorFlow 2 - 3rd Edition, Sebastian Raschka & Vahid Mirjalili, 2019](https://www.amazon.ca/Python-Machine-Learning-scikit-learn-TensorFlow/dp/1789955750/ref=sr_1_fkmr0_1?keywords=%3Bachine+learning+sebastian&qid=1581965682&s=books&sr=1-1-fkmr0 )
 - [The Hundred-Page Machine Learning Book, Andriy Burkov, 2019](https://www.amazon.co.uk/Hundred-Page-Machine-Learning-Book/dp/199957950X/ref=pd_aw_sbs_14_5/262-1001262-4541403?_encoding=UTF8&pd_rd_i=199957950X&pd_rd_r=ceb793b5-741c-4388-bbcb-c4b656d7da98&pd_rd_w=t3urK&pd_rd_wg=7EqqE&pf_rd_p=15216146-4434-47f5-99d9-56240c85bf4d&pf_rd_r=RAHG1THCANSMBVCZC4WJ&psc=1&refRID=RAHG1THCANSMBVCZC4WJ)
-- [The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition,  Trevor Hastie & Robert Tibshirani & Jerome Friedman, 2008](https://www.amazon.ca/Elements-Statistical-Learning-Inference-Prediction/dp/0387848576/ref=sr_1_3?keywords=learning+statistics&qid=1582507088&sr=8-3)
 
 ### Deep Learning
 - [Deep Learning, Ian Goodfellow et al., 2016](https://www.amazon.ca/Deep-Learning-Ian-Goodfellow/dp/0262035618/ref=sr_1_1?crid=383XDGD8SRUNC&keywords=deep+learning+ian+goodfellow&qid=1581965751&s=books&sprefix=deep+learning%2Cstripbooks%2C269&sr=1-1)
@@ -79,8 +79,8 @@
 - [Quantum Computing: An Applied Approach, Jack D. Hilary, 2019](https://www.amazon.ca/Quantum-Computing-Approach-Jack-Hidary/dp/3030239217/ref=sr_1_1?keywords=quantum+information+and+quantum+computing&qid=1581965920&s=books&sr=1-1)
 
 ### Mathematics for Machine Learning
-- [Mathematics for Machine Learning](https://mml-book.github.io/book/mml-book.pdf)
 - [Math for Scientists Refreshing the Essentials, Maurits Natasha & Ćurčić-Blake Branislava, 2017](https://www.springer.com/gp/book/9783319573533)
+- [Mathematics for Machine Learning, Marc Peter Deisenroth & A. Aldo Faisal & Cheng Soon Ong, 2019](https://mml-book.github.io/book/mml-book.pdf)
 
 ### Causality
 - [The Book Of Why, Judea Pearl, 2018](https://www.amazon.ca/s?k=the+book+of+why&gclid=Cj0KCQiAnL7yBRD3ARIsAJp_oLZvL4ri7zRq9iKm6wyCwOFg58aKVxCf4Z7qFcTT2e6M_goUr8nEhfIaAnhVEALw_wcB&hvadid=231052835689&hvdev=c&hvlocphy=9061026&hvnetw=g&hvqmt=e&hvrand=14158692902202346976&hvtargid=kwd-300942500351&hydadcr=23340_10308593&tag=googcana-20&ref=pd_sl_78ok7l002g_e)
@@ -89,13 +89,12 @@
 > In progress...
 
 ### Additional Books
+- [Markov Decision Processes: Discrete Stochastic Dynamic Programming, Martin L. Puterman, 2005](https://www.wiley.com/en-us/Markov+Decision+Processes%3A+Discrete+Stochastic+Dynamic+Programming-p-9780471727828)
 - [Dance of the Photons: From Einstein to Quantum Teleportation, Anton Zeilinger, 2010](https://www.amazon.co.uk/Dance-Photons-Einstein-Quantum-Teleportation/dp/0374239665/ref=sr_1_1?s=books&ie=UTF8&qid=1524589007&sr=1-1&keywords=dance+of+the+photons)
 - [Quantum Mechanics: The Theoretical Minimum (Theoretical Minimum 2), Leonard Susskind & Art Friedman, 2014](https://www.amazon.co.uk/Quantum-Mechanics-Theoretical-Art-Friedman/dp/0465036678/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1524588975&sr=1-1)
-- [Hands-On Neuroevolution with Python, Iaroslav Omelianenko, 2019](https://www.packtpub.com/data/hands-on-neuroevolution-with-python)
-- [Algorithms for Reinforcement Learning, Csaba Szepesvári, 2010](https://sites.ualberta.ca/~szepesva/RLBook.html)
-- [Markov Decision Processes: Discrete Stochastic Dynamic Programming, Martin L. Puterman, 2005](https://www.wiley.com/en-us/Markov+Decision+Processes%3A+Discrete+Stochastic+Dynamic+Programming-p-9780471727828)
 - [Dynamic Programming and Optimal Control Vol I-II, Dimitri P. Bertsekas, 2012-2017](http://www.athenasc.com/dpbook.html)
 - [Approximate Dynamic Programming Solving the curses of dimensionality, Warren B. Powell, 2015](http://adp.princeton.edu/)
+- [Hands-On Neuroevolution with Python, Iaroslav Omelianenko, 2019](https://www.packtpub.com/data/hands-on-neuroevolution-with-python)
 
 ---
 
@@ -127,46 +126,43 @@
 > In progress...
 
 ### Machine Learning
-
-
-- [A fast learning algorithm for deep belief nets, Geoffrey E. Hinton & Simon Osindero & Yee-Whye Teh, 2006](https://www.cs.toronto.edu/~hinton/absps/fastnc.pdf)
-- [Latent Dirichlet Allocation, David M. Blei & Andrew Y. Ng & Michael I. Jordan, 2003](http://jmlr.org/papers/v3/blei03a.html)
-- [Random Forests, Leo Breiman , 2001](https://link.springer.com/article/10.1023%2FA%3A1010933404324)
-- [An Overview of Statistical Learning Theory, V Vapnik, 1999](http://web.mit.edu/6.962/www/www_spring_2001/emin/slt.pdf)
-- [Multivariate Density Estimation, David W Scott, 1992](https://onlinelibrary.wiley.com/doi/pdf/10.1002/9780470316849.fmatter)
-- [A training algorithm for optimum margin classifiers, Bernhard E. Boser & Isabelle M. Guyon & Vladimir N. Vapnik, 1992](https://www.svms.org/training/BOGV92.pdf)
-- [The strength of weak learnability, Robert E. Schapire, 1990](http://rob.schapire.net/papers/strengthofweak.pdf)
-- [Learning to predict by the method of Temporal difference, Richard S. Sutton, 1988](https://link.springer.com/content/pdf/10.1007/BF00115009.pdf)
-- [Learning Quickly When Irrelevant Attributes Abound: A New Linear-threshold Algorithm, Nick Littlestone, 1988](https://link.springer.com/content/pdf/10.1023/A:1022869011914.pdf)
-- [Induction of Decision Trees, J.R. Quinlan, 1986](https://link.springer.com/content/pdf/10.1007/BF00116251.pdf)
-- [Learning representations by back-propagating errors, David E. Rumelhart & Geoffrey E. Hinton & Ronald J. Williams, 1986](https://www.nature.com/articles/323533a0)
-- [A theory of the learnable, Leslie Valiant, 1984](https://people.mpi-inf.mpg.de/~mehlhorn/SeminarEvolvability/ValiantLearnable.pdf)
-- [Maximum likelihood from incomplete data via the EM algorithm, A P Dempster & N M Laird & D B Rubin, 1977](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.133.4884&rep=rep1&type=pdf)
-- [On the uniform convergence of relative frequencies of events to their probabilities, V. Vapnik & A. Chervonenkis, 1971](https://courses.engr.illinois.edu/ece544na/fa2014/vapnik71.pdf)
-- [Language identification in the limit, E. Mark Gold, 1967](http://web.mit.edu/~6.863/www/spring2009/readings/gold67limit.pdf)
 - [An Inductive Inference Machine, Ray Solomonoff, 1957](http://world.std.com/~rjs/indinf56.pdf)
+- [Language identification in the limit, E. Mark Gold, 1967](http://web.mit.edu/~6.863/www/spring2009/readings/gold67limit.pdf)
+- [On the uniform convergence of relative frequencies of events to their probabilities, V. Vapnik & A. Chervonenkis, 1971](https://courses.engr.illinois.edu/ece544na/fa2014/vapnik71.pdf)
+- [Maximum likelihood from incomplete data via the EM algorithm, A P Dempster & N M Laird & D B Rubin, 1977](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.133.4884&rep=rep1&type=pdf)
+- [A theory of the learnable, Leslie Valiant, 1984](https://people.mpi-inf.mpg.de/~mehlhorn/SeminarEvolvability/ValiantLearnable.pdf)
+- [Learning representations by back-propagating errors, David E. Rumelhart & Geoffrey E. Hinton & Ronald J. Williams, 1986](https://www.nature.com/articles/323533a0)
+- [Induction of Decision Trees, J.R. Quinlan, 1986](https://link.springer.com/content/pdf/10.1007/BF00116251.pdf)
+- [Learning Quickly When Irrelevant Attributes Abound: A New Linear-threshold Algorithm, Nick Littlestone, 1988](https://link.springer.com/content/pdf/10.1023/A:1022869011914.pdf)
+- [Learning to predict by the method of Temporal difference, Richard S. Sutton, 1988](https://link.springer.com/content/pdf/10.1007/BF00115009.pdf)
+- [The strength of weak learnability, Robert E. Schapire, 1990](http://rob.schapire.net/papers/strengthofweak.pdf)
+- [A training algorithm for optimum margin classifiers, Bernhard E. Boser & Isabelle M. Guyon & Vladimir N. Vapnik, 1992](https://www.svms.org/training/BOGV92.pdf)
+- [Multivariate Density Estimation, David W Scott, 1992](https://onlinelibrary.wiley.com/doi/pdf/10.1002/9780470316849.fmatter)
+- [An Overview of Statistical Learning Theory, V Vapnik, 1999](http://web.mit.edu/6.962/www/www_spring_2001/emin/slt.pdf)
+- [Random Forests, Leo Breiman , 2001](https://link.springer.com/article/10.1023%2FA%3A1010933404324)
+- [Latent Dirichlet Allocation, David M. Blei & Andrew Y. Ng & Michael I. Jordan, 2003](http://jmlr.org/papers/v3/blei03a.html)
+- [A fast learning algorithm for deep belief nets, Geoffrey E. Hinton & Simon Osindero & Yee-Whye Teh, 2006](https://www.cs.toronto.edu/~hinton/absps/fastnc.pdf)
 
 > In progress...
 
 ### Deep Learning
-
-- [XLNet: Generalized Autoregressive Pretraining for Language Understanding, Zhilin Yang et al, 2019](https://arxiv.org/pdf/1906.08237.pdf)
-- [TensorFlow: a system for large-scale machine learning, Martín A. el al, 2016](https://www.usenix.org/system/files/conference/osdi16/osdi16-abadi.pdf)
-- [Deep Residual Learning for Image Recognition, Kaiming He et al, 2016](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-- [Deep Learning, Yann LeCun & Yoshua Bengio & Geoffrey Hinton, 2015](https://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf)
-- [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks, Shaoqing R. et al., 2015](https://arxiv.org/pdf/1506.01497.pdf)
-- [Long-term recurrent convolutional networks for visual recognition and description,  Jeff D. et al., 2015](https://arxiv.org/pdf/1411.4389.pdf)
-- [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks, Alec R. & Luke M. & Soumith C., 2015](https://arxiv.org/pdf/1511.06434.pdf)
-- [U-Net: Convolutional Networks for Biomedical Image Segmentation, Olaf R. & Philipp F. & Thomas B.,2015](https://arxiv.org/pdf/1505.04597.pdf)
-- [Character-level convolutional networks for text classification, Xiang Z. & Junbo Jake Z. & Yann L. 2015](http://papers.nips.cc/paper/5782-character-level-convolutional-networks-for-text-classification.pdf)
-- [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift, Sergey Ioffe & Christian Szegedy, 2015](https://arxiv.org/pdf/1502.03167)
-- [Dropout: A Simple Way to Prevent Neural Networks from Overfitting, Nitish Srivastava et al, 2014](http://jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf)
-- [Generative Adversarial Nets, Ian J. Goodfellow et al, 2014](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)
-- [Visualizing and Understanding Convolutional Networks, by Matt Zeiler & Rob Fergus, 2013](https://arxiv.org/pdf/1311.2901.pdf)
-- [Distinctive Image Features from Scale-Invariant Keypoints, David G. Lowe, 2004](https://www.cs.ubc.ca/~lowe/papers/ijcv04.pdf)
-- [A tutorial on hidden Markov models and selected applications in speech recognition, R Rabiner, 1989](http://www.cs.cmu.edu/~cga/behavior/rabiner1.pdf)
-- [A computational approach to edge detection, J Canny, 1986](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.420.3300&rep=rep1&type=pdf)
 - [A Threshold Selection Method from Gray-Level Histograms, Nobuyuki Otsu, 1979](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=4310076)
+- [A computational approach to edge detection, J Canny, 1986](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.420.3300&rep=rep1&type=pdf)
+- [A tutorial on hidden Markov models and selected applications in speech recognition, R Rabiner, 1989](http://www.cs.cmu.edu/~cga/behavior/rabiner1.pdf)
+- [Distinctive Image Features from Scale-Invariant Keypoints, David G. Lowe, 2004](https://www.cs.ubc.ca/~lowe/papers/ijcv04.pdf)
+- [Visualizing and Understanding Convolutional Networks, by Matt Zeiler & Rob Fergus, 2013](https://arxiv.org/pdf/1311.2901.pdf)
+- [Generative Adversarial Nets, Ian J. Goodfellow et al, 2014](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)
+- [Dropout: A Simple Way to Prevent Neural Networks from Overfitting, Nitish Srivastava et al, 2014](http://jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf)
+- [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift, Sergey Ioffe & Christian Szegedy, 2015](https://arxiv.org/pdf/1502.03167)
+- [Character-level convolutional networks for text classification, Xiang Z. & Junbo Jake Z. & Yann L. 2015](http://papers.nips.cc/paper/5782-character-level-convolutional-networks-for-text-classification.pdf)
+- [U-Net: Convolutional Networks for Biomedical Image Segmentation, Olaf R. & Philipp F. & Thomas B.,2015](https://arxiv.org/pdf/1505.04597.pdf)
+- [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks, Alec R. & Luke M. & Soumith C., 2015](https://arxiv.org/pdf/1511.06434.pdf)
+- [Long-term recurrent convolutional networks for visual recognition and description,  Jeff D. et al., 2015](https://arxiv.org/pdf/1411.4389.pdf)
+- [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks, Shaoqing R. et al., 2015](https://arxiv.org/pdf/1506.01497.pdf)
+- [Deep Learning, Yann LeCun & Yoshua Bengio & Geoffrey Hinton, 2015](https://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf)
+- [Deep Residual Learning for Image Recognition, Kaiming He et al, 2016](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+- [TensorFlow: a system for large-scale machine learning, Martín A. el al, 2016](https://www.usenix.org/system/files/conference/osdi16/osdi16-abadi.pdf)
+- [XLNet: Generalized Autoregressive Pretraining for Language Understanding, Zhilin Yang et al, 2019](https://arxiv.org/pdf/1906.08237.pdf)
 
 > An exhaustive list can be found in the Deep Learning, Goodfellow I. et al, 2016:
 - [Deep Learning, Goodfellow I. et al, 2016 - bibliography](https://www.deeplearningbook.org/contents/bib.html)
@@ -198,6 +194,7 @@
 - [Fault-tolerant quantum computation by anyons, A. Yu. Kitaev, 1997](https://arxiv.org/pdf/quant-ph/9707021)
 - [Quantum Computation by Adiabatic Evolution, Edward Farhi, 2000](https://arxiv.org/pdf/quant-ph/0001106)
 > In progress...
+
 #### Quantum Approximate Optimization Algorithm
 - [A Quantum Approximate Optimization Algorithm, Edward Farhi & Jeffrey Goldstone, 2014](https://arxiv.org/pdf/1411.4028.pdf)
 - [Improving Variational Quantum Optimization using CVaR, Panagiotis Kl. Barkoutsos et al, 2019](https://arxiv.org/pdf/1907.04769.pdf)
@@ -352,6 +349,7 @@
 - [Andrew Ng, arxiv](https://arxiv.org/search/?searchtype=author&query=Ng%2C+A+Y) or [Andrew Ng, scholar google](https://scholar.google.com/citations?hl=en&user=mG4imMEAAAAJ)
 - [Christopher D. Manning, arxiv](https://arxiv.org/search/?searchtype=author&query=Manning%2C+C+D) or  [Christopher D. Manning, scholar google](https://scholar.google.com/citations?hl=en&user=1zmDOdwAAAAJ)
 - [Daphne Koller, scholar google](http://ai.stanford.edu/users/koller/)
+- [David Silver, scholar google](https://scholar.google.com/citations?hl=en&user=-8DNE4UAAAAJ)
 - [Doina Precup, arxiv](https://arxiv.org/search/?searchtype=author&query=Precup%2C+D) or [Doina Precup, scholar google](https://scholar.google.com/citations?hl=en&user=j54VcVEAAAAJ)
 - [François Chollet, arxiv](https://arxiv.org/search/?searchtype=author&query=Chollet%2C+F) or [François Chollet, scholar google](https://scholar.google.com/citations?hl=en&user=VfYhf2wAAAAJ)
 - [Gary Marcus](https://dblp.org/pers/m/Marcus:Gary.html)
@@ -420,14 +418,14 @@
 #### AI
 - [Superintelligence: Paths, Dangers, Strategies, Nick Bostrom, 2016](https://www.amazon.ca/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/0198739834/ref=sr_1_1?gclid=Cj0KCQiA4sjyBRC5ARIsAEHsELHxPya7k-L3v-CkJz5vYjk42FdwCkCtBFSzLPV0MdhVBIQ3LTIxfKgaAmp2EALw_wcB&hvadid=267118898067&hvdev=c&hvlocphy=9061026&hvnetw=g&hvqmt=e&hvrand=9290510744535489763&hvtargid=kwd-310248068568&hydadcr=22489_9261686&keywords=superintelligence+by+nick+bostrom&qid=1582506567&sr=8-1)
 - [Architects of Intelligence: The truth about AI from the people building it, Martin Ford, 2018](https://www.amazon.ca/Architects-Intelligence-truth-people-building/dp/1789131510/ref=sr_1_1?keywords=martin+ford&qid=1582506752&sr=8-1)
+- [Life 3.0: Being Human in the Age of Artificial Intelligence, Max Tegmark, 2018](https://www.amazon.ca/Life-3-0-Being-Artificial-Intelligence/dp/1101970316/ref=sr_1_1?crid=23BZ8KHCHHZDS&keywords=max+tegmark&qid=1582507239&sprefix=max+tergm%2Caps%2C178&sr=8-1)
 - [There is no such thing as Artificial Intelligence, Luc julia, 2020](https://www.amazon.ca/There-such-thing-Artificial-Intelligence/dp/241205911X/ref=sr_1_8?keywords=luc+julia&qid=1582506912&sr=8-8)
 - [How We Learn: Why Brains Learn Better Than Any Machine . . . for Now, Stanislas Daheane, 2020](https://www.amazon.ca/How-We-Learn-Brains-Machine/dp/0525559884/ref=sr_1_1?crid=25CYFQQQ9ZVWJ&keywords=how+we+learn+why+brains+learn+better+than+any+machine&qid=1582507037&sprefix=how+we+learn+%2Caps%2C180&sr=8-1)
-- [Life 3.0: Being Human in the Age of Artificial Intelligence, Max Tegmark, 2018](https://www.amazon.ca/Life-3-0-Being-Artificial-Intelligence/dp/1101970316/ref=sr_1_1?crid=23BZ8KHCHHZDS&keywords=max+tegmark&qid=1582507239&sprefix=max+tergm%2Caps%2C178&sr=8-1)
 > In progress...
 
 ### Technical
-- [Advanced Deep Learning with Python, Ivan Vasilev, 2019](https://www.packtpub.com/data/advanced-deep-learning-with-python)
 - [The art of Computer Programming, Vol 1-2-3-4a, Donald E. Knuth](https://www.amazon.ca/Computer-Programming-Volumes-1-4A-Boxed/dp/0321751043)
+- [Advanced Deep Learning with Python, Ivan Vasilev, 2019](https://www.packtpub.com/data/advanced-deep-learning-with-python)
 
 > In progres...
 ---
