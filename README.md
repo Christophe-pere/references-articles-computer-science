@@ -13,6 +13,7 @@
 	- [Machine Learning](#machine-learning)
 	- [Deep Learning](#deep-learning)
 	- [Reinfrocement Learning](#reinforcement-learning)
+	- [Meta-Learning](#meta-learning)
 	- [Quantum Computing](#quantum-computing)
 	- [Mathematics for Machine Learning](#mathematics-for-machine-learning)
 	- [Causality](#causality)
@@ -46,6 +47,7 @@
 		- [YouTube](#youtube)
 	- [Sites](#sites)
 	- [AI Communities](#ai-communities)
+- [Datasets](#datasts)
 - [General and technical additional books](#general-and-technical-additional-books)
 	- [General](#general)
 	- [Technical](#technical)
@@ -72,6 +74,9 @@
 ### Reinforcement Learning
 - [Reinforcement Learning: An Introduction - 2nd edition, Richard S. Sutton & Andrew G. Barto, 2018](https://www.amazon.ca/Reinforcement-Learning-Introduction-Richard-Sutton/dp/0262039249/ref=sr_1_1?crid=19RA25TZFYZJB&keywords=reinforcement+learning+an+introduction&qid=1581965840&s=books&sprefix=introduction+to+reinforce%2Cstripbooks%2C264&sr=1-1)
 - [Algorithms for Reinforcement Learning, Csaba Szepesvári, 2019](https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf)
+
+### Meta-Learning
+- [Hands-On Meta Learning With Python, Sudharsan Ravichandiran, 2018](https://www.amazon.com/Hands-Meta-Learning-Python-algorithms-ebook/dp/B07KJJHYKF/ref=sr_1_1?ie=UTF8&qid=1543222179&sr=8-1&keywords=meta+learning+hands+on)
 
 ### Quantum Computing
 - [Quantum Computation and Quantum Information - 10th Anniversary Edition, Michael A. Nielsen & Isaac L. CHuang, 2010](https://www.amazon.ca/Quantum-Computation-Information-10th-Anniversary/dp/1107002176/ref=sr_1_2?keywords=quantum+information+and+quantum+computing&qid=1581965920&s=books&sr=1-2)
@@ -138,6 +143,7 @@
 - [The strength of weak learnability, Robert E. Schapire, 1990](http://rob.schapire.net/papers/strengthofweak.pdf)
 - [A training algorithm for optimum margin classifiers, Bernhard E. Boser & Isabelle M. Guyon & Vladimir N. Vapnik, 1992](https://www.svms.org/training/BOGV92.pdf)
 - [Multivariate Density Estimation, David W Scott, 1992](https://onlinelibrary.wiley.com/doi/pdf/10.1002/9780470316849.fmatter)
+- [A Decision-Theoretic Generalization of On-Line Learning and an Application to Boosting, Yoav Freund & Robert E Schapire, 1997](https://dl.acm.org/doi/10.1006/jcss.1997.1504)
 - [An Overview of Statistical Learning Theory, V Vapnik, 1999](http://web.mit.edu/6.962/www/www_spring_2001/emin/slt.pdf)
 - [Random Forests, Leo Breiman , 2001](https://link.springer.com/article/10.1023%2FA%3A1010933404324)
 - [Latent Dirichlet Allocation, David M. Blei & Andrew Y. Ng & Michael I. Jordan, 2003](http://jmlr.org/papers/v3/blei03a.html)
@@ -183,6 +189,7 @@
 - [Rainbow: Combining Improvements in Deep Reinforcement Learning, Hessel et al, 2017](https://arxiv.org/pdf/1710.02298)
 - [Grandmaster level in StarCraft II using multi-agent reinforcement learning, Oriol Vinyals et al, 2019](https://www.nature.com/articles/s41586-019-1724-z.epdf?author_access_token=lZH3nqPYtWJXfDA10W0CNNRgN0jAjWel9jnR3ZoTv0PSZcPzJFGNAZhOlk4deBCKzKm70KfinloafEF1bCCXL6IIHHgKaDkaTkBcTEv7aT-wqDoG1VeO9-wO3GEoAMF9bAOt7mJ0RWQnRVMbyfgH9A%3D%3D)
 > In progress...
+
 
 ### Quantum Computing
 #### Quantum Computing
@@ -394,6 +401,10 @@
 - [Machine Learning, Josh Gordon](https://www.youtube.com/playlist?reload=9&list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal) 
 - [Stanford’s Free Artificial Intelligence course now available online, Arun C, 2020](https://medium.com/the-ultimate-engineer/stanfords-free-artificial-intelligence-course-now-available-online-e02fb5f966f)
 - [CS 287: Advanced Robotics, Fall 2019, Berkeley](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa19/)
+- [Stanford CS330: Deep Multi-Task and Meta Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5)
+- [Programming Methodology, Stanford](https://www.youtube.com/watch?v=KkMDCCdjyW8&list=PL84A56BC7F4A1F852)
+- [Introduction to Computer Science I, Harvard](https://www.youtube.com/watch?v=z-OxzIC6pic&list=PLvJoKWRPIu8G6Si7LlvmBPA5rOJ9BA29R)
+
 > In progress...
 
 #### Support courses 
@@ -415,6 +426,10 @@
 > In progress...
 
 --- 
+## Datasets
+- [Dataset Search, Google](https://datasetsearch.research.google.com/)
+
+---
 ## General and technical additional books
 ### General
 #### AI
