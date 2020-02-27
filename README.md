@@ -95,7 +95,7 @@
 - [Dynamic Programming and Optimal Control Vol I-II, Dimitri P. Bertsekas, 2012-2017](http://www.athenasc.com/dpbook.html)
 - [Approximate Dynamic Programming Solving the curses of dimensionality, Warren B. Powell, 2015](http://adp.princeton.edu/)
 - [Hands-On Neuroevolution with Python, Iaroslav Omelianenko, 2019](https://www.packtpub.com/data/hands-on-neuroevolution-with-python)
-
+- [d2l, Aston Zhang et al, 2020](https://github.com/dsgiitr/d2l-pytorch/blob/master/README.md)
 ---
 
 ## Articles
@@ -274,8 +274,9 @@
 #### Packages
 - [Catalyst, Kolesnikov, Sergey, 2018](https://github.com/catalyst-team/catalyst)
 - [trfl, Deepmind, 2019](https://github.com/deepmind/trfl)
-- [d2l, Aston Zhang et al, 2020](https://github.com/dsgiitr/d2l-pytorch/blob/master/README.md)
 - [graph_nets, Graph Representation Learning, Data Science Group, IIT Roorkee](https://github.com/dsgiitr/graph_nets)
+- [The Abstraction and Reasoning Corpus (ARC), François Chollet, 2019](https://github.com/fchollet/ARC)
+> In progress...
 
 ### Quantum Computing
 - [Micheal Nielsen ](https://quantum.country/)
@@ -403,6 +404,7 @@
 - [Machine Learning Mastery, Jason Brownlee](https://machinelearningmastery.com/blog/)
 - [Towards Data Science, Medium](https://towardsdatascience.com/)
 - [A.I. Wiki, Pathmind](https://pathmind.com/wiki/)
+- [Computer Vision, Microsoft, 2020](https://github.com/microsoft/computervision-recipes)
 > In progress...
 
 ### AI communities
