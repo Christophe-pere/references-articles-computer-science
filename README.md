@@ -234,7 +234,12 @@
 
 ---
 ## Posts and thesis 
-### Blogs posts
+### Blog posts
+- [Learning Policies For Learning Policies — Meta Reinforcement Learning (RL²) in Tensorflow, Arthur Juliani, 2017](https://hackernoon.com/learning-policies-for-learning-policies-meta-reinforcement-learning-rl%C2%B2-in-tensorflow-b15b592a2ddf
+- [Reinforcement Learning, Lilian Weng, 2018](https://lilianweng.github.io/lil-log/2018/02/19/a-long-peek-into-reinforcement-learning.html)
+- [Meta-Learning: Learning to Learn Fast, Lilian Weng, 2018](https://lilianweng.github.io/lil-log/2018/11/30/meta-learning.html)
+- [Meta-Reinforcement Learning, Michaël Trazzi, 2019](https://blog.floydhub.com/meta-rl/ )
+- [Meta-Reinforcement Learning, Lilian Weng, 2019](https://lilianweng.github.io/lil-log/2019/06/23/meta-reinforcement-learning.html)
 > In progress...
 
 
