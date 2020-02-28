@@ -23,7 +23,7 @@
 	- [Artificial intelligence](#artificial-intelligence-1)
 	- [Machine Learning](#machine-learning-1)
 	- [Deep Learning](#deep-learning-1)
-	- [Reinfrocement Learning](#reinforcement-learning-1)
+	- [Reinforcement Learning](#reinforcement-learning-1)
 	- [Meta-Learning](#meta-learning-1)
 	- [Quantum Computing](#quantum-computing-1)
 	- [Causality](#causality-1)
