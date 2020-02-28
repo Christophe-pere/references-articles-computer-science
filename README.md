@@ -24,6 +24,7 @@
 	- [Machine Learning](#machine-learning-1)
 	- [Deep Learning](#deep-learning-1)
 	- [Reinfrocement Learning](#reinforcement-learning-1)
+	- [Meta-Learning](#meta-learning-1)
 	- [Quantum Computing](#quantum-computing-1)
 	- [Causality](#causality-1)
 	- [Computational Neuroscience](#computational-neuroscience-1)
@@ -190,6 +191,10 @@
 - [Grandmaster level in StarCraft II using multi-agent reinforcement learning, Oriol Vinyals et al, 2019](https://www.nature.com/articles/s41586-019-1724-z.epdf?author_access_token=lZH3nqPYtWJXfDA10W0CNNRgN0jAjWel9jnR3ZoTv0PSZcPzJFGNAZhOlk4deBCKzKm70KfinloafEF1bCCXL6IIHHgKaDkaTkBcTEv7aT-wqDoG1VeO9-wO3GEoAMF9bAOt7mJ0RWQnRVMbyfgH9A%3D%3D)
 > In progress...
 
+### Meta-Learning 
+
+> In progress...
+
 
 ### Quantum Computing
 #### Quantum Computing
@@ -236,10 +241,12 @@
 ## Posts and thesis 
 ### Blog posts
 - [Learning Policies For Learning Policies — Meta Reinforcement Learning (RL²) in Tensorflow, Arthur Juliani, 2017](https://hackernoon.com/learning-policies-for-learning-policies-meta-reinforcement-learning-rl%C2%B2-in-tensorflow-b15b592a2ddf)
+- [Learning to learn, Berkeley Artificial Intelligence Research, 2017](https://bair.berkeley.edu/blog/2017/07/18/learning-to-learn/)
 - [Reinforcement Learning, Lilian Weng, 2018](https://lilianweng.github.io/lil-log/2018/02/19/a-long-peek-into-reinforcement-learning.html)
 - [Meta-Learning: Learning to Learn Fast, Lilian Weng, 2018](https://lilianweng.github.io/lil-log/2018/11/30/meta-learning.html)
 - [Meta-Reinforcement Learning, Michaël Trazzi, 2019](https://blog.floydhub.com/meta-rl/ )
 - [Meta-Reinforcement Learning, Lilian Weng, 2019](https://lilianweng.github.io/lil-log/2019/06/23/meta-reinforcement-learning.html)
+- [Meta-Learning: from Few-Shot Learning to Rapid  Reinforcement Learning ICML 2019 Tutorial, Chelsea Finn & Sergey Levine, 2019](https://sites.google.com/view/icml19metalearning)
 > In progress...
 
 
