@@ -145,6 +145,7 @@
 > In progress...
 
 ### Machine Learning
+- [LIII. On lines and planes of closest fit to systems of points in space, Karl Pearson, 1901](https://zenodo.org/record/1430636#.XlrLsZpKiUk) Invention of PCA
 - [An Inductive Inference Machine, Ray Solomonoff, 1957](http://world.std.com/~rjs/indinf56.pdf)
 - [Language identification in the limit, E. Mark Gold, 1967](http://web.mit.edu/~6.863/www/spring2009/readings/gold67limit.pdf)
 - [On the uniform convergence of relative frequencies of events to their probabilities, V. Vapnik & A. Chervonenkis, 1971](https://courses.engr.illinois.edu/ece544na/fa2014/vapnik71.pdf)
@@ -157,10 +158,18 @@
 - [The strength of weak learnability, Robert E. Schapire, 1990](http://rob.schapire.net/papers/strengthofweak.pdf)
 - [A training algorithm for optimum margin classifiers, Bernhard E. Boser & Isabelle M. Guyon & Vladimir N. Vapnik, 1992](https://www.svms.org/training/BOGV92.pdf)
 - [Multivariate Density Estimation, David W Scott, 1992](https://onlinelibrary.wiley.com/doi/pdf/10.1002/9780470316849.fmatter)
+- [Support-Vector Networks, Corinna Cortes & Vladimir Vapnik, 1995](http://image.diku.dk/imagecanon/material/cortes_vapnik95.pdf)
 - [A Decision-Theoretic Generalization of On-Line Learning and an Application to Boosting, Yoav Freund & Robert E Schapire, 1997](https://dl.acm.org/doi/10.1006/jcss.1997.1504)
+- [Introduction to Gaussian Processes, David J. C. Macklay, 1998](http://www.inference.org.uk/mackay/gpB.pdf)
 - [An Overview of Statistical Learning Theory, V Vapnik, 1999](http://web.mit.edu/6.962/www/www_spring_2001/emin/slt.pdf)
+- [Improved Boosting Algorithms Using Confidence-rated Predictions, Robert E. Schapire & Yoram Singer, 1999](https://link.springer.com/content/pdf/10.1023/A:1007614523901.pdf)
+- [Boosting Algorithms as Gradient Descent, Llew Mason et al, 2000](https://papers.nips.cc/paper/1766-boosting-algorithms-as-gradient-descent.pdf)
+- [Additive logistic regression: a statistical view of boosting, J. H. Friedman & T. Hastie & R. Tibshirani, 2000](https://web.stanford.edu/~hastie/Papers/AdditiveLogisticRegression/alr.pdf)
 - [Random Forests, Leo Breiman , 2001](https://link.springer.com/article/10.1023%2FA%3A1010933404324)
+- [Estimating the number of clusters in a data set via the ap statistic, Robert Tibshirani & Guenther Walther & Trevor Hastie, 2001](https://statweb.stanford.edu/~gwalther/gap)
+- [Learning with Kernels Support Vector Machines, Regularization, Optimization, and Beyond, Bernhard Schölkopf & Alexander J. Smola, 2002](https://mitpress.mit.edu/books/learning-kernels)
 - [Latent Dirichlet Allocation, David M. Blei & Andrew Y. Ng & Michael I. Jordan, 2003](http://jmlr.org/papers/v3/blei03a.html)
+- [An Introduction to Variable and Feature Selection, Isabelle Guyon & Andre Elisseeff, 2003](http://jmlr.org/papers/volume3/guyon03a/guyon03a.pdf)
 - [A fast learning algorithm for deep belief nets, Geoffrey E. Hinton & Simon Osindero & Yee-Whye Teh, 2006](https://www.cs.toronto.edu/~hinton/absps/fastnc.pdf)
 
 > In progress...
@@ -183,7 +192,7 @@
 - [Deep Residual Learning for Image Recognition, Kaiming He et al, 2016](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 - [TensorFlow: a system for large-scale machine learning, Martín A. el al, 2016](https://www.usenix.org/system/files/conference/osdi16/osdi16-abadi.pdf)
 - [XLNet: Generalized Autoregressive Pretraining for Language Understanding, Zhilin Yang et al, 2019](https://arxiv.org/pdf/1906.08237.pdf)
-
+- [PyTorch: An Imperative Style, High-Performance Deep Learning Library, Adam Paszke et al, 2019](https://arxiv.org/pdf/1912.01703.pdf)
 > An exhaustive list can be found in the Deep Learning, Goodfellow I. et al, 2016:
 - [Deep Learning, Goodfellow I. et al, 2016 - bibliography](https://www.deeplearningbook.org/contents/bib.html)
 > In progress...
@@ -205,6 +214,17 @@
 > In progress...
 
 ### Meta-Learning 
+- [Neural Turing Machines, Alex Graves & Greg Wayne & Ivo Danihelka, 2014](https://arxiv.org/pdf/1410.5401)
+- [Siamese Neural Networks for One-shot Image Recognition, Gregory Koch & Richard Zemel & Ruslan Salakhutdinov, 2015](http://www.cs.toronto.edu/~rsalakhu/papers/oneshot1.pdf)
+- [Meta-Learning with Memory-Augmented Neural Networks, Adam Santoro et al., 2016](http://proceedings.mlr.press/v48/santoro16.pdf)
+- [Matching Networks for One Shot Learning, Oriol Vinyals et al., 2016](http://papers.nips.cc/paper/6385-matching-networks-for-one-shot-learning.pdf)
+- [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks, Chelsea Finn & Pieter Abbeel & Sergey Levine, 2017](https://arxiv.org/pdf/1703.03400)
+- [Meta Networks, Tsendsuren Munkhdalai & Hong Yu, 2017](https://arxiv.org/pdf/1703.00837)
+- [Prototypical Networks for Few-shot Learning, Jake Snell & Kevin Swersky & Richard Zemel, 2017](http://papers.nips.cc/paper/6996-prototypical-networks-for-few-shot-learning.pdf)
+- [Optimization As A Model For Few-Shot Learning, Sachin Ravi & Hugo Larochelle, 2017](https://openreview.net/pdf?id=rJY0-Kcll)
+- [Learning to Compare: Relation Network for Few-Shot Learning, Flood Sung et al., 2018](http://openaccess.thecvf.com/content_cvpr_2018/papers_backup/Sung_Learning_to_Compare_CVPR_2018_paper.pdf)
+- [On First-Order Meta-Learning Algorithms, Alex Nichol & Joshua Achiam & John Schulman, 2018](https://arxiv.org/pdf/1803.02999)
+- [Meta-Learning: A Survey¸, Joaquin Vanschoren, 2018](https://arxiv.org/pdf/1810.03548.pdf)
 - [Learning to Continually Learn, Shawn Beaulieu, 2020](https://arxiv.org/abs/2002.09571)
 > In progress...
 
