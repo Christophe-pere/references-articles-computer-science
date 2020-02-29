@@ -99,7 +99,11 @@
 - [The Book Of Why, Judea Pearl, 2018](https://www.amazon.ca/s?k=the+book+of+why&gclid=Cj0KCQiAnL7yBRD3ARIsAJp_oLZvL4ri7zRq9iKm6wyCwOFg58aKVxCf4Z7qFcTT2e6M_goUr8nEhfIaAnhVEALw_wcB&hvadid=231052835689&hvdev=c&hvlocphy=9061026&hvnetw=g&hvqmt=e&hvrand=14158692902202346976&hvtargid=kwd-300942500351&hydadcr=23340_10308593&tag=googcana-20&ref=pd_sl_78ok7l002g_e)
 
 ### Computational Neuroscience
-> In progress...
+- [Theoretical Neuroscience: Computational and Mathematical Modeling of Neural Systems, Peter Dayan & Laurence F. Abbott, 2005](https://www.amazon.ca/Theoretical-Neuroscience-Computational-Mathematical-Modeling/dp/0262541858)
+- [Fundamentals of Computational Neuroscience, Thomas Trappenberg, 2009](https://www.amazon.ca/Fundamentals-Computational-Neuroscience-Thomas-Trappenberg/dp/0199568413)
+- [From Neuron to Brain, John G. Nicholls et al., 2011](https://www.amazon.ca/Neuron-Brain-John-G-Nicholls/dp/0878936092)
+- [From Neuron to Cognition via Computational Neuroscience, Nicolas Brunel et al., 2016](https://www.amazon.ca/Neuron-Cognition-via-Computational-Neuroscience/dp/0262034964)
+
 
 ### Data Analyse and Data Science
 - [Data Science from Scratch: First Principles with Python, 2nd edition, Joel Grus, 2019](https://www.amazon.ca/Data-Science-Scratch-Principles-Python/dp/1492041130/ref=sr_1_1?keywords=Data+Science+from+Scratch%3A+First+Principles+with+Python&qid=1583005130&s=books&sr=1-1)
@@ -226,7 +230,6 @@
 - [On First-Order Meta-Learning Algorithms, Alex Nichol & Joshua Achiam & John Schulman, 2018](https://arxiv.org/pdf/1803.02999)
 - [Meta-Learning: A Survey¸, Joaquin Vanschoren, 2018](https://arxiv.org/pdf/1810.03548.pdf)
 - [Learning to Continually Learn, Shawn Beaulieu, 2020](https://arxiv.org/abs/2002.09571)
-> In progress...
 
 
 ### Quantum Computing
