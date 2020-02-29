@@ -107,10 +107,10 @@
 
 
 ### Data Analyse and Data Science
-- [Data Science from Scratch: First Principles with Python, 2nd edition, Joel Grus, 2019](https://www.amazon.ca/Data-Science-Scratch-Principles-Python/dp/1492041130/ref=sr_1_1?keywords=Data+Science+from+Scratch%3A+First+Principles+with+Python&qid=1583005130&s=books&sr=1-1)
-- [Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython, Wes McKinney, 2017](https://www.amazon.com/gp/product/1491957662/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1491957662&linkCode=as2&tag=petacrunch-20&linkId=7664d523f4c3d5195b201dc219efdd15)
-- [Python Data Science Handbook: Essential Tools for Working with Data, Jake VanderPlas, 2016](https://www.amazon.com/gp/product/1491912057/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1491912057&linkCode=as2&tag=petacrunch-20&linkId=3882a97fd104467b624bad3e5ff5431b)
 - [Machine Learning for Hackers: Case Studies and Algorithms to Get You Started, Drew Conway & John Myles, 2012](https://www.amazon.in/Machine-Learning-Hackers-Conway/dp/9350236745/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1483608652&sr=1-1&keywords=Machine+Learning+for+Hackers&linkCode=sl1&tag=analyvidhy-21&linkId=aa17e72e798105d1043d53decfd915ae)
+- [Python Data Science Handbook: Essential Tools for Working with Data, Jake VanderPlas, 2016](https://www.amazon.com/gp/product/1491912057/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1491912057&linkCode=as2&tag=petacrunch-20&linkId=3882a97fd104467b624bad3e5ff5431b)
+- [Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython, Wes McKinney, 2017](https://www.amazon.com/gp/product/1491957662/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1491957662&linkCode=as2&tag=petacrunch-20&linkId=7664d523f4c3d5195b201dc219efdd15)
+- [Data Science from Scratch: First Principles with Python, 2nd edition, Joel Grus, 2019](https://www.amazon.ca/Data-Science-Scratch-Principles-Python/dp/1492041130/ref=sr_1_1?keywords=Data+Science+from+Scratch%3A+First+Principles+with+Python&qid=1583005130&s=books&sr=1-1)
 
 ### Additional Books
 - [Markov Decision Processes: Discrete Stochastic Dynamic Programming, Martin L. Puterman, 2005](https://www.wiley.com/en-us/Markov+Decision+Processes%3A+Discrete+Stochastic+Dynamic+Programming-p-9780471727828)
