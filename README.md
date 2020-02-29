@@ -96,6 +96,7 @@
 - [Mathematics for Machine Learning, Marc Peter Deisenroth & A. Aldo Faisal & Cheng Soon Ong, 2019](https://mml-book.github.io/book/mml-book.pdf)
 
 ### Causality
+- [Causal Inference in Statistics: A Primer, Judea Pearl & Madelyn Glymour & Nicholas P. Jewell, 2016](https://www.amazon.ca/Causal-Inference-Statistics-Judea-Pearl/dp/1119186846)
 - [The Book Of Why, Judea Pearl, 2018](https://www.amazon.ca/s?k=the+book+of+why&gclid=Cj0KCQiAnL7yBRD3ARIsAJp_oLZvL4ri7zRq9iKm6wyCwOFg58aKVxCf4Z7qFcTT2e6M_goUr8nEhfIaAnhVEALw_wcB&hvadid=231052835689&hvdev=c&hvlocphy=9061026&hvnetw=g&hvqmt=e&hvrand=14158692902202346976&hvtargid=kwd-300942500351&hydadcr=23340_10308593&tag=googcana-20&ref=pd_sl_78ok7l002g_e)
 
 ### Computational Neuroscience
