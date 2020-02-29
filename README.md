@@ -18,6 +18,7 @@
 	- [Mathematics for Machine Learning](#mathematics-for-machine-learning)
 	- [Causality](#causality)
 	- [Computational Neuroscience](#computational-neuroscience)
+	- [Data Analyse and Data Science](#Data-Analyse-and-Data-Science)
 	- [Additional books](#additional-books)
 - [Articles](#articles)
 	- [Artificial intelligence](#artificial-intelligence-1)
@@ -38,7 +39,7 @@
 		- [Tensorflow](#tensorflow)
 		- [Packages](#packages)
 	- [Quantum Computing](#quantum-computing)
-	- [Sites for articles](#Sites-for-articles)
+	- [Research Papers & Academic Resources](#Research-Papers-&-Academic-Resources)
 	- [NLP](#nlp)
 	- [Blogs](#blogs)
 	- [List of most cited researchers](#list-of-most-cited-researchers)
@@ -58,11 +59,17 @@
 ## Textbooks
 
 ### Artificial Intelligence
-- [Artificial Intelligence: A Modern Approach, 4th edition, Stuart Russell & Peter Norvig](https://www.amazon.com/Artificial-Intelligence-A-Modern-Approach/dp/0134610997)
+- [Fundamental Algorithms: 1 (Artificial Intelligence for Humans), Jeff Heaton, 2013](https://www.amazon.in/Fundamental-Algorithms-Artificial-Intelligence-Humans/dp/1493682229/ref=as_li_ss_tl?_encoding=UTF8&psc=1&refRID=05B95DHHR5KQTBTDZ1G5&linkCode=sl1&tag=analyvidhy-21&linkId=e1ffe654b5c32e635aeaa3aa08a8dd17)
+- [Artificial Intelligence with Python: A Comprehensive Guide to Building Intelligent Apps for Python Beginners and Developers, Prateek Joshi, 2017](https://www.amazon.ca/Artificial-Intelligence-Python-Comprehensive-Intelligent-ebook/dp/B01IRD0LBY)
+- [Artificial Intelligence: A Modern Approach, 4th edition, Stuart Russell & Peter Norvig, 2020](https://www.amazon.com/Artificial-Intelligence-A-Modern-Approach/dp/0134610997)
 
 ### Machine Learning
 - [The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition,  Trevor Hastie & Robert Tibshirani & Jerome Friedman, 2008](https://www.amazon.ca/Elements-Statistical-Learning-Inference-Prediction/dp/0387848576/ref=sr_1_3?keywords=learning+statistics&qid=1582507088&sr=8-3)
+- [Pattern Recognition and Machine Learning, Christopher M. Bishop, 2011](https://www.amazon.ca/dp/0387310738/ref=as_li_tl?ie=UTF8&linkCode=gs2&linkId=11e0911952bfc7a8adf52b3eae0f461c&creativeASIN=0387310738&tag=petacrunch04-20&creative=9325&camp=1789)
+- [Programming Collective Intelligence: Building Smart Web 2.0 Applications, Toby Segaran, 2011](https://www.amazon.in/Programming-Collective-Intelligence-Segaran/dp/8184043708/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1483608623&sr=1-1&keywords=Programming+Collective+Intelligence&linkCode=sl1&tag=analyvidhy-21&linkId=2a33af9df134576d7cffb3af304efd33)
+- [Machine Learning: a Probabilistic Perspective, Kevin P. Murphy, 2012](https://www.amazon.com/gp/product/0262018020/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0262018020&linkCode=as2&tag=petacrunch-20&linkId=a52c63d00ba9f01f29e1db95d6b4c171)
 - [Introduction to machine learning with Python: A Guide for Data Scientists, Andreas C. Müller & Sarah Guido, 2016](https://www.amazon.ca/Introduction-Machine-Learning-Python-Scientists/dp/1449369413/ref=asc_df_1449369413/?tag=googleshopc0c-20&linkCode=df0&hvadid=292901695602&hvpos=&hvnetw=g&hvrand=17038007849797717881&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9061026&hvtargid=pla-423142395481&psc=1)
+- [Machine Learning, Tom M Mitchell, 2017](https://www.amazon.in/Machine-Learning-Tom-M-Mitchell/dp/1259096955/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1483608679&sr=1-1&keywords=Machine+Learning+by+Tom+M+Mitchell&linkCode=sl1&tag=analyvidhy-21&linkId=8bcb0d1e9d7b8c4d2a5ae36e4db0bfa3)
 - [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems - 2nd edition, Aurélien Géron, 2019](https://www.amazon.ca/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646/ref=asc_df_1492032646/?tag=googleshopc0c-20&linkCode=df0&hvadid=335305582969&hvpos=1o1&hvnetw=g&hvrand=17038007849797717881&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9061026&hvtargid=pla-523968811896&psc=1)
 - [Python Machine Learning: Machine Learning and Deep Learning with Python, scikit-learn, and TensorFlow 2 - 3rd Edition, Sebastian Raschka & Vahid Mirjalili, 2019](https://www.amazon.ca/Python-Machine-Learning-scikit-learn-TensorFlow/dp/1789955750/ref=sr_1_fkmr0_1?keywords=%3Bachine+learning+sebastian&qid=1581965682&s=books&sr=1-1-fkmr0 )
 - [The Hundred-Page Machine Learning Book, Andriy Burkov, 2019](https://www.amazon.co.uk/Hundred-Page-Machine-Learning-Book/dp/199957950X/ref=pd_aw_sbs_14_5/262-1001262-4541403?_encoding=UTF8&pd_rd_i=199957950X&pd_rd_r=ceb793b5-741c-4388-bbcb-c4b656d7da98&pd_rd_w=t3urK&pd_rd_wg=7EqqE&pf_rd_p=15216146-4434-47f5-99d9-56240c85bf4d&pf_rd_r=RAHG1THCANSMBVCZC4WJ&psc=1&refRID=RAHG1THCANSMBVCZC4WJ)
@@ -71,7 +78,7 @@
 - [Deep Learning, Ian Goodfellow et al., 2016](https://www.amazon.ca/Deep-Learning-Ian-Goodfellow/dp/0262035618/ref=sr_1_1?crid=383XDGD8SRUNC&keywords=deep+learning+ian+goodfellow&qid=1581965751&s=books&sprefix=deep+learning%2Cstripbooks%2C269&sr=1-1)
 - [Deep Learning with Python, François Chollet 2017](https://www.amazon.ca/Deep-Learning-Python-Francois-Chollet/dp/1617294438/ref=sr_1_1?keywords=deep+learning+with+python&qid=1581965794&s=books&sr=1-1)
 - [Dive into Deep Learning, Aston Zhang et al, 2020](https://d2l.ai/)
-
+- [Deep Learning and the Game of Go](https://www.amazon.com/gp/product/1617295329/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1617295329&linkCode=as2&tag=petacrunch-20&linkId=0e4c17bcda09e79de9b186f2d8c26ffb)
 ### Reinforcement Learning
 - [Reinforcement Learning: An Introduction - 2nd edition, Richard S. Sutton & Andrew G. Barto, 2018](https://www.amazon.ca/Reinforcement-Learning-Introduction-Richard-Sutton/dp/0262039249/ref=sr_1_1?crid=19RA25TZFYZJB&keywords=reinforcement+learning+an+introduction&qid=1581965840&s=books&sprefix=introduction+to+reinforce%2Cstripbooks%2C264&sr=1-1)
 - [Algorithms for Reinforcement Learning, Csaba Szepesvári, 2019](https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf)
@@ -93,6 +100,12 @@
 
 ### Computational Neuroscience
 > In progress...
+
+### Data Analyse and Data Science
+- [Data Science from Scratch: First Principles with Python, 2nd edition, Joel Grus, 2019](https://www.amazon.ca/Data-Science-Scratch-Principles-Python/dp/1492041130/ref=sr_1_1?keywords=Data+Science+from+Scratch%3A+First+Principles+with+Python&qid=1583005130&s=books&sr=1-1)
+- [Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython, Wes McKinney, 2017](https://www.amazon.com/gp/product/1491957662/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1491957662&linkCode=as2&tag=petacrunch-20&linkId=7664d523f4c3d5195b201dc219efdd15)
+- [Python Data Science Handbook: Essential Tools for Working with Data, Jake VanderPlas, 2016](https://www.amazon.com/gp/product/1491912057/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1491912057&linkCode=as2&tag=petacrunch-20&linkId=3882a97fd104467b624bad3e5ff5431b)
+- [Machine Learning for Hackers: Case Studies and Algorithms to Get You Started, Drew Conway & John Myles, 2012](https://www.amazon.in/Machine-Learning-Hackers-Conway/dp/9350236745/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1483608652&sr=1-1&keywords=Machine+Learning+for+Hackers&linkCode=sl1&tag=analyvidhy-21&linkId=aa17e72e798105d1043d53decfd915ae)
 
 ### Additional Books
 - [Markov Decision Processes: Discrete Stochastic Dynamic Programming, Martin L. Puterman, 2005](https://www.wiley.com/en-us/Markov+Decision+Processes%3A+Discrete+Stochastic+Dynamic+Programming-p-9780471727828)
@@ -192,7 +205,7 @@
 > In progress...
 
 ### Meta-Learning 
-
+- [Learning to Continually Learn, Shawn Beaulieu, 2020](https://arxiv.org/abs/2002.09571)
 > In progress...
 
 
@@ -304,7 +317,7 @@
 - [D-Wave Tutorials on Quantum Annealing](https://www.dwavesys.com/resources/tutorials)
 > In progress...
 
-### Sites for articles
+### Research Papers & Academic Resources
 - [Computer Science, ArXiv](https://arxiv.org/list/cs/recent)
 - [Arxiv Sanity Preserver](http://www.arxiv-sanity.com/)
 - [Paper With Codes](https://paperswithcode.com/)
@@ -313,7 +326,14 @@
 - [DeepAI Research](https://deepai.org/research)
 - [Journal of Artificial Intelligence](https://www.jair.org/index.php/jair)
 - [Google Scholar](https://scholar.google.com/schhp?hl=en&as_sdt=0,5)
-> In progress...
+- [MIT - Machine Learning](http://news.mit.edu/topic/machine-learning)
+- [Science Direct](https://www.sciencedirect.com/)
+- [Nature - machine learning](https://www.nature.com/search?q=machine+learning)
+- [Academia.edu - machine learning](https://www.academia.edu/people/search?utf8=%E2%9C%93&q=machine+learning)
+- [University of Oxford - AI & ML](https://www.cs.ox.ac.uk/research/ai_ml/)
+- [Caltech Institute of Technology (CIT)](http://work.caltech.edu/library/index.html)
+- [Berkeley - Medium](https://medium.com/@ml.at.berkeley)
+
 
 ### NLP 
 - [NLP-progress, Sebastian Ruder](https://github.com/sebastianruder/NLP-progress)
@@ -353,6 +373,17 @@
 - [The Data Frog, Colin Bernet](https://thedatafrog.com/en/)
 - [Daniel Lemire' Blog](https://lemire.me/blog/)
 - [Berkeley Artificial Intelligence Research](https://bair.berkeley.edu/blog/) or [this link](https://bair.berkeley.edu/blog/archive/)
+- [Neptune.ai](https://neptune.ai/blog)
+- [Machine Learning Blog](https://machinelearnings.co/)
+- [Science Daily](https://www.sciencedaily.com/news/computers_math/artificial_intelligence/)
+- [Hacker noon](https://hackernoon.com/)
+- [Machine Learning Medium fedd](https://medium.com/topic/machine-learning)
+- [Springboard Blog](https://www.springboard.com/blog/)
+- [KDnuggets](https://www.kdnuggets.com/tag/machine-learning) 
+- [Analytics Vidhya](https://www.analyticsvidhya.com/blog/?utm_source=feed_navbar)
+- [O'Reilly](https://www.oreilly.com/topics/data)
+- [Google News](https://news.google.com/search?q=MachineLearning&hl=en-US&gl=US&ceid=US:en)
+- [Deep Learning AI](https://www.deeplearning.ai/thebatch/)
 
 ### List of most cited researchers
 - [Machine Learning](https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label%3Amachine_learning&btnG=)
@@ -398,7 +429,11 @@
 - [Deep Learning Specialization, Coursera](https://www.coursera.org/specializations/deep-learning)
 - [Deep Reinforcement Learning, Berkeley](http://rail.eecs.berkeley.edu/deeprlcourse/)
 - [Rinforcement Learning, UCL](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
-> In progress...
+- [MIT OpenCourseWare](https://ocw.mit.edu/index.htm)
+- [edx](https://www.edx.org/)
+- [Harvard Online](https://online-learning.harvard.edu/)
+- [Stanford Online](https://online.stanford.edu/courses?keywords=machine%2520learning&availability%5bavailable%5d=available&availability%5bclosed%5d=closed&availability%5bwaitlist%5d=waitlist)
+
 
 #### Youtube
 - [Machine Learning](https://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA)
@@ -433,8 +468,14 @@
 ### AI communities
 - [AI Dreams](https://aidreams.co.uk/)
 - [Forum for Artificial Intelligence](https://www.cs.utexas.edu/~ai-lab/fai/) 
-- [AI, Reddit](https://www.reddit.com/r/artificial/)
 - [Quora](https://www.quora.com/)
+- [Reddit](https://www.reddit.com/r/MachineLearning/) Groups: r/MachineLearning, r/DeepLearning, r/DataScience, r/learnmachinelearning r/artificial/
+- [Stack Overflow](https://stackoverflow.com/)
+- [Kaggle](https://www.kaggle.com/)
+- [Jupyter Community](https://jupyter.org/community)
+- [DEV](https://dev.to/)
+- [ods.ai, Open Data Science](https://ods.ai/) 
+- [fastai](https://www.fast.ai/) 
 > In progress...
 
 --- 
@@ -445,7 +486,9 @@
 ## General and technical additional books
 ### General
 #### AI
+- [The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World, Pedro Domingos, 2015](https://www.amazon.in/Master-Algorithm-Ultimate-Learning-Machine/dp/0465065708/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=analyvidhy-21&linkId=2e47223a968d21a0b7b411bc53b14edf&language=en_IN)
 - [Superintelligence: Paths, Dangers, Strategies, Nick Bostrom, 2016](https://www.amazon.ca/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/0198739834/ref=sr_1_1?gclid=Cj0KCQiA4sjyBRC5ARIsAEHsELHxPya7k-L3v-CkJz5vYjk42FdwCkCtBFSzLPV0MdhVBIQ3LTIxfKgaAmp2EALw_wcB&hvadid=267118898067&hvdev=c&hvlocphy=9061026&hvnetw=g&hvqmt=e&hvrand=9290510744535489763&hvtargid=kwd-310248068568&hydadcr=22489_9261686&keywords=superintelligence+by+nick+bostrom&qid=1582506567&sr=8-1)
+- [Homo Deus, Yuval Noah Harari, 2018](https://www.amazon.com/gp/product/0062464345/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0062464345&linkCode=as2&tag=petacrunch-20&linkId=6c3109714d799eae0e3feeca6f5b4351)
 - [Architects of Intelligence: The truth about AI from the people building it, Martin Ford, 2018](https://www.amazon.ca/Architects-Intelligence-truth-people-building/dp/1789131510/ref=sr_1_1?keywords=martin+ford&qid=1582506752&sr=8-1)
 - [Life 3.0: Being Human in the Age of Artificial Intelligence, Max Tegmark, 2018](https://www.amazon.ca/Life-3-0-Being-Artificial-Intelligence/dp/1101970316/ref=sr_1_1?crid=23BZ8KHCHHZDS&keywords=max+tegmark&qid=1582507239&sprefix=max+tergm%2Caps%2C178&sr=8-1)
 - [There is no such thing as Artificial Intelligence, Luc julia, 2020](https://www.amazon.ca/There-such-thing-Artificial-Intelligence/dp/241205911X/ref=sr_1_8?keywords=luc+julia&qid=1582506912&sr=8-8)
