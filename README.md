@@ -506,11 +506,14 @@
 --- 
 ## Datasets
 - [Dataset Search, Google](https://datasetsearch.research.google.com/)
+- [Google Research Datasets](https://research.google/tools/datasets/)
 - [Stanford Datasets](https://snap.stanford.edu/data/)
 - [AWS Open Datasets](https://registry.opendata.aws/)
 - [Lionbridge Social Datasets](https://lionbridge.ai/datasets/12-best-social-media-datasets/)
 - [Awesome Datasets, Xiaming](https://github.com/awesomedata/awesome-public-datasets)
 - [Abstraction and Reasoning Corpus, François Chollet, 2019](https://github.com/fchollet/ARC)
+- [Pathmind Open datasets](https://pathmind.com/wiki/open-datasets)
+- [Kaggle Datasets](https://www.kaggle.com/datasets?sortBy=relevance&group=all&search=tag%3A%27artificial%20intelligence%27)
 ---
 
 ## Best-practices
