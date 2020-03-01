@@ -1,6 +1,6 @@
 ﻿# Computer Science References for researchers
 
-> This repository is made to gather different resources for researchers and students in Computer Science specially for Machine Learning, Deep Learning, Reinforcement Learning and Quantum Computing. Additional usefull ressources can be find at the end, tutorials and others github pages about librairies in AI. 
+> This repository is made to gather different resources for researchers and students in Computer Science specially for Machine Learning, Deep Learning, Reinforcement Learning and Quantum Computing. Additional usefull resources can be find at the end, tutorials and others github pages about librairies in AI. 
 > Page under construction 
 
 
@@ -32,7 +32,7 @@
 - [Posts and thesis](#posts-and-thesis)
 	- [Blog posts](#blog-posts)
 	- [Thesis](#thesis)
-- [Ressources](#ressources)
+- [Resources](#resources)
 	- [Research Guide](#research-guide)
 	- [Libraries](#libraries)
 		- [PyTorch](#pytorch)
@@ -293,7 +293,7 @@
 > In progress...
 
 ---
-## Ressources
+## Resources
 ### Research guide 
 > The two references inside the article are very interesting
 - [An Opinionated Guide to ML Research, John Schulman](http://joschu.net/blog/opinionated-guide-ml-research.html)
@@ -310,7 +310,7 @@
 > Orinigal tutorials on pyTorch
 - [PyTorch](https://pytorch.org/tutorials/)
 - [Introduction to Pytorch Code Examples, Stanford](https://cs230.stanford.edu/blog/pytorch/)
-> Here a list a lot of github ressources on PyTorch, each repo contains an impressive collection of tutorials, books, papers etc. 
+> Here a list a lot of github resources on PyTorch, each repo contains an impressive collection of tutorials, books, papers etc. 
 - [Ritchie Ng](https://github.com/ritchieng/the-incredible-pytorch)
 - [bharathgs](https://github.com/bharathgs/Awesome-pytorch-list)
 - [gwding](https://github.com/gwding/the-incredible-pytorch)
@@ -321,7 +321,7 @@
 #### Tensorflow 
 > Original tensorflow documentation and turorial 
 - [Tensorflow 2.x](https://www.tensorflow.org/tutorials)
-> jtoy propose a github page with lot of ressources, models, tutorials, books etc. on tensorflow
+> jtoy propose a github page with lot of resources, models, tutorials, books etc. on tensorflow
 - [jtoy](https://github.com/jtoy/awesome-tensorflow)
 > Ritchie Ng has began a github for TensorFlow 2
 - [Ritchie Ng](https://github.com/ritchieng/the-incredible-tensorflow)
