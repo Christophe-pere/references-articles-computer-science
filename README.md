@@ -49,7 +49,8 @@
 		- [YouTube](#youtube)
 	- [Sites](#sites)
 	- [AI Communities](#ai-communities)
-- [Datasets](#datasts)
+- [Datasets](#datasets)
+- [Best Practices](#best-practices)
 - [General and technical additional books](#general-and-technical-additional-books)
 	- [General](#general)
 	- [Technical](#technical)
@@ -505,8 +506,18 @@
 --- 
 ## Datasets
 - [Dataset Search, Google](https://datasetsearch.research.google.com/)
-
+- [Stanford Datasets](https://snap.stanford.edu/data/)
+- [AWS Open Datasets](https://registry.opendata.aws/)
+- [Lionbridge Social Datasets](https://lionbridge.ai/datasets/12-best-social-media-datasets/)
+- [Awesome Datasets, Xiaming](https://github.com/awesomedata/awesome-public-datasets)
+- [Abstraction and Reasoning Corpus, François Chollet, 2019](https://github.com/fchollet/ARC)
 ---
+
+## Best-practices
+- [Rules of ML, Google](https://developers.google.com/machine-learning/guides/rules-of-ml)
+
+--- 
+
 ## General and technical additional books
 ### General
 #### AI
