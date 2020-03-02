@@ -36,7 +36,9 @@
 	- [Research Guide](#research-guide)
 	- [Libraries](#libraries)
 		- [PyTorch](#pytorch)
+			- [Notebooks](#notebooks)
 		- [Tensorflow](#tensorflow)
+			- [Notebooks](#notebooks-1)
 		- [Packages](#packages)
 	- [Quantum Computing](#quantum-computing)
 	- [Research Papers & Academic Resources](#Research-Papers-&-Academic-Resources)
@@ -322,6 +324,8 @@
 - [jekbradbury](https://github.com/jekbradbury/the-incredible-pytorch)
 - [NurmaU](https://github.com/NurmaU/incredible_pytorch)
 - [Deep Learning With PyTorch](https://pytorch.org/deep-learning-with-pytorch)
+##### Notebooks
+- [PyTorch Primer](https://colab.research.google.com/drive/1DgkVmi6GksWOByhYVQpyUB4Rk3PUq0Cp#scrollTo=4iSaSfH8bgSq)
 
 #### Tensorflow 
 > Original tensorflow documentation and turorial 
@@ -331,6 +335,10 @@
 > Ritchie Ng has began a github for TensorFlow 2
 - [Ritchie Ng](https://github.com/ritchieng/the-incredible-tensorflow)
 - [TensorFlow Forum Discussion](https://groups.google.com/a/tensorflow.org/forum/#!forum/discuss)
+##### Notebooks
+- [TensorFlow 2.0 + Keras Crash Course, François CHollet, 2019](https://colab.research.google.com/drive/1UCJt8EYjlzCs1H1d1X0iDGYJsHKwu-NO)
+- [tf.keras for Researchers: Crash Course, François Chollet](https://colab.research.google.com/drive/14CvUNTaX1OFHDfaKaaZzrBsvMfhCOHIR)
+- [TensorFlow 2.0, Zaid Alyafeai](https://colab.research.google.com/github/zaidalyafeai/Notebooks/blob/master/TF_2_0.ipynb#scrollTo=jlnQG8hC-uCg)
 
 #### Packages
 - [Catalyst, Kolesnikov, Sergey, 2018](https://github.com/catalyst-team/catalyst)
@@ -486,12 +494,7 @@
 #### Support courses 
 - [A Beginner's Guide to the Mathematics of Neural Networks, A.C.C. Coolen, 1998](https://nms.kcl.ac.uk/ton.coolen/published/1998/summerschool98.pdf) or [this link](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.161.3556&rep=rep1&type=pdf)
 > In progress... 
-#### Notebooks
-- [TensorFlow 2.0 + Keras Crash Course, François CHollet, 2019](https://colab.research.google.com/drive/1UCJt8EYjlzCs1H1d1X0iDGYJsHKwu-NO)
-- [tf.keras for Researchers: Crash Course, François Chollet](https://colab.research.google.com/drive/14CvUNTaX1OFHDfaKaaZzrBsvMfhCOHIR)
-- [TensorFlow 2.0, Zaid Alyafeai](https://colab.research.google.com/github/zaidalyafeai/Notebooks/blob/master/TF_2_0.ipynb#scrollTo=jlnQG8hC-uCg)
-- [PyTorch Primer](https://colab.research.google.com/drive/1DgkVmi6GksWOByhYVQpyUB4Rk3PUq0Cp#scrollTo=4iSaSfH8bgSq)
-> In progress... 
+
 ### Sites
 - [Practical Deep Learning for Coders, v3](https://course.fast.ai/index.html)
 - [Machine Learning Mastery, Jason Brownlee](https://machinelearningmastery.com/blog/)
