@@ -18,6 +18,7 @@
 	- [Mathematics for Machine Learning](#mathematics-for-machine-learning)
 	- [Causality](#causality)
 	- [Computational Neuroscience](#computational-neuroscience)
+	- [Meta-reasoning](#meta-reasoning)
 	- [Data Analyse and Data Science](#Data-Analyse-and-Data-Science)
 	- [Additional books](#additional-books)
 - [Articles](#articles)
@@ -29,6 +30,7 @@
 	- [Quantum Computing](#quantum-computing-1)
 	- [Causality](#causality-1)
 	- [Computational Neuroscience](#computational-neuroscience-1)
+	- [Meta-reasoning](#meta-reasoning-1)
 - [Posts and thesis](#posts-and-thesis)
 	- [Blog posts](#blog-posts)
 	- [Thesis](#thesis)
@@ -111,6 +113,10 @@
 - [Fundamentals of Computational Neuroscience, Thomas Trappenberg, 2009](https://www.amazon.ca/Fundamentals-Computational-Neuroscience-Thomas-Trappenberg/dp/0199568413)
 - [From Neuron to Brain, John G. Nicholls et al., 2011](https://www.amazon.ca/Neuron-Brain-John-G-Nicholls/dp/0878936092)
 - [From Neuron to Cognition via Computational Neuroscience, Nicolas Brunel et al., 2016](https://www.amazon.ca/Neuron-Cognition-via-Computational-Neuroscience/dp/0262034964)
+
+### Meat-Reasoning
+- [Metareasoning: Thinking about Thinking, Michael T. Cox et al., 2011](https://www.amazon.com/Metareasoning-Thinking-about-MIT-Press/dp/0262014807)
+> In progress... 
 
 
 ### Data Analyse and Data Science
@@ -278,6 +284,18 @@
 - [A Framework for Intelligence and Cortical Function Based on Grid Cells in the Neocortex, Jeff Hawkins, 2019](https://numenta.com/neuroscience-research/research-publications/papers/a-framework-for-intelligence-and-cortical-function-based-on-grid-cells-in-the-neocortex/) or [this link](https://www.frontiersin.org/articles/10.3389/fncir.2018.00121/full)
 > In progress
 
+### Meta-reasoning
+- [On Optimal Game-Tree Search using Rational Meta-Reasoning, Stuart Russell & Eric Wefald, 1989](https://www.ijcai.org/Proceedings/89-1/Papers/053.pdf)
+- [Metareasoning, Stuart J. Russell, 1997](https://people.eecs.berkeley.edu/~russell/papers/mitecs-metareasoning.pdf)
+- [Definition and Complexity of Some Basic Metareasoning Problems, Vincent Conitzer & Tuomas Sandholm, 2003](https://users.cs.duke.edu/~conitzer/metareasoningIJCAI03.pdf)
+- [Visualization of Meta-Reasoning in Multi-Agent Systems, D. Řehoř & J. Tožička & P. Slavík, 2005](https://link.springer.com/chapter/10.1007/3-211-27389-1_93)
+- [Meta-reasoning: What can we learn from meta-memory?, Rakefet Ackerman & Valerie A. Thompson, 2015](https://psycnet.apa.org/record/2014-56342-010)
+- [Meta-Reasoning: Monitoring and Control of Thinking and Reasoning, Rakefet Ackerman & Valerie A. Thompson, 2017](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(17)30105-5?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1364661317301055%3Fshowall%3Dtrue)
+- [Meta-reasoning: Shedding metacognitive light on reasoning research, Rakefet Ackerman & Valerie A. Thompson, 2018](https://psycnet.apa.org/record/2017-56397-001)
+- [Rational metareasoning and the plasticity of cognitive control, Falk Lieder et al., 2018](https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1006043&type=printable)
+- [Meta Reasoning over Knowledge Graphs, Hong Wang et al., 2019](https://arxiv.org/pdf/1908.04877.pdf)
+- [Doing more with less: meta-reasoning and meta-learning in humans and machines, Thomas L Griffiths et al., 2019](https://cocosci.princeton.edu/papers/doing-more-with-less.pdf)
+
 ### Others
 - [A Mathematical Theory of Communication,  C. E. SHANNON, 1949](https://mast.queensu.ca/~math474/shannon1948.pdf)
 - [Introduction to Algorithms, T H Cormen et al 1990](https://mitpress.mit.edu/books/introduction-algorithms)
@@ -300,6 +318,7 @@
 ### Thesis
 - [Evolutionary principles in self-referential learning, or on learning how to learn,  J.  Schmidhuber, 1987](http://people.idsia.ch/~juergen/diploma1987ocr.pdf)
 - [Rational Approaches to Learning and Development, Celeste Kidd, 2013](https://www.celestekidd.com/papers/KiddDissertationMay2013.pdf)
+- [Metareasoning and Mental Simulation, Jessica B. Hamrick, 2017](http://www.jesshamrick.com/publications/pdf/Hamrick2017-Metareasoning_and_mental_simulation.pdf)
 - [Neural Transfer Learning for Natural Language Processing, Sebastian Ruder, 2019](https://ruder.io/thesis/neural_transfer_learning_for_nlp.pdf)
 > In progress...
 
@@ -511,6 +530,7 @@
 - [A.I. Wiki, Pathmind](https://pathmind.com/wiki/)
 - [Computer Vision, Microsoft, 2020](https://github.com/microsoft/computervision-recipes)
 - [Deep-Learning drizzle, kmario23](https://deep-learning-drizzle.github.io/)
+- [Meta-Reasoning](https://omscs-transcend.readthedocs.io/gatech/cs7637/24---meta-reasoning.html)
 > In progress...
 
 ### AI communities
