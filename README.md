@@ -14,11 +14,11 @@
 	- [Deep Learning](#deep-learning)
 	- [Reinfrocement Learning](#reinforcement-learning)
 	- [Meta-Learning](#meta-learning)
+	- [Meta-Reasoning](#meta-reasoning)
 	- [Quantum Computing](#quantum-computing)
 	- [Mathematics for Machine Learning](#mathematics-for-machine-learning)
 	- [Causality](#causality)
 	- [Computational Neuroscience](#computational-neuroscience)
-	- [Meta-reasoning](#meta-reasoning)
 	- [Data Analyse and Data Science](#Data-Analyse-and-Data-Science)
 	- [Additional books](#additional-books)
 - [Articles](#articles)
@@ -27,10 +27,10 @@
 	- [Deep Learning](#deep-learning-1)
 	- [Reinforcement Learning](#reinforcement-learning-1)
 	- [Meta-Learning](#meta-learning-1)
+	- [Meta-reasoning](#meta-reasoning-1)
 	- [Quantum Computing](#quantum-computing-1)
 	- [Causality](#causality-1)
 	- [Computational Neuroscience](#computational-neuroscience-1)
-	- [Meta-reasoning](#meta-reasoning-1)
 - [Posts and thesis](#posts-and-thesis)
 	- [Blog posts](#blog-posts)
 	- [Thesis](#thesis)
@@ -88,12 +88,17 @@
 - [Deep Learning with Python, François Chollet 2017](https://www.amazon.ca/Deep-Learning-Python-Francois-Chollet/dp/1617294438/ref=sr_1_1?keywords=deep+learning+with+python&qid=1581965794&s=books&sr=1-1)
 - [Dive into Deep Learning, Aston Zhang et al, 2020](https://d2l.ai/)
 - [Deep Learning and the Game of Go](https://www.amazon.com/gp/product/1617295329/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1617295329&linkCode=as2&tag=petacrunch-20&linkId=0e4c17bcda09e79de9b186f2d8c26ffb)
+
 ### Reinforcement Learning
 - [Reinforcement Learning: An Introduction - 2nd edition, Richard S. Sutton & Andrew G. Barto, 2018](https://www.amazon.ca/Reinforcement-Learning-Introduction-Richard-Sutton/dp/0262039249/ref=sr_1_1?crid=19RA25TZFYZJB&keywords=reinforcement+learning+an+introduction&qid=1581965840&s=books&sprefix=introduction+to+reinforce%2Cstripbooks%2C264&sr=1-1)
 - [Algorithms for Reinforcement Learning, Csaba Szepesvári, 2019](https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf)
 
 ### Meta-Learning
 - [Hands-On Meta Learning With Python, Sudharsan Ravichandiran, 2018](https://www.amazon.com/Hands-Meta-Learning-Python-algorithms-ebook/dp/B07KJJHYKF/ref=sr_1_1?ie=UTF8&qid=1543222179&sr=8-1&keywords=meta+learning+hands+on)
+
+### Meat-Reasoning
+- [Metareasoning: Thinking about Thinking, Michael T. Cox et al., 2011](https://www.amazon.com/Metareasoning-Thinking-about-MIT-Press/dp/0262014807)
+> In progress... 
 
 ### Quantum Computing
 - [Quantum Computation and Quantum Information - 10th Anniversary Edition, Michael A. Nielsen & Isaac L. CHuang, 2010](https://www.amazon.ca/Quantum-Computation-Information-10th-Anniversary/dp/1107002176/ref=sr_1_2?keywords=quantum+information+and+quantum+computing&qid=1581965920&s=books&sr=1-2)
@@ -114,9 +119,7 @@
 - [From Neuron to Brain, John G. Nicholls et al., 2011](https://www.amazon.ca/Neuron-Brain-John-G-Nicholls/dp/0878936092)
 - [From Neuron to Cognition via Computational Neuroscience, Nicolas Brunel et al., 2016](https://www.amazon.ca/Neuron-Cognition-via-Computational-Neuroscience/dp/0262034964)
 
-### Meat-Reasoning
-- [Metareasoning: Thinking about Thinking, Michael T. Cox et al., 2011](https://www.amazon.com/Metareasoning-Thinking-about-MIT-Press/dp/0262014807)
-> In progress... 
+
 
 
 ### Data Analyse and Data Science
@@ -218,8 +221,6 @@
 > In progress...
 
 ### Reinforcement Learning
-
-
 > A short list 
 - [Reinforcement Learning, an introduction, R Sutton & A Barto, 1998](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.32.7692&rep=rep1&type=pdf)
 - [Playing Atari with Deep Reinforcement Learning, Mnih et al, 2013](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)
@@ -246,6 +247,18 @@
 - [On First-Order Meta-Learning Algorithms, Alex Nichol & Joshua Achiam & John Schulman, 2018](https://arxiv.org/pdf/1803.02999)
 - [Meta-Learning: A Survey¸, Joaquin Vanschoren, 2018](https://arxiv.org/pdf/1810.03548.pdf)
 - [Learning to Continually Learn, Shawn Beaulieu, 2020](https://arxiv.org/abs/2002.09571)
+
+### Meta-reasoning
+- [On Optimal Game-Tree Search using Rational Meta-Reasoning, Stuart Russell & Eric Wefald, 1989](https://www.ijcai.org/Proceedings/89-1/Papers/053.pdf)
+- [Metareasoning, Stuart J. Russell, 1997](https://people.eecs.berkeley.edu/~russell/papers/mitecs-metareasoning.pdf)
+- [Definition and Complexity of Some Basic Metareasoning Problems, Vincent Conitzer & Tuomas Sandholm, 2003](https://users.cs.duke.edu/~conitzer/metareasoningIJCAI03.pdf)
+- [Visualization of Meta-Reasoning in Multi-Agent Systems, D. Řehoř & J. Tožička & P. Slavík, 2005](https://link.springer.com/chapter/10.1007/3-211-27389-1_93)
+- [Meta-reasoning: What can we learn from meta-memory?, Rakefet Ackerman & Valerie A. Thompson, 2015](https://psycnet.apa.org/record/2014-56342-010)
+- [Meta-Reasoning: Monitoring and Control of Thinking and Reasoning, Rakefet Ackerman & Valerie A. Thompson, 2017](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(17)30105-5?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1364661317301055%3Fshowall%3Dtrue)
+- [Meta-reasoning: Shedding metacognitive light on reasoning research, Rakefet Ackerman & Valerie A. Thompson, 2018](https://psycnet.apa.org/record/2017-56397-001)
+- [Rational metareasoning and the plasticity of cognitive control, Falk Lieder et al., 2018](https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1006043&type=printable)
+- [Meta Reasoning over Knowledge Graphs, Hong Wang et al., 2019](https://arxiv.org/pdf/1908.04877.pdf)
+- [Doing more with less: meta-reasoning and meta-learning in humans and machines, Thomas L Griffiths et al., 2019](https://cocosci.princeton.edu/papers/doing-more-with-less.pdf)
 
 
 ### Quantum Computing
@@ -284,17 +297,6 @@
 - [A Framework for Intelligence and Cortical Function Based on Grid Cells in the Neocortex, Jeff Hawkins, 2019](https://numenta.com/neuroscience-research/research-publications/papers/a-framework-for-intelligence-and-cortical-function-based-on-grid-cells-in-the-neocortex/) or [this link](https://www.frontiersin.org/articles/10.3389/fncir.2018.00121/full)
 > In progress
 
-### Meta-reasoning
-- [On Optimal Game-Tree Search using Rational Meta-Reasoning, Stuart Russell & Eric Wefald, 1989](https://www.ijcai.org/Proceedings/89-1/Papers/053.pdf)
-- [Metareasoning, Stuart J. Russell, 1997](https://people.eecs.berkeley.edu/~russell/papers/mitecs-metareasoning.pdf)
-- [Definition and Complexity of Some Basic Metareasoning Problems, Vincent Conitzer & Tuomas Sandholm, 2003](https://users.cs.duke.edu/~conitzer/metareasoningIJCAI03.pdf)
-- [Visualization of Meta-Reasoning in Multi-Agent Systems, D. Řehoř & J. Tožička & P. Slavík, 2005](https://link.springer.com/chapter/10.1007/3-211-27389-1_93)
-- [Meta-reasoning: What can we learn from meta-memory?, Rakefet Ackerman & Valerie A. Thompson, 2015](https://psycnet.apa.org/record/2014-56342-010)
-- [Meta-Reasoning: Monitoring and Control of Thinking and Reasoning, Rakefet Ackerman & Valerie A. Thompson, 2017](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(17)30105-5?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1364661317301055%3Fshowall%3Dtrue)
-- [Meta-reasoning: Shedding metacognitive light on reasoning research, Rakefet Ackerman & Valerie A. Thompson, 2018](https://psycnet.apa.org/record/2017-56397-001)
-- [Rational metareasoning and the plasticity of cognitive control, Falk Lieder et al., 2018](https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1006043&type=printable)
-- [Meta Reasoning over Knowledge Graphs, Hong Wang et al., 2019](https://arxiv.org/pdf/1908.04877.pdf)
-- [Doing more with less: meta-reasoning and meta-learning in humans and machines, Thomas L Griffiths et al., 2019](https://cocosci.princeton.edu/papers/doing-more-with-less.pdf)
 
 ### Others
 - [A Mathematical Theory of Communication,  C. E. SHANNON, 1949](https://mast.queensu.ca/~math474/shannon1948.pdf)
