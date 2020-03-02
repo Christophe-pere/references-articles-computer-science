@@ -329,7 +329,7 @@
 ### Research guide 
 > The two references inside the article are very interesting
 - [An Opinionated Guide to ML Research, John Schulman](http://joschu.net/blog/opinionated-guide-ml-research.html)
-- [How to Be a Researcher - 2nd Edition, Jonathan St B. T. Evans 2015](https://www.amazon.com/How-Be-Researcher-Jonathan-Evans-dp-1138917311/dp/1138917311/ref=mt_paperback?_encoding=UTF8&me=&qid=)
+- [How to Be a Researcher - 2nd Edition, Jonathan St B. T. Evans, 2015](https://www.amazon.com/How-Be-Researcher-Jonathan-Evans-dp-1138917311/dp/1138917311/ref=mt_paperback?_encoding=UTF8&me=&qid=)
 - [How to write and publish your research](https://www.rndtoday.co.uk/resource/how-to-write-and-publish-your-research/)
 - [How to write a research paper, Science Direct](https://www.sciencedirect.com/science/article/abs/pii/S1878764915001606)
 - [Google's Hybrid Approach to Research, Alfred Spector, Peter Norvig, Slav Petrov, 2013](https://cacm.acm.org/magazines/2012/7/151226-googles-hybrid-approach-to-research/fulltext)
@@ -459,33 +459,34 @@
 - [Artificial Intelligence](https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label%3Aai&btnG=)
 
 ### People to follow 
-
-- [Aaron Courville, arxiv](https://arxiv.org/search/?searchtype=author&query=Courville%2C+A) or [Aaron Courville, scholar google](https://scholar.google.com/citations?hl=en&user=km6CP8cAAAAJ)
-- [Adam Coates, scholar google](https://scholar.google.com/citations?hl=en&user=bLUllHEAAAAJ)
-- [Andrej Karpathy, scholar google](https://scholar.google.com/citations?user=l8WuQJgAAAAJ&hl=en)
-- [Andrew Barto, scholar google](https://scholar.google.com/citations?hl=en&user=CMIgrCgAAAAJ)
-- [Andrew Ng, arxiv](https://arxiv.org/search/?searchtype=author&query=Ng%2C+A+Y) or [Andrew Ng, scholar google](https://scholar.google.com/citations?hl=en&user=mG4imMEAAAAJ)
-- [Christopher D. Manning, arxiv](https://arxiv.org/search/?searchtype=author&query=Manning%2C+C+D) or  [Christopher D. Manning, scholar google](https://scholar.google.com/citations?hl=en&user=1zmDOdwAAAAJ)
-- [Daphne Koller, scholar google](http://ai.stanford.edu/users/koller/)
-- [David Silver, scholar google](https://scholar.google.com/citations?hl=en&user=-8DNE4UAAAAJ)
-- [Doina Precup, arxiv](https://arxiv.org/search/?searchtype=author&query=Precup%2C+D) or [Doina Precup, scholar google](https://scholar.google.com/citations?hl=en&user=j54VcVEAAAAJ)
-- [François Chollet, arxiv](https://arxiv.org/search/?searchtype=author&query=Chollet%2C+F) or [François Chollet, scholar google](https://scholar.google.com/citations?hl=en&user=VfYhf2wAAAAJ)
-- [Gary Marcus](https://dblp.org/pers/m/Marcus:Gary.html)
-- [Geoffrey Hinton, arxiv](https://arxiv.org/search/?searchtype=author&query=Hinton%2C+G) or [Geoffrey Hinton, scholar google](https://scholar.google.com/citations?hl=en&user=JicYPdAAAAAJ)
-- [Hugo Larochelle, arxiv](https://arxiv.org/search/?searchtype=author&query=Larochelle%2C+H) or [Hugo Larochelle, scholar google](https://scholar.google.com/citations?hl=en&user=U89FHq4AAAAJ)
-- [Ian Googfellow, arxiv](https://arxiv.org/search/?searchtype=author&query=Goodfellow%2C+I) or [Ian Goodfellow, scholar google](https://scholar.google.com/citations?hl=en&user=iYN86KEAAAAJ)
-- [Judea Pearl, scholar google](https://scholar.google.com/citations?hl=en&user=bAipNH8AAAAJ)
-- [Jürgen Schmidhuber, scholar google](https://scholar.google.com/citations?hl=en&user=gLnCTgIAAAAJ)
-- [Michael I. Jordan, scholar google](https://scholar.google.com/citations?hl=en&user=nzEluBwAAAAJ)
-- [Nando de Freitas, scholar google](https://scholar.google.com/citations?hl=en&user=nzEluBwAAAAJ)
-- [Oriol Vinyals, arxiv](https://arxiv.org/search/?searchtype=author&query=Vinyals%2C+O) or [Oriol Vinyals, scholar google](https://scholar.google.com/citations?hl=en&user=NkzyCvUAAAAJ)
-- [Peter Norvig, scholar google](https://scholar.google.com/citations?user=Ol0vcWgAAAAJ&hl=en)
-- [Richard S. Sutton, arxiv](https://arxiv.org/search/?searchtype=author&query=Sutton%2C+R+S) or [Richard S. Sutton, scholar google](https://scholar.google.com/citations?hl=en&user=6m4wv6gAAAAJ)
-- [Sebastian Ruder, arxiv](https://arxiv.org/search/?searchtype=author&query=Ruder%2C+S) or [Sebastian Ruder, scholar google](https://scholar.google.com/citations?hl=en&user=8ONXPV8AAAAJ)
-- [Stuart Russell, scholar google](https://scholar.google.com/citations?hl=en&user=2oy3OXYAAAAJ)
-- [Terrence Sejnowski, scholar google](https://scholar.google.com/citations?hl=en&user=m1qAiOUAAAAJ)
-- [Yann LeCun, arxiv](https://arxiv.org/search/?searchtype=author&query=LeCun%2C+Y) or [Yann LeCun, scholar google](https://scholar.google.com/citations?hl=en&user=WLN3QrAAAAAJ)
-- [Yoshua Bengio, arxiv](https://arxiv.org/search/?searchtype=author&query=Bengio%2C+Y) or [Yoshua Bengio, scholar google](https://scholar.google.com/citations?hl=en&user=kukA0LcAAAAJ)
+| Peoples | arxiv | Google Scholar |
+| ------- | ----- | -------------- |
+| Aaron Courville | [link](https://arxiv.org/search/?searchtype=author&query=Courville%2C+A) | [link](https://scholar.google.com/citations?hl=en&user=km6CP8cAAAAJ) |
+| Adam Coates |  | [link](https://scholar.google.com/citations?hl=en&user=bLUllHEAAAAJ) | 
+| Andrej Karpathy |  |  [link](https://scholar.google.com/citations?user=l8WuQJgAAAAJ&hl=en) | 
+| Andrew Barto |  | [link](https://scholar.google.com/citations?hl=en&user=CMIgrCgAAAAJ) | 
+| Andrew Ng | [link](https://arxiv.org/search/?searchtype=author&query=Ng%2C+A+Y) | [link](https://scholar.google.com/citations?hl=en&user=mG4imMEAAAAJ) | 
+| Christopher D. Manning | [link](https://arxiv.org/search/?searchtype=author&query=Manning%2C+C+D) |  [link](https://scholar.google.com/citations?hl=en&user=1zmDOdwAAAAJ) |
+| Daphne Koller |  |  [link](http://ai.stanford.edu/users/koller/) |
+| David Silver | |  [link](https://scholar.google.com/citations?hl=en&user=-8DNE4UAAAAJ) | 
+| Doina Precup |  [link](https://arxiv.org/search/?searchtype=author&query=Precup%2C+D) | [link](https://scholar.google.com/citations?hl=en&user=j54VcVEAAAAJ) | 
+| François Chollet | [link](https://arxiv.org/search/?searchtype=author&query=Chollet%2C+F) | [link](https://scholar.google.com/citations?hl=en&user=VfYhf2wAAAAJ) |
+| [Gary Marcus](https://dblp.org/pers/m/Marcus:Gary.html)  | | |
+| Geoffrey Hinton | [link](https://arxiv.org/search/?searchtype=author&query=Hinton%2C+G) | [link](https://scholar.google.com/citations?hl=en&user=JicYPdAAAAAJ) |
+| Hugo Larochelle | [link](https://arxiv.org/search/?searchtype=author&query=Larochelle%2C+H) | [link](https://scholar.google.com/citations?hl=en&user=U89FHq4AAAAJ) |
+| Ian Googfellow | [link](https://arxiv.org/search/?searchtype=author&query=Goodfellow%2C+I) | [link](https://scholar.google.com/citations?hl=en&user=iYN86KEAAAAJ) |
+| Judea Pearl |  | [link](https://scholar.google.com/citations?hl=en&user=bAipNH8AAAAJ) |
+| Jürgen Schmidhuber | | [link](https://scholar.google.com/citations?hl=en&user=gLnCTgIAAAAJ) |
+| Michael I. Jordan |  |  [link](https://scholar.google.com/citations?hl=en&user=nzEluBwAAAAJ) |
+| Nando de Freitas |  | [link](https://scholar.google.com/citations?hl=en&user=nzEluBwAAAAJ) | 
+| Oriol Vinyals | [link](https://arxiv.org/search/?searchtype=author&query=Vinyals%2C+O) | [link](https://scholar.google.com/citations?hl=en&user=NkzyCvUAAAAJ) |
+| Peter Norvig |  | [link](https://scholar.google.com/citations?user=Ol0vcWgAAAAJ&hl=en) | 
+| Richard S. Sutton | [link](https://arxiv.org/search/?searchtype=author&query=Sutton%2C+R+S) | [link](https://scholar.google.com/citations?hl=en&user=6m4wv6gAAAAJ) |
+| Sebastian Ruder | [link](https://arxiv.org/search/?searchtype=author&query=Ruder%2C+S) | [link](https://scholar.google.com/citations?hl=en&user=8ONXPV8AAAAJ) |
+| Stuart Russell |  | [link](https://scholar.google.com/citations?hl=en&user=2oy3OXYAAAAJ) | 
+| Terrence Sejnowski | |  [link](https://scholar.google.com/citations?hl=en&user=m1qAiOUAAAAJ) | 
+| Yann LeCun | [link](https://arxiv.org/search/?searchtype=author&query=LeCun%2C+Y) | [link](https://scholar.google.com/citations?hl=en&user=WLN3QrAAAAAJ) |
+| Yoshua Bengio | [link](https://arxiv.org/search/?searchtype=author&query=Bengio%2C+Y) | [link](https://scholar.google.com/citations?hl=en&user=kukA0LcAAAAJ) |
 > In progress...
 
 ### Courses 
