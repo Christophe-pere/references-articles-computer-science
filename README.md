@@ -314,6 +314,7 @@
 - [Meta-Reinforcement Learning, Michaël Trazzi, 2019](https://blog.floydhub.com/meta-rl/ )
 - [Meta-Reinforcement Learning, Lilian Weng, 2019](https://lilianweng.github.io/lil-log/2019/06/23/meta-reinforcement-learning.html)
 - [Meta-Learning: from Few-Shot Learning to Rapid  Reinforcement Learning ICML 2019 Tutorial, Chelsea Finn & Sergey Levine, 2019](https://sites.google.com/view/icml19metalearning)
+- [A Deep Dive into Reinforcement Learning, ADAM STELMASZCZYK](https://www.toptal.com/machine-learning/deep-dive-into-reinforcement-learning)
 > In progress...
 
 
@@ -335,6 +336,7 @@
 - [Google's Hybrid Approach to Research, Alfred Spector, Peter Norvig, Slav Petrov, 2013](https://cacm.acm.org/magazines/2012/7/151226-googles-hybrid-approach-to-research/fulltext)
 - [Google's Brain Team Approach](https://ai.googleblog.com/2017/09/the-google-brain-teams-approach-to.html)
 - [How to read a scientific paper, Christophe Pere, 2019](https://medium.com/@pere.christophe1/how-to-quickly-read-a-scientific-paper-efa066db2b0)
+- [How to write a technical paper, Michael Ernst, 2019](https://homes.cs.washington.edu/~mernst/advice/write-technical-paper.html)
 - [Getting started with Git and GitHub](https://github.com/maptime/getting-started-with-git-and-github/blob/master/README.md)
 
 ### Librairies
@@ -451,6 +453,7 @@
 - [O'Reilly](https://www.oreilly.com/topics/data)
 - [Google News](https://news.google.com/search?q=MachineLearning&hl=en-US&gl=US&ceid=US:en)
 - [Deep Learning AI](https://www.deeplearning.ai/thebatch/)
+- [Sicara blog](https://www.sicara.ai/blog/)
 
 ### List of most cited researchers
 - [Machine Learning](https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label%3Amachine_learning&btnG=)
@@ -460,7 +463,7 @@
 
 ### People to follow 
 | Researchers | Arxiv | Google Scholar |
-| ------- | ----- | -------------- |
+| ------- | :---: | :---: |
 | Aaron Courville | [link](https://arxiv.org/search/?searchtype=author&query=Courville%2C+A) | [link](https://scholar.google.com/citations?hl=en&user=km6CP8cAAAAJ) |
 | Adam Coates |  | [link](https://scholar.google.com/citations?hl=en&user=bLUllHEAAAAJ) | 
 | Andrej Karpathy |  |  [link](https://scholar.google.com/citations?user=l8WuQJgAAAAJ&hl=en) | 
@@ -504,6 +507,7 @@
 
 
 #### Youtube
+- [Linear Algebra, MIT edu](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/)
 - [Machine Learning](https://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA)
 - [Machine Learning, Stanford, Andrew Ng](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
 - [Stanford CS231n, 2016](https://www.youtube.com/watch?list=PLlJy-eBtNFt6EuMxFYRiNRS07MCWN5UIA&v=g-PvXUjD6qg)
@@ -534,6 +538,7 @@
 - [Computer Vision, Microsoft, 2020](https://github.com/microsoft/computervision-recipes)
 - [Deep-Learning drizzle, kmario23](https://deep-learning-drizzle.github.io/)
 - [Meta-Reasoning](https://omscs-transcend.readthedocs.io/gatech/cs7637/24---meta-reasoning.html)
+- [The Neural Network Zoo, Fjodor Van Veen, 2016](https://www.asimovinstitute.org/neural-network-zoo/) 
 > In progress...
 
 ### AI communities
