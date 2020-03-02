@@ -47,6 +47,8 @@
 	- [Courses](#courses)
 		- [MOOCs](#moocs)
 		- [YouTube](#youtube)
+		- [Support Courses](#support-courses)
+		- [Notebooks](#notebooks)
 	- [Sites](#sites)
 	- [AI Communities](#ai-communities)
 - [Datasets](#datasets)
@@ -281,6 +283,7 @@
 - [Learning Policies For Learning Policies — Meta Reinforcement Learning (RL²) in Tensorflow, Arthur Juliani, 2017](https://hackernoon.com/learning-policies-for-learning-policies-meta-reinforcement-learning-rl%C2%B2-in-tensorflow-b15b592a2ddf)
 - [Learning to learn, Berkeley Artificial Intelligence Research, 2017](https://bair.berkeley.edu/blog/2017/07/18/learning-to-learn/)
 - [Reinforcement Learning, Lilian Weng, 2018](https://lilianweng.github.io/lil-log/2018/02/19/a-long-peek-into-reinforcement-learning.html)
+- [Collection of materials for Newbie in Deep Learning and Machine Learning and Data Science, Oleg Gorodnitchi, 2018](https://itnext.io/collection-of-materials-for-newbie-in-deep-learning-and-machine-learning-and-data-science-56ccaa73c18)
 - [Meta-Learning: Learning to Learn Fast, Lilian Weng, 2018](https://lilianweng.github.io/lil-log/2018/11/30/meta-learning.html)
 - [Meta-Reinforcement Learning, Michaël Trazzi, 2019](https://blog.floydhub.com/meta-rl/ )
 - [Meta-Reinforcement Learning, Lilian Weng, 2019](https://lilianweng.github.io/lil-log/2019/06/23/meta-reinforcement-learning.html)
@@ -291,6 +294,7 @@
 ### Thesis
 - [Evolutionary principles in self-referential learning, or on learning how to learn,  J.  Schmidhuber, 1987](http://people.idsia.ch/~juergen/diploma1987ocr.pdf)
 - [Rational Approaches to Learning and Development, Celeste Kidd, 2013](https://www.celestekidd.com/papers/KiddDissertationMay2013.pdf)
+- [Neural Transfer Learning for Natural Language Processing, Sebastian Ruder, 2019](https://ruder.io/thesis/neural_transfer_learning_for_nlp.pdf)
 > In progress...
 
 ---
@@ -482,12 +486,19 @@
 #### Support courses 
 - [A Beginner's Guide to the Mathematics of Neural Networks, A.C.C. Coolen, 1998](https://nms.kcl.ac.uk/ton.coolen/published/1998/summerschool98.pdf) or [this link](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.161.3556&rep=rep1&type=pdf)
 > In progress... 
+#### Notebooks
+- [TensorFlow 2.0 + Keras Crash Course, François CHollet, 2019](https://colab.research.google.com/drive/1UCJt8EYjlzCs1H1d1X0iDGYJsHKwu-NO)
+- [tf.keras for Researchers: Crash Course, François Chollet](https://colab.research.google.com/drive/14CvUNTaX1OFHDfaKaaZzrBsvMfhCOHIR)
+- [TensorFlow 2.0, Zaid Alyafeai](https://colab.research.google.com/github/zaidalyafeai/Notebooks/blob/master/TF_2_0.ipynb#scrollTo=jlnQG8hC-uCg)
+- [PyTorch Primer](https://colab.research.google.com/drive/1DgkVmi6GksWOByhYVQpyUB4Rk3PUq0Cp#scrollTo=4iSaSfH8bgSq)
+> In progress... 
 ### Sites
 - [Practical Deep Learning for Coders, v3](https://course.fast.ai/index.html)
 - [Machine Learning Mastery, Jason Brownlee](https://machinelearningmastery.com/blog/)
 - [Towards Data Science, Medium](https://towardsdatascience.com/)
 - [A.I. Wiki, Pathmind](https://pathmind.com/wiki/)
 - [Computer Vision, Microsoft, 2020](https://github.com/microsoft/computervision-recipes)
+- [Deep-Learning drizzle, kmario23](https://deep-learning-drizzle.github.io/)
 > In progress...
 
 ### AI communities
