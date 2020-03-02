@@ -40,6 +40,7 @@
 		- [Tensorflow](#tensorflow)
 			- [Notebooks](#notebooks-1)
 		- [Packages](#packages)
+		- [Notebooks](#notebooks-2)
 	- [Quantum Computing](#quantum-computing)
 	- [Research Papers & Academic Resources](#Research-Papers-&-Academic-Resources)
 	- [NLP](#nlp)
@@ -202,6 +203,7 @@
 - [Deep Learning, Yann LeCun & Yoshua Bengio & Geoffrey Hinton, 2015](https://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf)
 - [Deep Residual Learning for Image Recognition, Kaiming He et al, 2016](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 - [TensorFlow: a system for large-scale machine learning, Martín A. el al, 2016](https://www.usenix.org/system/files/conference/osdi16/osdi16-abadi.pdf)
+- [Attention is all you need, Ashish Vaswani et al., 2017](https://arxiv.org/pdf/1706.03762)
 - [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding, Jacob Devlin et al., 2018](https://arxiv.org/pdf/1810.04805)
 - [XLNet: Generalized Autoregressive Pretraining for Language Understanding, Zhilin Yang et al, 2019](https://arxiv.org/pdf/1906.08237.pdf)
 - [PyTorch: An Imperative Style, High-Performance Deep Learning Library, Adam Paszke et al, 2019](https://arxiv.org/pdf/1912.01703.pdf)
@@ -347,8 +349,12 @@
 - [trfl, Deepmind, 2019](https://github.com/deepmind/trfl)
 - [graph_nets, Graph Representation Learning, Data Science Group, IIT Roorkee](https://github.com/dsgiitr/graph_nets)
 - [transformers, hugging face](https://github.com/huggingface/transformers)
+- [reformers, google/trax](https://github.com/google/trax/tree/master/trax/models/reformer)
 - [The Abstraction and Reasoning Corpus (ARC), François Chollet, 2019](https://github.com/fchollet/ARC)
 > In progress...
+
+#### Notebooks
+- [Reformers, Trax Quick Intro](https://colab.research.google.com/github/google/trax/blob/master/trax/intro.ipynb)
 
 ### Quantum Computing
 - [Micheal Nielsen ](https://quantum.country/)
