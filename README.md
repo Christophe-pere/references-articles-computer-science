@@ -27,7 +27,7 @@
 	- [Deep Learning](#deep-learning-1)
 	- [Reinforcement Learning](#reinforcement-learning-1)
 	- [Meta-Learning](#meta-learning-1)
-	- [Meta-reasoning](#meta-reasoning-1)
+	- [Meta-Reasoning](#meta-reasoning-1)
 	- [Quantum Computing](#quantum-computing-1)
 	- [Causality](#causality-1)
 	- [Computational Neuroscience](#computational-neuroscience-1)
@@ -96,7 +96,7 @@
 ### Meta-Learning
 - [Hands-On Meta Learning With Python, Sudharsan Ravichandiran, 2018](https://www.amazon.com/Hands-Meta-Learning-Python-algorithms-ebook/dp/B07KJJHYKF/ref=sr_1_1?ie=UTF8&qid=1543222179&sr=8-1&keywords=meta+learning+hands+on)
 
-### Meat-Reasoning
+### Meta-Reasoning
 - [Metareasoning: Thinking about Thinking, Michael T. Cox et al., 2011](https://www.amazon.com/Metareasoning-Thinking-about-MIT-Press/dp/0262014807)
 > In progress... 
 
