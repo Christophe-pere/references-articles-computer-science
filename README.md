@@ -459,7 +459,7 @@
 - [Artificial Intelligence](https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label%3Aai&btnG=)
 
 ### People to follow 
-| Peoples | arxiv | Google Scholar |
+| Researchers | Arxiv | Google Scholar |
 | ------- | ----- | -------------- |
 | Aaron Courville | [link](https://arxiv.org/search/?searchtype=author&query=Courville%2C+A) | [link](https://scholar.google.com/citations?hl=en&user=km6CP8cAAAAJ) |
 | Adam Coates |  | [link](https://scholar.google.com/citations?hl=en&user=bLUllHEAAAAJ) | 
