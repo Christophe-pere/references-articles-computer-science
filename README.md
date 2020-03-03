@@ -28,6 +28,7 @@
 	- [Reinforcement Learning](#reinforcement-learning-1)
 	- [Meta-Learning](#meta-learning-1)
 	- [Meta-Reasoning](#meta-reasoning-1)
+	- [Federated Learning](#federated-learning)
 	- [Quantum Computing](#quantum-computing-1)
 	- [Causality](#causality-1)
 	- [Computational Neuroscience](#computational-neuroscience-1)
@@ -156,8 +157,9 @@
 - [Open AI spinningup](https://spinningup.openai.com/en/latest/spinningup/keypapers.html)
 
 ### Artificial Intelligence
-- [On Computable Numbers,with an Application to the Entscheidungsproblem, A. M. Turing, 1936](https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf)
-- [Computing Machinery and Intelligence, A. M. Turing, 1950](https://academic.oup.com/mind/article/LIX/236/433/986238)
+- [On Computable Numbers,with an Application to the Entscheidungsproblem, Alan M. Turing, 1936](https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf)
+- [Intelligent Machinery, Alan M Turing, 1948](https://weightagnostic.github.io/papers/turing1948.pdf)
+- [Computing Machinery and Intelligence, Alan M. Turing, 1950](https://academic.oup.com/mind/article/LIX/236/433/986238)
 - [A Proposal for the Dartmouth Summer Research Project on Artificial Intelligence, John NcCarthy at al, 1955](http://jmc.stanford.edu/articles/dartmouth/dartmouth.pdf)
 - [Fuzzy sets, L.A.Zadeh, 1965](https://www.sciencedirect.com/science/article/pii/S001999586590241X)
 - [Universal Artificial Intelligence: Sequential Decisions Based on Algorithmic Probability, Marcus Hutter, 2004](https://books.google.ca/books?id=NP53iZGt4KUC&redir_esc=y)
@@ -260,6 +262,8 @@
 - [Meta Reasoning over Knowledge Graphs, Hong Wang et al., 2019](https://arxiv.org/pdf/1908.04877.pdf)
 - [Doing more with less: meta-reasoning and meta-learning in humans and machines, Thomas L Griffiths et al., 2019](https://cocosci.princeton.edu/papers/doing-more-with-less.pdf)
 
+### Federated Learning
+- [Federated Learning: Strategies For Improving Communication Efficiency, Jakub Konecny et al., 2016](https://arxiv.org/pdf/1610.05492.pdf)
 
 ### Quantum Computing
 #### Quantum Computing
@@ -378,6 +382,7 @@
 
 #### Notebooks
 - [Reformers, Trax Quick Intro](https://colab.research.google.com/github/google/trax/blob/master/trax/intro.ipynb)
+- [PracticalAI, madewithml](https://github.com/madewithml/practicalAI)
 
 ### Quantum Computing
 - [Micheal Nielsen ](https://quantum.country/)
@@ -454,6 +459,9 @@
 - [Google News](https://news.google.com/search?q=MachineLearning&hl=en-US&gl=US&ceid=US:en)
 - [Deep Learning AI](https://www.deeplearning.ai/thebatch/)
 - [Sicara blog](https://www.sicara.ai/blog/)
+- [Frontiers in Computational Neuroscience](https://www.frontiersin.org/journals/computational-neuroscience)
+
+
 
 ### List of most cited researchers
 - [Machine Learning](https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label%3Amachine_learning&btnG=)
@@ -523,11 +531,12 @@
 - [Stanford CS330: Deep Multi-Task and Meta Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5)
 - [Programming Methodology, Stanford](https://www.youtube.com/watch?v=KkMDCCdjyW8&list=PL84A56BC7F4A1F852)
 - [Introduction to Computer Science I, Harvard](https://www.youtube.com/watch?v=z-OxzIC6pic&list=PLvJoKWRPIu8G6Si7LlvmBPA5rOJ9BA29R)
-
+- [MIT Deep Learning, Lex Fridman](https://deeplearning.mit.edu/)
 > In progress...
 
 #### Support courses 
 - [A Beginner's Guide to the Mathematics of Neural Networks, A.C.C. Coolen, 1998](https://nms.kcl.ac.uk/ton.coolen/published/1998/summerschool98.pdf) or [this link](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.161.3556&rep=rep1&type=pdf)
+- [Introduction to Applied Linear Algebra, Stephen Boyd & Lieven Vandenberghe, 2018](https://web.stanford.edu/~boyd/vmls/vmls.pdf)
 > In progress... 
 
 ### Sites
@@ -538,7 +547,9 @@
 - [Computer Vision, Microsoft, 2020](https://github.com/microsoft/computervision-recipes)
 - [Deep-Learning drizzle, kmario23](https://deep-learning-drizzle.github.io/)
 - [Meta-Reasoning](https://omscs-transcend.readthedocs.io/gatech/cs7637/24---meta-reasoning.html)
+- [Reinforcement Learning Tips and Tricks](https://stable-baselines.readthedocs.io/en/master/guide/rl_tips.html)
 - [The Neural Network Zoo, Fjodor Van Veen, 2016](https://www.asimovinstitute.org/neural-network-zoo/) 
+- [Spacy Course, Ines Montani](https://course.spacy.io/)
 > In progress...
 
 ### AI communities
