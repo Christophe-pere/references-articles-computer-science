@@ -35,8 +35,14 @@
 - [Posts and thesis](#posts-and-thesis)
 	- [Blog posts](#blog-posts)
 	- [Thesis](#thesis)
-- [Resources](#resources)
+- [Scientific Research](#scientific-research)
 	- [Research Guide](#research-guide)
+	- [Research Papers & Academic Resources](#Research-Papers-&-Academic-Resources)
+	- [NLP](#nlp)
+	- [List of most cited researchers](#list-of-most-cited-researchers)
+	- [People to follow](#people-to-follow)
+	- [AI Communities](#ai-communities)
+- [Resources](#resources)
 	- [Libraries](#libraries)
 		- [PyTorch](#pytorch)
 			- [Notebooks](#notebooks)
@@ -45,20 +51,15 @@
 		- [Packages](#packages)
 		- [Notebooks](#notebooks-2)
 	- [Quantum Computing](#quantum-computing)
-	- [Research Papers & Academic Resources](#Research-Papers-&-Academic-Resources)
-	- [NLP](#nlp)
 	- [Blogs](#blogs)
-	- [List of most cited researchers](#list-of-most-cited-researchers)
-	- [People to follow](#people-to-follow)
-	- [Courses](#courses)
-		- [MOOCs](#moocs)
-		- [YouTube](#youtube)
-		- [Support Courses](#support-courses)
-		- [Notebooks](#notebooks)
+	- [Datasets](#datasets)
+	- [Best Practices](#best-practices)
+- [Courses](#courses)
+	- [MOOCs](#moocs)
+	- [YouTube](#youtube)
+	- [Support Courses](#support-courses)
+	- [Notebooks](#notebooks)
 	- [Sites](#sites)
-	- [AI Communities](#ai-communities)
-- [Datasets](#datasets)
-- [Best Practices](#best-practices)
 - [General and technical additional books](#general-and-technical-additional-books)
 	- [General](#general)
 	- [Technical](#technical)
@@ -335,7 +336,7 @@
 
 ###### [Back to top](#table-of-contents)
 ---
-## Resources
+## Scientific Research
 ### Research guide 
 > The two references inside the article are very interesting
 - [An Opinionated Guide to ML Research, John Schulman](http://joschu.net/blog/opinionated-guide-ml-research.html)
@@ -349,6 +350,82 @@
 - [Getting started with Git and GitHub](https://github.com/maptime/getting-started-with-git-and-github/blob/master/README.md)
 - [Slow-Science manifesto, take time to do good science](http://slow-science.org/)
 
+### Research Papers & Academic Resources
+- [Computer Science, ArXiv](https://arxiv.org/list/cs/recent)
+- [Arxiv Sanity Preserver](http://www.arxiv-sanity.com/)
+- [Paper With Codes](https://paperswithcode.com/)
+- [Google.ai](https://research.google/pubs/)
+- [Facebook](https://research.fb.com/publications/?cat=4)
+- [DeepAI Research](https://deepai.org/research)
+- [Journal of Artificial Intelligence](https://www.jair.org/index.php/jair)
+- [Google Scholar](https://scholar.google.com/schhp?hl=en&as_sdt=0,5)
+- [MIT - Machine Learning](http://news.mit.edu/topic/machine-learning)
+- [Science Direct](https://www.sciencedirect.com/)
+- [Nature - machine learning](https://www.nature.com/search?q=machine+learning)
+- [Academia.edu - machine learning](https://www.academia.edu/people/search?utf8=%E2%9C%93&q=machine+learning)
+- [University of Oxford - AI & ML](https://www.cs.ox.ac.uk/research/ai_ml/)
+- [Caltech Institute of Technology (CIT)](http://work.caltech.edu/library/index.html)
+- [Berkeley - Medium](https://medium.com/@ml.at.berkeley)
+- [The Very Large Data Base Journal (VLDB Journal)](http://vldb.org/vldb_journal/)
+
+### NLP 
+- [NLP-progress, Sebastian Ruder](https://github.com/sebastianruder/NLP-progress)
+> In progress...
+
+
+### List of most cited researchers
+- [Machine Learning](https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label%3Amachine_learning&btnG=)
+- [Deep Learning](https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:deep_learning&before_author=JEO1_xc5AQAJ&astart=0)
+- [Reinforcement Learning](https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label%3Areinforcement_learning&btnG=)
+- [Artificial Intelligence](https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label%3Aai&btnG=)
+
+### People to follow 
+| Researchers | Arxiv | Google Scholar |
+| ------- | :---: | :---: |
+| Aaron Courville | [link](https://arxiv.org/search/?searchtype=author&query=Courville%2C+A) | [link](https://scholar.google.com/citations?hl=en&user=km6CP8cAAAAJ) |
+| Adam Coates |  | [link](https://scholar.google.com/citations?hl=en&user=bLUllHEAAAAJ) | 
+| Andrej Karpathy |  |  [link](https://scholar.google.com/citations?user=l8WuQJgAAAAJ&hl=en) | 
+| Andrew Barto |  | [link](https://scholar.google.com/citations?hl=en&user=CMIgrCgAAAAJ) | 
+| Andrew Ng | [link](https://arxiv.org/search/?searchtype=author&query=Ng%2C+A+Y) | [link](https://scholar.google.com/citations?hl=en&user=mG4imMEAAAAJ) | 
+| Christopher D. Manning | [link](https://arxiv.org/search/?searchtype=author&query=Manning%2C+C+D) |  [link](https://scholar.google.com/citations?hl=en&user=1zmDOdwAAAAJ) |
+| Daphne Koller |  |  [link](http://ai.stanford.edu/users/koller/) |
+| David Silver | |  [link](https://scholar.google.com/citations?hl=en&user=-8DNE4UAAAAJ) | 
+| Doina Precup |  [link](https://arxiv.org/search/?searchtype=author&query=Precup%2C+D) | [link](https://scholar.google.com/citations?hl=en&user=j54VcVEAAAAJ) | 
+| François Chollet | [link](https://arxiv.org/search/?searchtype=author&query=Chollet%2C+F) | [link](https://scholar.google.com/citations?hl=en&user=VfYhf2wAAAAJ) |
+| [Gary Marcus](https://dblp.org/pers/m/Marcus:Gary.html)  | | |
+| Geoffrey Hinton | [link](https://arxiv.org/search/?searchtype=author&query=Hinton%2C+G) | [link](https://scholar.google.com/citations?hl=en&user=JicYPdAAAAAJ) |
+| Hugo Larochelle | [link](https://arxiv.org/search/?searchtype=author&query=Larochelle%2C+H) | [link](https://scholar.google.com/citations?hl=en&user=U89FHq4AAAAJ) |
+| Ian Googfellow | [link](https://arxiv.org/search/?searchtype=author&query=Goodfellow%2C+I) | [link](https://scholar.google.com/citations?hl=en&user=iYN86KEAAAAJ) |
+| Judea Pearl |  | [link](https://scholar.google.com/citations?hl=en&user=bAipNH8AAAAJ) |
+| Jürgen Schmidhuber | | [link](https://scholar.google.com/citations?hl=en&user=gLnCTgIAAAAJ) |
+| Michael I. Jordan |  |  [link](https://scholar.google.com/citations?hl=en&user=nzEluBwAAAAJ) |
+| Nando de Freitas |  | [link](https://scholar.google.com/citations?hl=en&user=nzEluBwAAAAJ) | 
+| Oriol Vinyals | [link](https://arxiv.org/search/?searchtype=author&query=Vinyals%2C+O) | [link](https://scholar.google.com/citations?hl=en&user=NkzyCvUAAAAJ) |
+| Peter Norvig |  | [link](https://scholar.google.com/citations?user=Ol0vcWgAAAAJ&hl=en) | 
+| Richard S. Sutton | [link](https://arxiv.org/search/?searchtype=author&query=Sutton%2C+R+S) | [link](https://scholar.google.com/citations?hl=en&user=6m4wv6gAAAAJ) |
+| Sebastian Ruder | [link](https://arxiv.org/search/?searchtype=author&query=Ruder%2C+S) | [link](https://scholar.google.com/citations?hl=en&user=8ONXPV8AAAAJ) |
+| Stuart Russell |  | [link](https://scholar.google.com/citations?hl=en&user=2oy3OXYAAAAJ) | 
+| Terrence Sejnowski | |  [link](https://scholar.google.com/citations?hl=en&user=m1qAiOUAAAAJ) | 
+| Yann LeCun | [link](https://arxiv.org/search/?searchtype=author&query=LeCun%2C+Y) | [link](https://scholar.google.com/citations?hl=en&user=WLN3QrAAAAAJ) |
+| Yoshua Bengio | [link](https://arxiv.org/search/?searchtype=author&query=Bengio%2C+Y) | [link](https://scholar.google.com/citations?hl=en&user=kukA0LcAAAAJ) |
+> In progress...
+
+### AI communities
+- [AI Dreams](https://aidreams.co.uk/)
+- [Forum for Artificial Intelligence](https://www.cs.utexas.edu/~ai-lab/fai/) 
+- [Quora](https://www.quora.com/)
+- [Reddit](https://www.reddit.com/r/MachineLearning/) Groups: r/MachineLearning, r/DeepLearning, r/DataScience, r/learnmachinelearning r/artificial/
+- [Stack Overflow](https://stackoverflow.com/)
+- [Kaggle](https://www.kaggle.com/)
+- [Jupyter Community](https://jupyter.org/community)
+- [DEV](https://dev.to/)
+- [ods.ai, Open Data Science](https://ods.ai/) 
+- [fastai](https://www.fast.ai/) 
+> In progress...
+
+###### [Back to top](#table-of-contents)
+---
+## Resources
 ### Librairies
 #### PyTorch
 > Orinigal tutorials on pyTorch
@@ -397,27 +474,7 @@
 - [D-Wave Tutorials on Quantum Annealing](https://www.dwavesys.com/resources/tutorials)
 > In progress...
 
-### Research Papers & Academic Resources
-- [Computer Science, ArXiv](https://arxiv.org/list/cs/recent)
-- [Arxiv Sanity Preserver](http://www.arxiv-sanity.com/)
-- [Paper With Codes](https://paperswithcode.com/)
-- [Google.ai](https://research.google/pubs/)
-- [Facebook](https://research.fb.com/publications/?cat=4)
-- [DeepAI Research](https://deepai.org/research)
-- [Journal of Artificial Intelligence](https://www.jair.org/index.php/jair)
-- [Google Scholar](https://scholar.google.com/schhp?hl=en&as_sdt=0,5)
-- [MIT - Machine Learning](http://news.mit.edu/topic/machine-learning)
-- [Science Direct](https://www.sciencedirect.com/)
-- [Nature - machine learning](https://www.nature.com/search?q=machine+learning)
-- [Academia.edu - machine learning](https://www.academia.edu/people/search?utf8=%E2%9C%93&q=machine+learning)
-- [University of Oxford - AI & ML](https://www.cs.ox.ac.uk/research/ai_ml/)
-- [Caltech Institute of Technology (CIT)](http://work.caltech.edu/library/index.html)
-- [Berkeley - Medium](https://medium.com/@ml.at.berkeley)
-- [The Very Large Data Base Journal (VLDB Journal)](http://vldb.org/vldb_journal/)
 
-### NLP 
-- [NLP-progress, Sebastian Ruder](https://github.com/sebastianruder/NLP-progress)
-> In progress...
 
 ### Blogs 
 - [Medium](https://medium.com/)
@@ -467,47 +524,28 @@
 - [Sicara blog](https://www.sicara.ai/blog/)
 - [Frontiers in Computational Neuroscience](https://www.frontiersin.org/journals/computational-neuroscience)
 
+## Datasets
+- [Dataset Search, Google](https://datasetsearch.research.google.com/)
+- [Google Research Datasets](https://research.google/tools/datasets/)
+- [Stanford Datasets](https://snap.stanford.edu/data/)
+- [AWS Open Datasets](https://registry.opendata.aws/)
+- [Lionbridge Social Datasets](https://lionbridge.ai/datasets/12-best-social-media-datasets/)
+- [Awesome Datasets, Xiaming](https://github.com/awesomedata/awesome-public-datasets)
+- [Abstraction and Reasoning Corpus, François Chollet, 2019](https://github.com/fchollet/ARC)
+- [Pathmind Open datasets](https://pathmind.com/wiki/open-datasets)
+- [Kaggle Datasets](https://www.kaggle.com/datasets?sortBy=relevance&group=all&search=tag%3A%27artificial%20intelligence%27)
+---
+
+## Best-practices
+- [Rules of ML, Google](https://developers.google.com/machine-learning/guides/rules-of-ml)
+
+--- 
 
 
-### List of most cited researchers
-- [Machine Learning](https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label%3Amachine_learning&btnG=)
-- [Deep Learning](https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:deep_learning&before_author=JEO1_xc5AQAJ&astart=0)
-- [Reinforcement Learning](https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label%3Areinforcement_learning&btnG=)
-- [Artificial Intelligence](https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label%3Aai&btnG=)
-
-### People to follow 
-| Researchers | Arxiv | Google Scholar |
-| ------- | :---: | :---: |
-| Aaron Courville | [link](https://arxiv.org/search/?searchtype=author&query=Courville%2C+A) | [link](https://scholar.google.com/citations?hl=en&user=km6CP8cAAAAJ) |
-| Adam Coates |  | [link](https://scholar.google.com/citations?hl=en&user=bLUllHEAAAAJ) | 
-| Andrej Karpathy |  |  [link](https://scholar.google.com/citations?user=l8WuQJgAAAAJ&hl=en) | 
-| Andrew Barto |  | [link](https://scholar.google.com/citations?hl=en&user=CMIgrCgAAAAJ) | 
-| Andrew Ng | [link](https://arxiv.org/search/?searchtype=author&query=Ng%2C+A+Y) | [link](https://scholar.google.com/citations?hl=en&user=mG4imMEAAAAJ) | 
-| Christopher D. Manning | [link](https://arxiv.org/search/?searchtype=author&query=Manning%2C+C+D) |  [link](https://scholar.google.com/citations?hl=en&user=1zmDOdwAAAAJ) |
-| Daphne Koller |  |  [link](http://ai.stanford.edu/users/koller/) |
-| David Silver | |  [link](https://scholar.google.com/citations?hl=en&user=-8DNE4UAAAAJ) | 
-| Doina Precup |  [link](https://arxiv.org/search/?searchtype=author&query=Precup%2C+D) | [link](https://scholar.google.com/citations?hl=en&user=j54VcVEAAAAJ) | 
-| François Chollet | [link](https://arxiv.org/search/?searchtype=author&query=Chollet%2C+F) | [link](https://scholar.google.com/citations?hl=en&user=VfYhf2wAAAAJ) |
-| [Gary Marcus](https://dblp.org/pers/m/Marcus:Gary.html)  | | |
-| Geoffrey Hinton | [link](https://arxiv.org/search/?searchtype=author&query=Hinton%2C+G) | [link](https://scholar.google.com/citations?hl=en&user=JicYPdAAAAAJ) |
-| Hugo Larochelle | [link](https://arxiv.org/search/?searchtype=author&query=Larochelle%2C+H) | [link](https://scholar.google.com/citations?hl=en&user=U89FHq4AAAAJ) |
-| Ian Googfellow | [link](https://arxiv.org/search/?searchtype=author&query=Goodfellow%2C+I) | [link](https://scholar.google.com/citations?hl=en&user=iYN86KEAAAAJ) |
-| Judea Pearl |  | [link](https://scholar.google.com/citations?hl=en&user=bAipNH8AAAAJ) |
-| Jürgen Schmidhuber | | [link](https://scholar.google.com/citations?hl=en&user=gLnCTgIAAAAJ) |
-| Michael I. Jordan |  |  [link](https://scholar.google.com/citations?hl=en&user=nzEluBwAAAAJ) |
-| Nando de Freitas |  | [link](https://scholar.google.com/citations?hl=en&user=nzEluBwAAAAJ) | 
-| Oriol Vinyals | [link](https://arxiv.org/search/?searchtype=author&query=Vinyals%2C+O) | [link](https://scholar.google.com/citations?hl=en&user=NkzyCvUAAAAJ) |
-| Peter Norvig |  | [link](https://scholar.google.com/citations?user=Ol0vcWgAAAAJ&hl=en) | 
-| Richard S. Sutton | [link](https://arxiv.org/search/?searchtype=author&query=Sutton%2C+R+S) | [link](https://scholar.google.com/citations?hl=en&user=6m4wv6gAAAAJ) |
-| Sebastian Ruder | [link](https://arxiv.org/search/?searchtype=author&query=Ruder%2C+S) | [link](https://scholar.google.com/citations?hl=en&user=8ONXPV8AAAAJ) |
-| Stuart Russell |  | [link](https://scholar.google.com/citations?hl=en&user=2oy3OXYAAAAJ) | 
-| Terrence Sejnowski | |  [link](https://scholar.google.com/citations?hl=en&user=m1qAiOUAAAAJ) | 
-| Yann LeCun | [link](https://arxiv.org/search/?searchtype=author&query=LeCun%2C+Y) | [link](https://scholar.google.com/citations?hl=en&user=WLN3QrAAAAAJ) |
-| Yoshua Bengio | [link](https://arxiv.org/search/?searchtype=author&query=Bengio%2C+Y) | [link](https://scholar.google.com/citations?hl=en&user=kukA0LcAAAAJ) |
-> In progress...
-
-### Courses 
-#### MOOCs
+###### [Back to top](#table-of-contents)
+---
+## Courses 
+### MOOCs
 - [Quantum Machine Learning, edx](https://www.edx.org/course/quantum-machine-learning)
 - [Machine Learning, Coursera, Andrew Ng](https://www.coursera.org/learn/machine-learning#syllabus)
 - [Reinforcement Learning Specialization, Coursera](https://www.coursera.org/specializations/reinforcement-learning)
@@ -520,7 +558,7 @@
 - [Stanford Online](https://online.stanford.edu/courses?keywords=machine%2520learning&availability%5bavailable%5d=available&availability%5bclosed%5d=closed&availability%5bwaitlist%5d=waitlist)
 
 
-#### Youtube
+### Youtube
 - [Linear Algebra, MIT edu](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/)
 - [Machine Learning](https://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA)
 - [Machine Learning, Stanford, Andrew Ng](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
@@ -540,7 +578,7 @@
 - [MIT Deep Learning, Lex Fridman](https://deeplearning.mit.edu/)
 > In progress...
 
-#### Support courses 
+### Support courses 
 - [A Beginner's Guide to the Mathematics of Neural Networks, A.C.C. Coolen, 1998](https://nms.kcl.ac.uk/ton.coolen/published/1998/summerschool98.pdf) or [this link](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.161.3556&rep=rep1&type=pdf)
 - [Introduction to Applied Linear Algebra, Stephen Boyd & Lieven Vandenberghe, 2018](https://web.stanford.edu/~boyd/vmls/vmls.pdf)
 > In progress... 
@@ -558,36 +596,8 @@
 - [Spacy Course, Ines Montani](https://course.spacy.io/)
 > In progress...
 
-### AI communities
-- [AI Dreams](https://aidreams.co.uk/)
-- [Forum for Artificial Intelligence](https://www.cs.utexas.edu/~ai-lab/fai/) 
-- [Quora](https://www.quora.com/)
-- [Reddit](https://www.reddit.com/r/MachineLearning/) Groups: r/MachineLearning, r/DeepLearning, r/DataScience, r/learnmachinelearning r/artificial/
-- [Stack Overflow](https://stackoverflow.com/)
-- [Kaggle](https://www.kaggle.com/)
-- [Jupyter Community](https://jupyter.org/community)
-- [DEV](https://dev.to/)
-- [ods.ai, Open Data Science](https://ods.ai/) 
-- [fastai](https://www.fast.ai/) 
-> In progress...
 
 ###### [Back to top](#table-of-contents)
---- 
-## Datasets
-- [Dataset Search, Google](https://datasetsearch.research.google.com/)
-- [Google Research Datasets](https://research.google/tools/datasets/)
-- [Stanford Datasets](https://snap.stanford.edu/data/)
-- [AWS Open Datasets](https://registry.opendata.aws/)
-- [Lionbridge Social Datasets](https://lionbridge.ai/datasets/12-best-social-media-datasets/)
-- [Awesome Datasets, Xiaming](https://github.com/awesomedata/awesome-public-datasets)
-- [Abstraction and Reasoning Corpus, François Chollet, 2019](https://github.com/fchollet/ARC)
-- [Pathmind Open datasets](https://pathmind.com/wiki/open-datasets)
-- [Kaggle Datasets](https://www.kaggle.com/datasets?sortBy=relevance&group=all&search=tag%3A%27artificial%20intelligence%27)
----
-
-## Best-practices
-- [Rules of ML, Google](https://developers.google.com/machine-learning/guides/rules-of-ml)
-
 --- 
 
 ## General and technical additional books
