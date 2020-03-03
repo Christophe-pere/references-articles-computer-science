@@ -1,7 +1,8 @@
 ﻿# Computer Science References for researchers
 
 > This repository is made to gather different resources for researchers and students in Computer Science specially for Machine Learning, Deep Learning, Reinforcement Learning and Quantum Computing. Additional usefull resources can be find at the end, tutorials and others github pages about librairies in AI. 
-> Page under construction 
+
+> Page under construction ...
 
 
 ## Table of Contents 
@@ -158,6 +159,8 @@
 - [Deep Learning Papers Reading Roadmap, floodsung](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
 > Open AI maintained a web page with the most import paper in RL 
 - [Open AI spinningup](https://spinningup.openai.com/en/latest/spinningup/keypapers.html)
+> Denny Britz share papernotes on Deep Learning articles from 2011 to 2018-02
+- [Deep Learning Papernotes, Denny Britz](https://github.com/dennybritz/deeplearning-papernotes)
 
 ### Artificial Intelligence
 - [On Computable Numbers,with an Application to the Entscheidungsproblem, Alan M. Turing, 1936](https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf)
@@ -539,7 +542,6 @@
 ## Best-practices
 - [Rules of ML, Google](https://developers.google.com/machine-learning/guides/rules-of-ml)
 
---- 
 
 
 ###### [Back to top](#table-of-contents)
@@ -556,7 +558,7 @@
 - [edx](https://www.edx.org/)
 - [Harvard Online](https://online-learning.harvard.edu/)
 - [Stanford Online](https://online.stanford.edu/courses?keywords=machine%2520learning&availability%5bavailable%5d=available&availability%5bclosed%5d=closed&availability%5bwaitlist%5d=waitlist)
-
+- [Reinforcement Learning, Denny Britz](https://github.com/dennybritz/reinforcement-learning)
 
 ### Youtube
 - [Linear Algebra, MIT edu](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/)
