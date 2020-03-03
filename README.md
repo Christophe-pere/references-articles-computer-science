@@ -347,6 +347,7 @@
 - [How to read a scientific paper, Christophe Pere, 2019](https://medium.com/@pere.christophe1/how-to-quickly-read-a-scientific-paper-efa066db2b0)
 - [How to write a technical paper, Michael Ernst, 2019](https://homes.cs.washington.edu/~mernst/advice/write-technical-paper.html)
 - [Getting started with Git and GitHub](https://github.com/maptime/getting-started-with-git-and-github/blob/master/README.md)
+- [Slow-Science manifesto, take time to do good science](http://slow-science.org/)
 
 ### Librairies
 #### PyTorch
@@ -412,7 +413,7 @@
 - [University of Oxford - AI & ML](https://www.cs.ox.ac.uk/research/ai_ml/)
 - [Caltech Institute of Technology (CIT)](http://work.caltech.edu/library/index.html)
 - [Berkeley - Medium](https://medium.com/@ml.at.berkeley)
-
+- [The Very Large Data Base Journal (VLDB Journal)](http://vldb.org/vldb_journal/)
 
 ### NLP 
 - [NLP-progress, Sebastian Ruder](https://github.com/sebastianruder/NLP-progress)
