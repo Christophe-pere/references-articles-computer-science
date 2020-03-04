@@ -204,11 +204,18 @@
 > In progress...
 
 ### Deep Learning
+- [A logical calculus of the ideas immanent in nervous activity, Warren S. McCulloch & Walter Pitts, 1943](https://www.cs.cmu.edu/~./epxing/Class/10715/reading/McCulloch.and.Pitts.pdf)
+- [The perceptron: A probabilistic model for information storage and organization in the brain, F. Rosenblatt, 1958](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.335.3398&rep=rep1&type=pdf)
 - [A Threshold Selection Method from Gray-Level Histograms, Nobuyuki Otsu, 1979](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=4310076)
 - [A computational approach to edge detection, J Canny, 1986](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.420.3300&rep=rep1&type=pdf)
 - [A tutorial on hidden Markov models and selected applications in speech recognition, R Rabiner, 1989](http://www.cs.cmu.edu/~cga/behavior/rabiner1.pdf)
+- [Artificial neural networks, back propagation, and the Kelley-Bryson gradient procedure, Stuart E. Dreyfus, 1990](https://www.gwern.net/docs/ai/1990-dreyfus.pdf)
+- [A fast learning algorithm for deep belief nets, Geoffrey E. Hinton & Simon Osindero & Yee-Whye Teh, 1995](https://www.cs.toronto.edu/~hinton/absps/fastnc.pdf)
 - [Distinctive Image Features from Scale-Invariant Keypoints, David G. Lowe, 2004](https://www.cs.ubc.ca/~lowe/papers/ijcv04.pdf)
+- [ImageNet Classification with Deep Convolutional Neural Networks, Alex Krizhevsky & Ilya Sutskever & Geoffrey E. Hinton, 2012](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
 - [Visualizing and Understanding Convolutional Networks, by Matt Zeiler & Rob Fergus, 2013](https://arxiv.org/pdf/1311.2901.pdf)
+- [Speech Recognition With Deep Recurrent Neural Networks, Alex Graves & Abdel-rahman Mohamed & Geoffrey Hinton, 2013](cs.toronto.edu/~hinton/absps/RNN13.pdf)
+- [Multimodal learning with deep Boltzmann machines, Nitish Srivastava & Ruslan Salakhutdinov, 2014](https://dl.acm.org/doi/10.5555/2627435.2697059)
 - [Generative Adversarial Nets, Ian J. Goodfellow et al, 2014](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)
 - [Dropout: A Simple Way to Prevent Neural Networks from Overfitting, Nitish Srivastava et al, 2014](http://jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf)
 - [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift, Sergey Ioffe & Christian Szegedy, 2015](https://arxiv.org/pdf/1502.03167)
@@ -218,9 +225,12 @@
 - [Long-term recurrent convolutional networks for visual recognition and description,  Jeff D. et al., 2015](https://arxiv.org/pdf/1411.4389.pdf)
 - [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks, Shaoqing R. et al., 2015](https://arxiv.org/pdf/1506.01497.pdf)
 - [Deep Learning, Yann LeCun & Yoshua Bengio & Geoffrey Hinton, 2015](https://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf)
+- [Distilling the Knowledge in a Neural Network, Geoffrey Hinton & Oriol Vinyals & Jeff Dean, 2015](http://www.cs.toronto.edu/~hinton/absps/distillation.pdf)
+- [Deep Learning in Neural Networks: An Overview, Juergen Schmidhuber, 2015](https://arxiv.org/pdf/1404.7828)
 - [Deep Residual Learning for Image Recognition, Kaiming He et al, 2016](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 - [TensorFlow: a system for large-scale machine learning, Martín A. el al, 2016](https://www.usenix.org/system/files/conference/osdi16/osdi16-abadi.pdf)
 - [Attention is all you need, Ashish Vaswani et al., 2017](https://arxiv.org/pdf/1706.03762)
+- [Dynamic Routing Between Capsules, Sara Sabour & Nicholas Frosst & Geoffrey E Hinton, 2017](https://arxiv.org/pdf/1710.09829)
 - [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding, Jacob Devlin et al., 2018](https://arxiv.org/pdf/1810.04805)
 - [Neural Ordinary Differential Equations, Ricky T. Q. Chen et al., 2018](https://arxiv.org/pdf/1806.07366)
 - [XLNet: Generalized Autoregressive Pretraining for Language Understanding, Zhilin Yang et al, 2019](https://arxiv.org/pdf/1906.08237.pdf)
@@ -228,6 +238,9 @@
 > An exhaustive list can be found in the Deep Learning, Goodfellow I. et al, 2016:
 - [Deep Learning, Goodfellow I. et al, 2016 - bibliography](https://www.deeplearningbook.org/contents/bib.html)
 > In progress...
+
+
+
 
 ### Reinforcement Learning
 > A short list 
