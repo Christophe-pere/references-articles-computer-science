@@ -211,7 +211,10 @@
 - [A tutorial on hidden Markov models and selected applications in speech recognition, R Rabiner, 1989](http://www.cs.cmu.edu/~cga/behavior/rabiner1.pdf)
 - [Artificial neural networks, back propagation, and the Kelley-Bryson gradient procedure, Stuart E. Dreyfus, 1990](https://www.gwern.net/docs/ai/1990-dreyfus.pdf)
 - [A fast learning algorithm for deep belief nets, Geoffrey E. Hinton & Simon Osindero & Yee-Whye Teh, 1995](https://www.cs.toronto.edu/~hinton/absps/fastnc.pdf)
+- [Long Short-Term Memory, Sepp Hochreiter & Jurgen Schmidhuber, 1997](bioinf.jku.at/publications/older/2604.pdf)
+- [Gradient-Based Learning Applied to Document Recognition, Yann LeCun, 1998](http://vision.stanford.edu/cs598_spring07/papers/Lecun98.pdf)
 - [Distinctive Image Features from Scale-Invariant Keypoints, David G. Lowe, 2004](https://www.cs.ubc.ca/~lowe/papers/ijcv04.pdf)
+- [Deep Boltzmann Machines, Ruslan Salakhutdinov & Geoffrey Hinton, 2009](http://www.cs.toronto.edu/~hinton/absps/dbm.pdf)
 - [ImageNet Classification with Deep Convolutional Neural Networks, Alex Krizhevsky & Ilya Sutskever & Geoffrey E. Hinton, 2012](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
 - [Visualizing and Understanding Convolutional Networks, by Matt Zeiler & Rob Fergus, 2013](https://arxiv.org/pdf/1311.2901.pdf)
 - [Speech Recognition With Deep Recurrent Neural Networks, Alex Graves & Abdel-rahman Mohamed & Geoffrey Hinton, 2013](cs.toronto.edu/~hinton/absps/RNN13.pdf)
@@ -340,6 +343,7 @@
 - [Meta-Reinforcement Learning, Lilian Weng, 2019](https://lilianweng.github.io/lil-log/2019/06/23/meta-reinforcement-learning.html)
 - [Meta-Learning: from Few-Shot Learning to Rapid  Reinforcement Learning ICML 2019 Tutorial, Chelsea Finn & Sergey Levine, 2019](https://sites.google.com/view/icml19metalearning)
 - [A Deep Dive into Reinforcement Learning, ADAM STELMASZCZYK](https://www.toptal.com/machine-learning/deep-dive-into-reinforcement-learning)
+- [Brief History of Neural Networks](https://medium.com/analytics-vidhya/brief-history-of-neural-networks-44c2bf72eec)
 > In progress...
 
 
