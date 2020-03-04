@@ -211,7 +211,7 @@
 - [A tutorial on hidden Markov models and selected applications in speech recognition, R Rabiner, 1989](http://www.cs.cmu.edu/~cga/behavior/rabiner1.pdf)
 - [Artificial neural networks, back propagation, and the Kelley-Bryson gradient procedure, Stuart E. Dreyfus, 1990](https://www.gwern.net/docs/ai/1990-dreyfus.pdf)
 - [A fast learning algorithm for deep belief nets, Geoffrey E. Hinton & Simon Osindero & Yee-Whye Teh, 1995](https://www.cs.toronto.edu/~hinton/absps/fastnc.pdf)
-- [Long Short-Term Memory, Sepp Hochreiter & Jurgen Schmidhuber, 1997](bioinf.jku.at/publications/older/2604.pdf)
+- [Long Short-Term Memory, Sepp Hochreiter & Jürgen Schmidhuber, 1997](bioinf.jku.at/publications/older/2604.pdf)
 - [Gradient-Based Learning Applied to Document Recognition, Yann LeCun, 1998](http://vision.stanford.edu/cs598_spring07/papers/Lecun98.pdf)
 - [Distinctive Image Features from Scale-Invariant Keypoints, David G. Lowe, 2004](https://www.cs.ubc.ca/~lowe/papers/ijcv04.pdf)
 - [Deep Boltzmann Machines, Ruslan Salakhutdinov & Geoffrey Hinton, 2009](http://www.cs.toronto.edu/~hinton/absps/dbm.pdf)
