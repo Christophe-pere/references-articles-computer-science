@@ -16,6 +16,7 @@
 	- [Reinfrocement Learning](#reinforcement-learning)
 	- [Meta-Learning](#meta-learning)
 	- [Meta-Reasoning](#meta-reasoning)
+	- [Lifelong or Continual Learning](#lifelong-or-continual-learning)
 	- [Quantum Computing](#quantum-computing)
 	- [Mathematics for Machine Learning](#mathematics-for-machine-learning)
 	- [Causality](#causality)
@@ -30,6 +31,7 @@
 	- [Meta-Learning](#meta-learning-1)
 	- [Meta-Reasoning](#meta-reasoning-1)
 	- [Federated Learning](#federated-learning)
+	- [Lifelong or Continual Learning](#lifelong-or-continual-learning-1)
 	- [Quantum Computing](#quantum-computing-1)
 	- [Causality](#causality-1)
 	- [Computational Neuroscience](#computational-neuroscience-1)
@@ -38,7 +40,7 @@
 	- [Thesis](#thesis)
 - [Scientific Research](#scientific-research)
 	- [Research Guide](#research-guide)
-	- [Research Papers & Academic Resources](#Research-Papers-&-Academic-Resources)
+	- [Research Papers & Academic Resources](#research-papers-&-academic-resources)
 	- [NLP](#nlp)
 	- [List of most cited researchers](#list-of-most-cited-researchers)
 	- [People to follow](#people-to-follow)
@@ -71,6 +73,7 @@
 
 ### Artificial Intelligence
 - [Fundamental Algorithms: 1 (Artificial Intelligence for Humans), Jeff Heaton, 2013](https://www.amazon.in/Fundamental-Algorithms-Artificial-Intelligence-Humans/dp/1493682229/ref=as_li_ss_tl?_encoding=UTF8&psc=1&refRID=05B95DHHR5KQTBTDZ1G5&linkCode=sl1&tag=analyvidhy-21&linkId=e1ffe654b5c32e635aeaa3aa08a8dd17)
+or the github repository of the author : [link](https://github.com/jeffheaton/aifh)
 - [Artificial Intelligence with Python: A Comprehensive Guide to Building Intelligent Apps for Python Beginners and Developers, Prateek Joshi, 2017](https://www.amazon.ca/Artificial-Intelligence-Python-Comprehensive-Intelligent-ebook/dp/B01IRD0LBY)
 - [Artificial Intelligence: A Modern Approach, 4th edition, Stuart Russell & Peter Norvig, 2020](https://www.amazon.com/Artificial-Intelligence-A-Modern-Approach/dp/0134610997)
 
@@ -102,6 +105,9 @@
 ### Meta-Reasoning
 - [Metareasoning: Thinking about Thinking, Michael T. Cox et al., 2011](https://www.amazon.com/Metareasoning-Thinking-about-MIT-Press/dp/0262014807)
 > In progress... 
+
+### Lifelong or Continual Learning
+- [Lifelong Machine Learning, Zhiyuan Chen & Bing Liu, 2nd edition, 2018](https://www.cs.uic.edu/~liub/lifelong-machine-learning.html)
 
 ### Quantum Computing
 - [Quantum Computation and Quantum Information - 10th Anniversary Edition, Michael A. Nielsen & Isaac L. CHuang, 2010](https://www.amazon.ca/Quantum-Computation-Information-10th-Anniversary/dp/1107002176/ref=sr_1_2?keywords=quantum+information+and+quantum+computing&qid=1581965920&s=books&sr=1-2)
@@ -217,17 +223,26 @@
 - [Deep Boltzmann Machines, Ruslan Salakhutdinov & Geoffrey Hinton, 2009](http://www.cs.toronto.edu/~hinton/absps/dbm.pdf)
 - [ImageNet Classification with Deep Convolutional Neural Networks, Alex Krizhevsky & Ilya Sutskever & Geoffrey E. Hinton, 2012](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
 - [Visualizing and Understanding Convolutional Networks, by Matt Zeiler & Rob Fergus, 2013](https://arxiv.org/pdf/1311.2901.pdf)
+- [Rich feature hierarchies for accurate object detection and semantic segmentation Tech report, Ross Girshick et al., 2013](https://arxiv.org/pdf/1311.2524v5.pdf)
 - [Speech Recognition With Deep Recurrent Neural Networks, Alex Graves & Abdel-rahman Mohamed & Geoffrey Hinton, 2013](cs.toronto.edu/~hinton/absps/RNN13.pdf)
+- [Neural Machine Translation by Jointly Learning to Align and Translate, Dzmitry Bahdanau & Kyunghyun Cho & Yoshua Bengio, 2014](https://arxiv.org/abs/1409.0473)
 - [Multimodal learning with deep Boltzmann machines, Nitish Srivastava & Ruslan Salakhutdinov, 2014](https://dl.acm.org/doi/10.5555/2627435.2697059)
 - [Generative Adversarial Nets, Ian J. Goodfellow et al, 2014](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)
 - [Dropout: A Simple Way to Prevent Neural Networks from Overfitting, Nitish Srivastava et al, 2014](http://jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf)
+- [Very Deep Convolutional Networks For Large-Scale Image Recognition, Karen Simonyan & Andrew Zisserman, 2014](https://arxiv.org/pdf/1409.1556v6.pdf)
+- [Long-term recurrent convolutional networks for visual recognition and description,  Jeff D. et al., 2014](https://arxiv.org/pdf/1411.4389.pdf)
+- [Deep Visual-Semantic Alignments for Generating Image Descriptions, Andrej Karpathy & Li Fei-Fei, 2014](https://arxiv.org/pdf/1412.2306v2.pdf)
+- [Spatial Transformer Networks, Max Jaderberg et al., 2015](https://arxiv.org/pdf/1506.02025.pdf)
+- [Fast R-CNN, Ross Girshick, 2015](https://arxiv.org/pdf/1504.08083.pdf)
+- [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks, Shaoqing Ren et al., 2015](https://arxiv.org/pdf/1506.01497v3.pdf)
 - [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift, Sergey Ioffe & Christian Szegedy, 2015](https://arxiv.org/pdf/1502.03167)
 - [Character-level convolutional networks for text classification, Xiang Z. & Junbo Jake Z. & Yann L. 2015](http://papers.nips.cc/paper/5782-character-level-convolutional-networks-for-text-classification.pdf)
 - [U-Net: Convolutional Networks for Biomedical Image Segmentation, Olaf R. & Philipp F. & Thomas B.,2015](https://arxiv.org/pdf/1505.04597.pdf)
 - [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks, Alec R. & Luke M. & Soumith C., 2015](https://arxiv.org/pdf/1511.06434.pdf)
-- [Long-term recurrent convolutional networks for visual recognition and description,  Jeff D. et al., 2015](https://arxiv.org/pdf/1411.4389.pdf)
 - [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks, Shaoqing R. et al., 2015](https://arxiv.org/pdf/1506.01497.pdf)
 - [Deep Learning, Yann LeCun & Yoshua Bengio & Geoffrey Hinton, 2015](https://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf)
+- [Going Deeper with Convolutions, Christian Szegedy et al., 2015](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Szegedy_Going_Deeper_With_2015_CVPR_paper.pdf)
+- [Deep Residual Learning for Image Recognition, Kaiming He et al., 2015](https://arxiv.org/pdf/1512.03385v1.pdf)
 - [Distilling the Knowledge in a Neural Network, Geoffrey Hinton & Oriol Vinyals & Jeff Dean, 2015](http://www.cs.toronto.edu/~hinton/absps/distillation.pdf)
 - [Deep Learning in Neural Networks: An Overview, Juergen Schmidhuber, 2015](https://arxiv.org/pdf/1404.7828)
 - [Deep Residual Learning for Image Recognition, Kaiming He et al, 2016](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
@@ -238,11 +253,12 @@
 - [Neural Ordinary Differential Equations, Ricky T. Q. Chen et al., 2018](https://arxiv.org/pdf/1806.07366)
 - [XLNet: Generalized Autoregressive Pretraining for Language Understanding, Zhilin Yang et al, 2019](https://arxiv.org/pdf/1906.08237.pdf)
 - [PyTorch: An Imperative Style, High-Performance Deep Learning Library, Adam Paszke et al, 2019](https://arxiv.org/pdf/1912.01703.pdf)
+
 > An exhaustive list can be found in the Deep Learning, Goodfellow I. et al, 2016:
 - [Deep Learning, Goodfellow I. et al, 2016 - bibliography](https://www.deeplearningbook.org/contents/bib.html)
-> In progress...
 
-
+> An exhaustive list about neural network search can be available here: 
+- [Literature on Neural Architecture Search, Marius Lindauer, currently maintained](https://www.automl.org/automl/literature-on-neural-architecture-search/)
 
 
 ### Reinforcement Learning
@@ -255,7 +271,10 @@
 - [Dueling Network Architectures for Deep Reinforcement Learning, Wang et al, 2015](https://arxiv.org/abs/1511.06581)
 - [Human-level control through deep reinforcement learning, Volodymyr M. et al 2015](https://web.stanford.edu/class/psych209/Readings/MnihEtAlHassibis15NatureControlDeepRL.pdf)
 - [Asynchronous methods for deep reinforcement learning, Volodymyr M., et al., 2016](http://proceedings.mlr.press/v48/mniha16.pdf)
+- [Neural Architecture Search with Reinforcement Learning, Barret Zoph & Quoc V. Le, 2016](https://arxiv.org/abs/1611.01578)
 - [Rainbow: Combining Improvements in Deep Reinforcement Learning, Hessel et al, 2017](https://arxiv.org/pdf/1710.02298)
+- [Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm, David Silver et al., 2017](https://arxiv.org/abs/1712.01815)
+- [Mastering the game of Go without human knowledge, David Silver et al., 2017](https://www.nature.com/articles/nature24270.epdf?author_access_token=VJXbVjaSHxFoctQQ4p2k4tRgN0jAjWel9jnR3ZoTv0PVW4gB86EEpGqTRDtpIz-2rmo8-KG06gqVobU5NSCFeHILHcVFUeMsbvwS-lxjqQGg98faovwjxeTUgZAUMnRQ)
 - [Grandmaster level in StarCraft II using multi-agent reinforcement learning, Oriol Vinyals et al, 2019](https://www.nature.com/articles/s41586-019-1724-z.epdf?author_access_token=lZH3nqPYtWJXfDA10W0CNNRgN0jAjWel9jnR3ZoTv0PSZcPzJFGNAZhOlk4deBCKzKm70KfinloafEF1bCCXL6IIHHgKaDkaTkBcTEv7aT-wqDoG1VeO9-wO3GEoAMF9bAOt7mJ0RWQnRVMbyfgH9A%3D%3D)
 > In progress...
 
@@ -288,6 +307,36 @@
 ### Federated Learning
 - [Federated Learning: Strategies For Improving Communication Efficiency, Jakub Konecny et al., 2016](https://arxiv.org/pdf/1610.05492.pdf)
 
+### Lifelong or Continual Learning
+- [A Lifelong Learning Perspective for Mobile Robot Navigation, Sebastian Thrun, 1995](http://robots.stanford.edu/papers/thrun.learning-robot-navg.html)
+- [CHILD: A First Step Towards Continual Learning, Mark B. Ring, 1997](https://link.springer.com/content/pdf/10.1023/A:1007331723572.pdf)
+- [An Approach to Lifelong Reinforcement Learning through Multiple Environments, Fumihide Tanaka & Masayuki Yamamura, 1997](http://fumihide-tanaka.org/lab/content/files/research/Tanaka_EWLR-97.pdf)
+- [Multi-Task Reinforcement Learning: A Hierarchical Bayesian Approach, Aaron Wilson et al., 2007](http://engr.case.edu/ray_soumya/papers/mtrl-hb.icml07.pdf)
+- [Horde: a scalable real-time architecture for learning knowledge from unsupervised sensorimotor interaction, Richard S. Sutton et al., 2011](https://dl.acm.org/doi/10.5555/2031678.2031726)
+- [ELLA: An Efficient Lifelong Learning Algorithm, Paul Ruvolo & Eric Eaton, 2013](https://www.seas.upenn.edu/~eeaton/papers/Ruvolo2013ELLA.pdf)
+- [Active Task Selection for Lifelong Machine Learning, Paul Ruvolo & Eric Eaton, 2013](https://www.seas.upenn.edu/~eeaton/papers/Ruvolo2013Active.pdf)
+- [Lifelong Machine Learning Systems: Beyond Learning Algorithms, David L. Silver 7 Qiang Yang & Lianghao Li, 2013](https://www.aaai.org/ocs/index.php/SSS/SSS13/paper/viewFile/5802/5977)
+- [A PAC-Bayesian bound for Lifelong Learning, Anastasia Pentina & Christoph H. Lampert, 2013](https://arxiv.org/abs/1311.2838)
+- [Multi-timescale Nexting in a Reinforcement Learning Robot, Josepth Modayil & Adam White & Richard S. Sutton, 2014](https://arxiv.org/abs/1112.1133v2)
+- [Online Multi-Task Learning for Policy Gradient Methods, Haitham Bou Ammar et al., 2014](https://www.seas.upenn.edu/~eeaton/papers/BouAmmar2014Online.pdf)
+- [Safe policy search for lifelong reinforcement learning with sublinear regret, Haitham Bou Ammar & Rasul Tutunov & Eric Eaton, 2015](https://www.seas.upenn.edu/~eeaton/papers/BouAmmar2015Safe.pdf)
+- [Lifelong Learning with Non-i.i.d. Tasks, Anastasia Pentina & Christoph H. Lampert, 2015](http://pub.ist.ac.at/~chl/papers/pentina-nips2015.pdf)
+- [Lifelong Learning for Sentiment Classification, Zhiyuan Chen & Nianzu Ma & Bing Liu, 2015](https://www.cs.uic.edu/~zchen/papers/ACL2015-Short-Zhiyuan(Brett)Chen.pdf)
+- [Autonomous cross-domain knowledge transfer in lifelong policy gradient reinforcement learning, Haitham Bou Ammar et al., 2015](https://www.seas.upenn.edu/~eeaton/papers/BouAmmar2015Autonomous.pdf)
+- [Lifelong Learning with Weighted Majority Votes, Anastasia Pentina & Ruth Urner, 2016](https://papers.nips.cc/paper/6095-lifelong-learning-with-weighted-majority-votes)
+- [Lifelong Learning for Disturbance Rejection on Mobile Robots, David Isele et al., 2016](https://www.seas.upenn.edu/~eeaton/papers/Isele2016Lifelong.pdf)
+- [Generalized Dictionary for Multitask Learning with Boosting, Boyu Wang & Joelle Pineau, 2016](https://www.ijcai.org/Proceedings/16/Papers/299.pdf)
+- [Learning Cumulatively to Become More Knowledgeable, Geli Fei & Shuai Wang & Bing Liu, 2016](https://www.kdd.org/kdd2016/papers/files/rpp0426-feiA.pdf)
+- [Using task features for zero-shot knowledge transfer in lifelong learning, David Isele & Mohammad Rostami & Eric Eaton, 2016](https://www.seas.upenn.edu/~eeaton/papers/Isele2016Using.pdf)
+- [A Deep Hierarchical Approach to Lifelong Learning in Minecraft, Chen Tessler et al. 2016](https://arxiv.org/abs/1604.07255)
+- [Progressive Neural Networks, Andrei A. Rusu et al., 2016](https://arxiv.org/abs/1606.04671)
+- [Overcoming catastrophic forgetting in neural networks, James Kirkpatrick et al., 2016](https://arxiv.org/abs/1612.00796)
+- [Continual Lifelong Learning with Neural Networks: A Review, German I. Paris et al., 2018](https://arxiv.org/pdf/1802.07569.pdf)
+
+
+### Knowledge Graphs
+- [Knowledge Graphs, Aidan Hogan et al., 2020](https://arxiv.org/pdf/2003.02320.pdf)
+
 ### Quantum Computing
 #### Quantum Computing
 - [Optimization by simulated annealing, S Kirkpatrick & C D Gelatt & M P Vecchi., 1983](http://www2.stat.duke.edu/~scs/Courses/Stat376/Papers/TemperAnneal/KirkpatrickAnnealScience1983.pdf)
@@ -297,6 +346,7 @@
 - [Good quantum error-correcting codes exist, A. R. Calderbank & Peter W. Shor, 1996](http://www-math.mit.edu/~shor/papers/good-codes.pdf)
 - [Fault-tolerant quantum computation by anyons, A. Yu. Kitaev, 1997](https://arxiv.org/pdf/quant-ph/9707021)
 - [Quantum Computation by Adiabatic Evolution, Edward Farhi, 2000](https://arxiv.org/pdf/quant-ph/0001106)
+
 > In progress...
 
 #### Quantum Approximate Optimization Algorithm
@@ -314,6 +364,7 @@
 - [Hierarchical quantum classifiers, Edward Grant et al, 2018](https://arxiv.org/pdf/1804.03680.pdf)
 - [Quantum Graph Neural Networks, Guillaume Verdon et al, 2019](https://arxiv.org/pdf/1909.12264.pdf)
 - [Quantum circuit structure learning, Mateusz Ostaszewski & Edward Grant & Marcello Benedett, 2019](https://arxiv.org/pdf/1905.09692.pdf)
+- [TensorFlow Quantum: A Software Framework for Quantum Machine Learning, Michael Broughton et al., 2020](https://arxiv.org/pdf/2003.02989)
 > In progress...
 
 ### Causality
@@ -326,7 +377,7 @@
 
 
 ### Others
-- [A Mathematical Theory of Communication,  C. E. SHANNON, 1949](https://mast.queensu.ca/~math474/shannon1948.pdf)
+- [A Mathematical Theory of Communication,  C. E. Shannon, 1949](https://mast.queensu.ca/~math474/shannon1948.pdf)
 - [Introduction to Algorithms, T H Cormen et al 1990](https://mitpress.mit.edu/books/introduction-algorithms)
 - [Computational Complexity: A Modern Approach, Sanjeev Arora & Boaz Barak, 2007](https://theory.cs.princeton.edu/complexity/book.pdf)
 
@@ -342,13 +393,15 @@
 - [Meta-Reinforcement Learning, Michaël Trazzi, 2019](https://blog.floydhub.com/meta-rl/ )
 - [Meta-Reinforcement Learning, Lilian Weng, 2019](https://lilianweng.github.io/lil-log/2019/06/23/meta-reinforcement-learning.html)
 - [Meta-Learning: from Few-Shot Learning to Rapid  Reinforcement Learning ICML 2019 Tutorial, Chelsea Finn & Sergey Levine, 2019](https://sites.google.com/view/icml19metalearning)
-- [A Deep Dive into Reinforcement Learning, ADAM STELMASZCZYK](https://www.toptal.com/machine-learning/deep-dive-into-reinforcement-learning)
+- [A Deep Dive into Reinforcement Learning, Adam Stelmaszczyk](https://www.toptal.com/machine-learning/deep-dive-into-reinforcement-learning)
 - [Brief History of Neural Networks](https://medium.com/analytics-vidhya/brief-history-of-neural-networks-44c2bf72eec)
 > In progress...
 
 
 ### Thesis
 - [Evolutionary principles in self-referential learning, or on learning how to learn,  J.  Schmidhuber, 1987](http://people.idsia.ch/~juergen/diploma1987ocr.pdf)
+- [Continual learning in Reinforcement Learning environments, Mark Bishop Ring, 1994](http://people.idsia.ch/~ring/Ring-dissertation.pdf)
+- [Explanation-Based Neural Network Learning: A Lifelong Learning Approach Sebastian Thrun, 1996](http://robots.stanford.edu/papers/thrun.book.html)
 - [Rational Approaches to Learning and Development, Celeste Kidd, 2013](https://www.celestekidd.com/papers/KiddDissertationMay2013.pdf)
 - [Metareasoning and Mental Simulation, Jessica B. Hamrick, 2017](http://www.jesshamrick.com/publications/pdf/Hamrick2017-Metareasoning_and_mental_simulation.pdf)
 - [Neural Transfer Learning for Natural Language Processing, Sebastian Ruder, 2019](https://ruder.io/thesis/neural_transfer_learning_for_nlp.pdf)
@@ -481,6 +534,7 @@
 - [transformers, hugging face](https://github.com/huggingface/transformers)
 - [reformers, google/trax](https://github.com/google/trax/tree/master/trax/models/reformer)
 - [The Abstraction and Reasoning Corpus (ARC), François Chollet, 2019](https://github.com/fchollet/ARC)
+- [Google AI Research](https://github.com/google-research/google-research)
 > In progress...
 
 #### Notebooks
