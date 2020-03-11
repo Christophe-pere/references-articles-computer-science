@@ -55,8 +55,9 @@
 		- [Notebooks](#notebooks-2)
 	- [Quantum Computing](#quantum-computing)
 	- [Blogs](#blogs)
-	- [Datasets](#datasets)
-	- [Best Practices](#best-practices)
+- [Datasets](#datasets)
+- [Best Practices](#best-practices)
+- [Explainability, interpretability](#explainability-interpretability)
 - [Courses](#courses)
 	- [MOOCs](#moocs)
 	- [YouTube](#youtube)
@@ -612,6 +613,10 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 
 ## Best-practices
 - [Rules of ML, Google](https://developers.google.com/machine-learning/guides/rules-of-ml)
+
+## Explainability, interpretability
+- [H2O.ai Interpretability](https://github.com/h2oai/mli-resources)
+- [Interpretability in machine learning, jphall11663](https://github.com/jphall663/awesome-machine-learning-interpretability#)
 
 
 
