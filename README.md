@@ -91,10 +91,12 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [The Hundred-Page Machine Learning Book, Andriy Burkov, 2019](https://www.amazon.co.uk/Hundred-Page-Machine-Learning-Book/dp/199957950X/ref=pd_aw_sbs_14_5/262-1001262-4541403?_encoding=UTF8&pd_rd_i=199957950X&pd_rd_r=ceb793b5-741c-4388-bbcb-c4b656d7da98&pd_rd_w=t3urK&pd_rd_wg=7EqqE&pf_rd_p=15216146-4434-47f5-99d9-56240c85bf4d&pf_rd_r=RAHG1THCANSMBVCZC4WJ&psc=1&refRID=RAHG1THCANSMBVCZC4WJ)
 
 ### Deep Learning
+
 - [Deep Learning, Ian Goodfellow et al., 2016](https://www.amazon.ca/Deep-Learning-Ian-Goodfellow/dp/0262035618/ref=sr_1_1?crid=383XDGD8SRUNC&keywords=deep+learning+ian+goodfellow&qid=1581965751&s=books&sprefix=deep+learning%2Cstripbooks%2C269&sr=1-1)
 - [Deep Learning with Python, François Chollet 2017](https://www.amazon.ca/Deep-Learning-Python-Francois-Chollet/dp/1617294438/ref=sr_1_1?keywords=deep+learning+with+python&qid=1581965794&s=books&sr=1-1)
+- [Neural Networks and Deep learning, Micheal Nielsen, 2019](http://neuralnetworksanddeeplearning.com/)
+- [Deep Learning and the Game of Go, Max Pumperla & Kevin Ferguson, 2019](https://www.amazon.com/gp/product/1617295329/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1617295329&linkCode=as2&tag=petacrunch-20&linkId=0e4c17bcda09e79de9b186f2d8c26ffb)
 - [Dive into Deep Learning, Aston Zhang et al, 2020](https://d2l.ai/)
-- [Deep Learning and the Game of Go](https://www.amazon.com/gp/product/1617295329/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1617295329&linkCode=as2&tag=petacrunch-20&linkId=0e4c17bcda09e79de9b186f2d8c26ffb)
 
 ### Reinforcement Learning
 - [Reinforcement Learning: An Introduction - 2nd edition, Richard S. Sutton & Andrew G. Barto, 2018](https://www.amazon.ca/Reinforcement-Learning-Introduction-Richard-Sutton/dp/0262039249/ref=sr_1_1?crid=19RA25TZFYZJB&keywords=reinforcement+learning+an+introduction&qid=1581965840&s=books&sprefix=introduction+to+reinforce%2Cstripbooks%2C264&sr=1-1)
@@ -105,7 +107,7 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 
 ### Meta-Reasoning
 - [Metareasoning: Thinking about Thinking, Michael T. Cox et al., 2011](https://www.amazon.com/Metareasoning-Thinking-about-MIT-Press/dp/0262014807)
-> In progress... 
+
 
 ### Lifelong or Continual Learning
 - [Lifelong Machine Learning, Zhiyuan Chen & Bing Liu, 2nd edition, 2018](https://www.cs.uic.edu/~liub/lifelong-machine-learning.html)
@@ -116,6 +118,9 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [Quantum Computing: An Applied Approach, Jack D. Hilary, 2019](https://www.amazon.ca/Quantum-Computing-Approach-Jack-Hidary/dp/3030239217/ref=sr_1_1?keywords=quantum+information+and+quantum+computing&qid=1581965920&s=books&sr=1-1)
 
 ### Mathematics for Machine Learning
+- [Think Stats, Allen B. Downey, 2011](https://www.amazon.ca/Think-Stats-Allen-B-Downey/dp/1449307116)
+- [Think Bayes: Bayesian Statistics in Python, Allen B. Downey, 2013](https://www.amazon.ca/Think-Bayes-Bayesian-Statistics-Python/dp/1449370780/ref=sr_1_1?keywords=think+bayes&qid=1583981718&s=books&sr=1-1)
+- [Practical Statistics for Data Scientists: 50 Essential Concepts,  Peter Bruce & Andrew Bruce, 2017](https://www.amazon.ca/Practical-Statistics-Data-Scientists-Essential/dp/1491952962/ref=sr_1_3?keywords=think+bayes&qid=1583981718&s=books&sr=1-3)
 - [Math for Scientists Refreshing the Essentials, Maurits Natasha & Ćurčić-Blake Branislava, 2017](https://www.springer.com/gp/book/9783319573533)
 - [Mathematics for Machine Learning, Marc Peter Deisenroth & A. Aldo Faisal & Cheng Soon Ong, 2019](https://mml-book.github.io/book/mml-book.pdf)
 
@@ -146,6 +151,10 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [Approximate Dynamic Programming Solving the curses of dimensionality, Warren B. Powell, 2015](http://adp.princeton.edu/)
 - [Hands-On Neuroevolution with Python, Iaroslav Omelianenko, 2019](https://www.packtpub.com/data/hands-on-neuroevolution-with-python)
 - [d2l, Aston Zhang et al, 2020](https://github.com/dsgiitr/d2l-pytorch/blob/master/README.md)
+- [PyTorch 1.x Reinforcement learning Cookbook, Yuxi (Hayden) Liu, 2019](https://github.com/PacktPublishing/PyTorch-1.x-Reinforcement-Learning-Cookbook)
+- [PyTorch Deep Learning Hands-on, Sherin Thomas & Sudhanshu Passi, 2019](https://www.packtpub.com/big-data-and-business-intelligence/hands-deep-learning-pytorch)
+- [Deep Learning with Tensorflow 2 and Keras, 2nd edition, Antonio Gulli & Amita Kapoor & Sujit Pal, 2019](https://github.com/PacktPublishing/Deep-Learning-with-TensorFlow-2-and-Keras)
+- [Hands-on Neural Network with Tensorflow 2, Paolo Galeone, 2019](https://github.com/PacktPublishing/Hands-On-Neural-Networks-with-TensorFlow-2.0)
 
 ###### [Back to top](#table-of-contents)
 ---
@@ -208,7 +217,11 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [An Introduction to Variable and Feature Selection, Isabelle Guyon & Andre Elisseeff, 2003](http://jmlr.org/papers/volume3/guyon03a/guyon03a.pdf)
 - [A fast learning algorithm for deep belief nets, Geoffrey E. Hinton & Simon Osindero & Yee-Whye Teh, 2006](https://www.cs.toronto.edu/~hinton/absps/fastnc.pdf)
 
+- [Graph Neural Networks Meet Neural-Symbolic Computing: A Survey and Perspective, Luis Lamb et al., 2020](https://arxiv.org/pdf/2003.00330)
+- [AutoML-Zero: Evolving Machine Learning Algorithms From Scratch, Esteban Real et al., 2020](https://arxiv.org/pdf/2003.03384)
 > In progress...
+
+###### [Back to top](#table-of-contents)
 
 ### Deep Learning
 - [A logical calculus of the ideas immanent in nervous activity, Warren S. McCulloch & Walter Pitts, 1943](https://www.cs.cmu.edu/~./epxing/Class/10715/reading/McCulloch.and.Pitts.pdf)
@@ -261,6 +274,7 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 > An exhaustive list about neural network search can be available here: 
 - [Literature on Neural Architecture Search, Marius Lindauer, currently maintained](https://www.automl.org/automl/literature-on-neural-architecture-search/)
 
+###### [Back to top](#table-of-contents)
 
 ### Reinforcement Learning
 > A short list 
@@ -277,6 +291,7 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm, David Silver et al., 2017](https://arxiv.org/abs/1712.01815)
 - [Mastering the game of Go without human knowledge, David Silver et al., 2017](https://www.nature.com/articles/nature24270.epdf?author_access_token=VJXbVjaSHxFoctQQ4p2k4tRgN0jAjWel9jnR3ZoTv0PVW4gB86EEpGqTRDtpIz-2rmo8-KG06gqVobU5NSCFeHILHcVFUeMsbvwS-lxjqQGg98faovwjxeTUgZAUMnRQ)
 - [Grandmaster level in StarCraft II using multi-agent reinforcement learning, Oriol Vinyals et al, 2019](https://www.nature.com/articles/s41586-019-1724-z.epdf?author_access_token=lZH3nqPYtWJXfDA10W0CNNRgN0jAjWel9jnR3ZoTv0PSZcPzJFGNAZhOlk4deBCKzKm70KfinloafEF1bCCXL6IIHHgKaDkaTkBcTEv7aT-wqDoG1VeO9-wO3GEoAMF9bAOt7mJ0RWQnRVMbyfgH9A%3D%3D)
+- [Reinforcement Learning for Combinatorial Optimization: A Survey, Nina Mazyavkina et al., 2020](https://arxiv.org/pdf/2003.03600)
 > In progress...
 
 ### Meta-Learning 
@@ -304,6 +319,8 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [Rational metareasoning and the plasticity of cognitive control, Falk Lieder et al., 2018](https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1006043&type=printable)
 - [Meta Reasoning over Knowledge Graphs, Hong Wang et al., 2019](https://arxiv.org/pdf/1908.04877.pdf)
 - [Doing more with less: meta-reasoning and meta-learning in humans and machines, Thomas L Griffiths et al., 2019](https://cocosci.princeton.edu/papers/doing-more-with-less.pdf)
+
+###### [Back to top](#table-of-contents)
 
 ### Federated Learning
 - [Federated Learning: Strategies For Improving Communication Efficiency, Jakub Konecny et al., 2016](https://arxiv.org/pdf/1610.05492.pdf)
@@ -334,6 +351,7 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [Overcoming catastrophic forgetting in neural networks, James Kirkpatrick et al., 2016](https://arxiv.org/abs/1612.00796)
 - [Continual Lifelong Learning with Neural Networks: A Review, German I. Paris et al., 2018](https://arxiv.org/pdf/1802.07569.pdf)
 
+###### [Back to top](#table-of-contents)
 
 ### Knowledge Graphs
 - [Knowledge Graphs, Aidan Hogan et al., 2020](https://arxiv.org/pdf/2003.02320.pdf)
@@ -396,6 +414,7 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [Meta-Learning: from Few-Shot Learning to Rapid  Reinforcement Learning ICML 2019 Tutorial, Chelsea Finn & Sergey Levine, 2019](https://sites.google.com/view/icml19metalearning)
 - [A Deep Dive into Reinforcement Learning, Adam Stelmaszczyk](https://www.toptal.com/machine-learning/deep-dive-into-reinforcement-learning)
 - [Brief History of Neural Networks](https://medium.com/analytics-vidhya/brief-history-of-neural-networks-44c2bf72eec)
+- [Federated Learning](https://xzhu0027.gitbook.io/blog/ml-system/sys-ml-index/towards-federated-learning-at-scale-system-design)
 > In progress...
 
 
@@ -549,7 +568,7 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [D-Wave Tutorials on Quantum Annealing](https://www.dwavesys.com/resources/tutorials)
 > In progress...
 
-
+###### [Back to top](#table-of-contents)
 
 ### Blogs 
 - [Medium](https://medium.com/)
@@ -599,6 +618,8 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [Sicara blog](https://www.sicara.ai/blog/)
 - [Frontiers in Computational Neuroscience](https://www.frontiersin.org/journals/computational-neuroscience)
 
+###### [Back to top](#table-of-contents)
+
 ## Datasets
 - [Dataset Search, Google](https://datasetsearch.research.google.com/)
 - [Google Research Datasets](https://research.google/tools/datasets/)
@@ -614,6 +635,7 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 ## Best-practices
 - [Rules of ML, Google](https://developers.google.com/machine-learning/guides/rules-of-ml)
 
+---
 ## Explainability, interpretability
 - [H2O.ai Interpretability](https://github.com/h2oai/mli-resources)
 - [Interpretability in machine learning, jphall11663](https://github.com/jphall663/awesome-machine-learning-interpretability#)
