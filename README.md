@@ -676,11 +676,13 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [Programming Methodology, Stanford](https://www.youtube.com/watch?v=KkMDCCdjyW8&list=PL84A56BC7F4A1F852)
 - [Introduction to Computer Science I, Harvard](https://www.youtube.com/watch?v=z-OxzIC6pic&list=PLvJoKWRPIu8G6Si7LlvmBPA5rOJ9BA29R)
 - [MIT Deep Learning, Lex Fridman](https://deeplearning.mit.edu/)
+- [MIT 6.S191 - Introduction to Deep Learning, Alexander Amini & Ava Soleimany, 2020](http://introtodeeplearning.com/)
 > In progress...
 
 ### Support courses 
 - [A Beginner's Guide to the Mathematics of Neural Networks, A.C.C. Coolen, 1998](https://nms.kcl.ac.uk/ton.coolen/published/1998/summerschool98.pdf) or [this link](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.161.3556&rep=rep1&type=pdf)
 - [Introduction to Applied Linear Algebra, Stephen Boyd & Lieven Vandenberghe, 2018](https://web.stanford.edu/~boyd/vmls/vmls.pdf)
+- [the-math-behind-an-artificial-neural-network, hugolgst](https://github.com/hugolgst/the-math-behind-an-artificial-neural-network/blob/master/full-document.pdf?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
 > In progress... 
 
 ### Sites
