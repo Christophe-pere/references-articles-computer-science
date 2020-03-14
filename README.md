@@ -32,6 +32,7 @@
 	- [Meta-Reasoning](#meta-reasoning-1)
 	- [Federated Learning](#federated-learning)
 	- [Lifelong or Continual Learning](#lifelong-or-continual-learning-1)
+	- [Explainability, interpretability](#explainability-interpretability)
 	- [Quantum Computing](#quantum-computing-1)
 	- [Causality](#causality-1)
 	- [Computational Neuroscience](#computational-neuroscience-1)
@@ -57,7 +58,7 @@
 	- [Blogs](#blogs)
 - [Datasets](#datasets)
 - [Best Practices](#best-practices)
-- [Explainability, interpretability](#explainability-interpretability)
+- [Explainability, interpretability](#explainability-interpretability-1)
 - [Courses](#courses)
 	- [MOOCs](#moocs)
 	- [YouTube](#youtube)
@@ -145,16 +146,23 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 
 ### Additional Books
 - [Markov Decision Processes: Discrete Stochastic Dynamic Programming, Martin L. Puterman, 2005](https://www.wiley.com/en-us/Markov+Decision+Processes%3A+Discrete+Stochastic+Dynamic+Programming-p-9780471727828)
+- [A Brief Introduction to Neural Networks, David Kriesel, 2007](http://www.dkriesel.com/_media/science/neuronalenetze-en-zeta2-2col-dkrieselcom.pdf)
+- [The Quest for Artificial Intelligence: A History of Ideas and Achievements, Nils J. Nilsson, 2009](http://ai.stanford.edu/~nilsson/QAI/qai.pdf)
 - [Dance of the Photons: From Einstein to Quantum Teleportation, Anton Zeilinger, 2010](https://www.amazon.co.uk/Dance-Photons-Einstein-Quantum-Teleportation/dp/0374239665/ref=sr_1_1?s=books&ie=UTF8&qid=1524589007&sr=1-1&keywords=dance+of+the+photons)
 - [Quantum Mechanics: The Theoretical Minimum (Theoretical Minimum 2), Leonard Susskind & Art Friedman, 2014](https://www.amazon.co.uk/Quantum-Mechanics-Theoretical-Art-Friedman/dp/0465036678/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1524588975&sr=1-1)
 - [Dynamic Programming and Optimal Control Vol I-II, Dimitri P. Bertsekas, 2012-2017](http://www.athenasc.com/dpbook.html)
+- [Ethical Artificial Intelligence, Bill Hibbard, 2015](https://arxiv.org/ftp/arxiv/papers/1411/1411.1373.pdf)
 - [Approximate Dynamic Programming Solving the curses of dimensionality, Warren B. Powell, 2015](http://adp.princeton.edu/)
+- [Bayesian Reasoning and Machine Learning, David Barber, 2017](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.Online)
+- [DEEP LEARNING Practical introduction with Keras, Jordi Torres, 2018](https://github.com/JordiTorresBCN/DEEP-LEARNING-practical-introduction-with-Keras)
+- [Machine Learning Yearning: Technical Strategy for AI Engineers, In the Era of Deep Learning, Andrew Ng, 2018](https://www.deeplearning.ai/machine-learning-yearning/)
 - [Hands-On Neuroevolution with Python, Iaroslav Omelianenko, 2019](https://www.packtpub.com/data/hands-on-neuroevolution-with-python)
 - [d2l, Aston Zhang et al, 2020](https://github.com/dsgiitr/d2l-pytorch/blob/master/README.md)
 - [PyTorch 1.x Reinforcement learning Cookbook, Yuxi (Hayden) Liu, 2019](https://github.com/PacktPublishing/PyTorch-1.x-Reinforcement-Learning-Cookbook)
 - [PyTorch Deep Learning Hands-on, Sherin Thomas & Sudhanshu Passi, 2019](https://www.packtpub.com/big-data-and-business-intelligence/hands-deep-learning-pytorch)
 - [Deep Learning with Tensorflow 2 and Keras, 2nd edition, Antonio Gulli & Amita Kapoor & Sujit Pal, 2019](https://github.com/PacktPublishing/Deep-Learning-with-TensorFlow-2-and-Keras)
 - [Hands-on Neural Network with Tensorflow 2, Paolo Galeone, 2019](https://github.com/PacktPublishing/Hands-On-Neural-Networks-with-TensorFlow-2.0)
+- [Interpretable Machine Learning, Christoph Molnar, 2020](https://christophm.github.io/interpretable-ml-book/)
 
 ###### [Back to top](#table-of-contents)
 ---
@@ -187,6 +195,8 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [Universal Artificial Intelligence: Sequential Decisions Based on Algorithmic Probability, Marcus Hutter, 2004](https://books.google.ca/books?id=NP53iZGt4KUC&redir_esc=y)
 - [On the Measure of intelligence, François Chollet, 2019](https://arxiv.org/pdf/1911.01547.pdf)
 - [The Next Decade in AI: Four Steps Towards Robust Artificial Intelligence, Gary Marcus, 2020](https://arxiv.org/pdf/2002.06177v3)
+- [Graph Neural Networks Meet Neural-Symbolic Computing: A Survey and Perspective, Luis Lamb et al. 2020](https://arxiv.org/pdf/2003.00330)
+- [AI-GAs: AI-generating algorithms, an alternate paradigm for producing general artificial intelligence, Jeff Clune, 2020](https://arxiv.org/pdf/1905.10985.pdf)
 > In progress...
 
 ### Machine Learning
@@ -217,7 +227,6 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [An Introduction to Variable and Feature Selection, Isabelle Guyon & Andre Elisseeff, 2003](http://jmlr.org/papers/volume3/guyon03a/guyon03a.pdf)
 - [A fast learning algorithm for deep belief nets, Geoffrey E. Hinton & Simon Osindero & Yee-Whye Teh, 2006](https://www.cs.toronto.edu/~hinton/absps/fastnc.pdf)
 
-- [Graph Neural Networks Meet Neural-Symbolic Computing: A Survey and Perspective, Luis Lamb et al., 2020](https://arxiv.org/pdf/2003.00330)
 - [AutoML-Zero: Evolving Machine Learning Algorithms From Scratch, Esteban Real et al., 2020](https://arxiv.org/pdf/2003.03384)
 > In progress...
 
@@ -267,6 +276,7 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [Neural Ordinary Differential Equations, Ricky T. Q. Chen et al., 2018](https://arxiv.org/pdf/1806.07366)
 - [XLNet: Generalized Autoregressive Pretraining for Language Understanding, Zhilin Yang et al, 2019](https://arxiv.org/pdf/1906.08237.pdf)
 - [PyTorch: An Imperative Style, High-Performance Deep Learning Library, Adam Paszke et al, 2019](https://arxiv.org/pdf/1912.01703.pdf)
+- [Mesh R-CNN, Georgia Gkioxari & Jitendra Malik & Justin Johnson, 2019](https://arxiv.org/pdf/1906.02739)
 
 > An exhaustive list can be found in the Deep Learning, Goodfellow I. et al, 2016:
 - [Deep Learning, Goodfellow I. et al, 2016 - bibliography](https://www.deeplearningbook.org/contents/bib.html)
@@ -333,7 +343,7 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [Horde: a scalable real-time architecture for learning knowledge from unsupervised sensorimotor interaction, Richard S. Sutton et al., 2011](https://dl.acm.org/doi/10.5555/2031678.2031726)
 - [ELLA: An Efficient Lifelong Learning Algorithm, Paul Ruvolo & Eric Eaton, 2013](https://www.seas.upenn.edu/~eeaton/papers/Ruvolo2013ELLA.pdf)
 - [Active Task Selection for Lifelong Machine Learning, Paul Ruvolo & Eric Eaton, 2013](https://www.seas.upenn.edu/~eeaton/papers/Ruvolo2013Active.pdf)
-- [Lifelong Machine Learning Systems: Beyond Learning Algorithms, David L. Silver 7 Qiang Yang & Lianghao Li, 2013](https://www.aaai.org/ocs/index.php/SSS/SSS13/paper/viewFile/5802/5977)
+- [Lifelong Machine Learning Systems: Beyond Learning Algorithms, David L. Silver & Qiang Yang & Lianghao Li, 2013](https://www.aaai.org/ocs/index.php/SSS/SSS13/paper/viewFile/5802/5977)
 - [A PAC-Bayesian bound for Lifelong Learning, Anastasia Pentina & Christoph H. Lampert, 2013](https://arxiv.org/abs/1311.2838)
 - [Multi-timescale Nexting in a Reinforcement Learning Robot, Josepth Modayil & Adam White & Richard S. Sutton, 2014](https://arxiv.org/abs/1112.1133v2)
 - [Online Multi-Task Learning for Policy Gradient Methods, Haitham Bou Ammar et al., 2014](https://www.seas.upenn.edu/~eeaton/papers/BouAmmar2014Online.pdf)
@@ -350,6 +360,9 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [Progressive Neural Networks, Andrei A. Rusu et al., 2016](https://arxiv.org/abs/1606.04671)
 - [Overcoming catastrophic forgetting in neural networks, James Kirkpatrick et al., 2016](https://arxiv.org/abs/1612.00796)
 - [Continual Lifelong Learning with Neural Networks: A Review, German I. Paris et al., 2018](https://arxiv.org/pdf/1802.07569.pdf)
+
+### Explainability, interpretability
+- [Explaining Explanations: An Overview of Interpretability of Machine Learning, Leilani H. Gilpin et al., 2019](https://arxiv.org/pdf/1806.00069.pdf)
 
 ###### [Back to top](#table-of-contents)
 
@@ -409,12 +422,14 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [Reinforcement Learning, Lilian Weng, 2018](https://lilianweng.github.io/lil-log/2018/02/19/a-long-peek-into-reinforcement-learning.html)
 - [Collection of materials for Newbie in Deep Learning and Machine Learning and Data Science, Oleg Gorodnitchi, 2018](https://itnext.io/collection-of-materials-for-newbie-in-deep-learning-and-machine-learning-and-data-science-56ccaa73c18)
 - [Meta-Learning: Learning to Learn Fast, Lilian Weng, 2018](https://lilianweng.github.io/lil-log/2018/11/30/meta-learning.html)
+- [Understanding Neural Networks: What, How and Why? Unraveling the black box, Euge Inzaugarat, 2018](https://towardsdatascience.com/understanding-neural-networks-what-how-and-why-18ec703ebd31)
 - [Meta-Reinforcement Learning, Michaël Trazzi, 2019](https://blog.floydhub.com/meta-rl/ )
 - [Meta-Reinforcement Learning, Lilian Weng, 2019](https://lilianweng.github.io/lil-log/2019/06/23/meta-reinforcement-learning.html)
 - [Meta-Learning: from Few-Shot Learning to Rapid  Reinforcement Learning ICML 2019 Tutorial, Chelsea Finn & Sergey Levine, 2019](https://sites.google.com/view/icml19metalearning)
 - [A Deep Dive into Reinforcement Learning, Adam Stelmaszczyk](https://www.toptal.com/machine-learning/deep-dive-into-reinforcement-learning)
 - [Brief History of Neural Networks](https://medium.com/analytics-vidhya/brief-history-of-neural-networks-44c2bf72eec)
 - [Federated Learning](https://xzhu0027.gitbook.io/blog/ml-system/sys-ml-index/towards-federated-learning-at-scale-system-design)
+- [Meta-Reasoning, Georgia Tech OMSCS](https://omscs-transcend.readthedocs.io/gatech/cs7637/24---meta-reasoning.html)
 > In progress...
 
 
