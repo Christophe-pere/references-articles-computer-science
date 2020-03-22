@@ -95,7 +95,7 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 
 - [Deep Learning, Ian Goodfellow et al., 2016](https://www.amazon.ca/Deep-Learning-Ian-Goodfellow/dp/0262035618/ref=sr_1_1?crid=383XDGD8SRUNC&keywords=deep+learning+ian+goodfellow&qid=1581965751&s=books&sprefix=deep+learning%2Cstripbooks%2C269&sr=1-1)
 - [Deep Learning with Python, François Chollet 2017](https://www.amazon.ca/Deep-Learning-Python-Francois-Chollet/dp/1617294438/ref=sr_1_1?keywords=deep+learning+with+python&qid=1581965794&s=books&sr=1-1)
-- [Neural Networks and Deep learning, Micheal Nielsen, 2019](http://neuralnetworksanddeeplearning.com/)
+- [Neural Networks and Deep learning, Micheal Nielsen, 2019](http://neuralnetworksanddeeplearning.com/chap1.html)
 - [Deep Learning and the Game of Go, Max Pumperla & Kevin Ferguson, 2019](https://www.amazon.com/gp/product/1617295329/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1617295329&linkCode=as2&tag=petacrunch-20&linkId=0e4c17bcda09e79de9b186f2d8c26ffb)
 - [Dive into Deep Learning, Aston Zhang et al, 2020](https://d2l.ai/)
 
@@ -157,12 +157,12 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [DEEP LEARNING Practical introduction with Keras, Jordi Torres, 2018](https://github.com/JordiTorresBCN/DEEP-LEARNING-practical-introduction-with-Keras)
 - [Machine Learning Yearning: Technical Strategy for AI Engineers, In the Era of Deep Learning, Andrew Ng, 2018](https://www.deeplearning.ai/machine-learning-yearning/)
 - [Hands-On Neuroevolution with Python, Iaroslav Omelianenko, 2019](https://www.packtpub.com/data/hands-on-neuroevolution-with-python)
-- [d2l, Aston Zhang et al, 2020](https://github.com/dsgiitr/d2l-pytorch/blob/master/README.md)
 - [PyTorch 1.x Reinforcement learning Cookbook, Yuxi (Hayden) Liu, 2019](https://github.com/PacktPublishing/PyTorch-1.x-Reinforcement-Learning-Cookbook)
 - [PyTorch Deep Learning Hands-on, Sherin Thomas & Sudhanshu Passi, 2019](https://www.packtpub.com/big-data-and-business-intelligence/hands-deep-learning-pytorch)
 - [Deep Learning with Tensorflow 2 and Keras, 2nd edition, Antonio Gulli & Amita Kapoor & Sujit Pal, 2019](https://github.com/PacktPublishing/Deep-Learning-with-TensorFlow-2-and-Keras)
 - [Hands-on Neural Network with Tensorflow 2, Paolo Galeone, 2019](https://github.com/PacktPublishing/Hands-On-Neural-Networks-with-TensorFlow-2.0)
 - [Interpretable Machine Learning, Christoph Molnar, 2020](https://christophm.github.io/interpretable-ml-book/)
+- [d2l, Aston Zhang et al, 2020](https://github.com/dsgiitr/d2l-pytorch/blob/master/README.md)
 
 ###### [Back to top](#table-of-contents)
 ---
@@ -193,6 +193,8 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [A Proposal for the Dartmouth Summer Research Project on Artificial Intelligence, John NcCarthy at al, 1955](http://jmc.stanford.edu/articles/dartmouth/dartmouth.pdf)
 - [Fuzzy sets, L.A.Zadeh, 1965](https://www.sciencedirect.com/science/article/pii/S001999586590241X)
 - [Universal Artificial Intelligence: Sequential Decisions Based on Algorithmic Probability, Marcus Hutter, 2004](https://books.google.ca/books?id=NP53iZGt4KUC&redir_esc=y)
+- [Learning deep architectures for AI, Yoshua Bengio, 2009](http://www.iro.umontreal.ca/~lisa/publications2/index.php/publications/show/239)
+- [Deep Machine Learning—A New Frontier in Artificial Intelligence Research, Itamar Arel & Derek C. Rose & Thomas P. Karnowski, 2010](http://web.eecs.utk.edu/~ielhanan/Papers/DML_Arel_2010.pdf)
 - [On the Measure of intelligence, François Chollet, 2019](https://arxiv.org/pdf/1911.01547.pdf)
 - [The Next Decade in AI: Four Steps Towards Robust Artificial Intelligence, Gary Marcus, 2020](https://arxiv.org/pdf/2002.06177v3)
 - [Graph Neural Networks Meet Neural-Symbolic Computing: A Survey and Perspective, Luis Lamb et al. 2020](https://arxiv.org/pdf/2003.00330)
@@ -227,6 +229,8 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [An Introduction to Variable and Feature Selection, Isabelle Guyon & Andre Elisseeff, 2003](http://jmlr.org/papers/volume3/guyon03a/guyon03a.pdf)
 - [A fast learning algorithm for deep belief nets, Geoffrey E. Hinton & Simon Osindero & Yee-Whye Teh, 2006](https://www.cs.toronto.edu/~hinton/absps/fastnc.pdf)
 
+- [Representation Learning: A Review and New Perspectives, Yoshua Bengio & Aaron Courville & Pascal Vincent, 2012](https://arxiv.org/pdf/1206.5538)
+- [A guide to convolution arithmetic for deep learning, Vincent Dumoulin & Francesco Visin, 2018](https://arxiv.org/pdf/1603.07285.pdf)
 - [AutoML-Zero: Evolving Machine Learning Algorithms From Scratch, Esteban Real et al., 2020](https://arxiv.org/pdf/2003.03384)
 > In progress...
 
@@ -290,6 +294,7 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 > A short list 
 - [Reinforcement Learning, an introduction, R Sutton & A Barto, 1998](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.32.7692&rep=rep1&type=pdf)
 - [Playing Atari with Deep Reinforcement Learning, Mnih et al, 2013](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)
+- [Recurrent Models of Visual Attention, Volodymyr Mnih et al., 2014](http://papers.nips.cc/paper/5542-recurrent-models-of-visual-attention.pdf)
 - [Deep Recurrent Q-Learning for Partially Observable MDPs, Hausknecht and Stone, 2015](https://arxiv.org/pdf/1507.06527)
 - [Deep Reinforcement Learning with Double Q-learning, Hasselt et al 2015](https://arxiv.org/pdf/1509.06461)
 - [Prioritized Experience Replay, Schaul et al, 2015](https://arxiv.org/pdf/1511.05952)
@@ -417,6 +422,7 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 ---
 ## Posts and thesis 
 ### Blog posts
+- [Markov Chain Monte Carlo Without all the Bullshit, Jeremy Kun, 2015](https://jeremykun.com/2015/04/06/markov-chain-monte-carlo-without-all-the-bullshit/)
 - [Learning Policies For Learning Policies — Meta Reinforcement Learning (RL²) in Tensorflow, Arthur Juliani, 2017](https://hackernoon.com/learning-policies-for-learning-policies-meta-reinforcement-learning-rl%C2%B2-in-tensorflow-b15b592a2ddf)
 - [Learning to learn, Berkeley Artificial Intelligence Research, 2017](https://bair.berkeley.edu/blog/2017/07/18/learning-to-learn/)
 - [Reinforcement Learning, Lilian Weng, 2018](https://lilianweng.github.io/lil-log/2018/02/19/a-long-peek-into-reinforcement-learning.html)
@@ -430,6 +436,7 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [Brief History of Neural Networks](https://medium.com/analytics-vidhya/brief-history-of-neural-networks-44c2bf72eec)
 - [Federated Learning](https://xzhu0027.gitbook.io/blog/ml-system/sys-ml-index/towards-federated-learning-at-scale-system-design)
 - [Meta-Reasoning, Georgia Tech OMSCS](https://omscs-transcend.readthedocs.io/gatech/cs7637/24---meta-reasoning.html)
+- [The Matrix Calculus You Need For Deep Learning, Terence Parr & Jeremy Howard](https://explained.ai/matrix-calculus/index.html)
 > In progress...
 
 
@@ -457,7 +464,8 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [How to write a technical paper, Michael Ernst, 2019](https://homes.cs.washington.edu/~mernst/advice/write-technical-paper.html)
 - [Getting started with Git and GitHub](https://github.com/maptime/getting-started-with-git-and-github/blob/master/README.md)
 - [Slow-Science manifesto, take time to do good science](http://slow-science.org/)
-
+- [Build stuff!, 2020](https://why.degree/motivation/) 
+	
 ### Research Papers & Academic Resources
 - [Computer Science, ArXiv](https://arxiv.org/list/cs/recent)
 - [Arxiv Sanity Preserver](http://www.arxiv-sanity.com/)
