@@ -246,7 +246,7 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [A fast learning algorithm for deep belief nets, Geoffrey E. Hinton & Simon Osindero & Yee-Whye Teh, 1995](https://www.cs.toronto.edu/~hinton/absps/fastnc.pdf)
 - [Long Short-Term Memory, Sepp Hochreiter & Jürgen Schmidhuber, 1997](bioinf.jku.at/publications/older/2604.pdf)
 - [Gradient-Based Learning Applied to Document Recognition, Yann LeCun, 1998](http://vision.stanford.edu/cs598_spring07/papers/Lecun98.pdf)
-- A Neural Probabilistic Language Model, Yoshua Bengio et al., 2003~(http://www.ai.mit.edu/projects/jmlr/papers/volume3/tmp/bengio03a.pdf) 
+- [A Neural Probabilistic Language Model, Yoshua Bengio et al., 2003](http://www.ai.mit.edu/projects/jmlr/papers/volume3/tmp/bengio03a.pdf) 
 - [Distinctive Image Features from Scale-Invariant Keypoints, David G. Lowe, 2004](https://www.cs.ubc.ca/~lowe/papers/ijcv04.pdf)
 - [Framewise phoneme classification with bidirectional LSTM and other neural network architectures, Graves, Alex & Jürgen Schmidhuber, 2005](https://www.cs.toronto.edu/~graves/ijcnn_2005.pdf)
 - [Self-taught Learning: Transfer Learning from Unlabeled Data, Rajat Raina et al., 2007](http://ai.stanford.edu/~hllee/icml07-selftaughtlearning.pdf)
