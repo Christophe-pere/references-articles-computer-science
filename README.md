@@ -247,7 +247,7 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [Long Short-Term Memory, Sepp Hochreiter & Jürgen Schmidhuber, 1997](bioinf.jku.at/publications/older/2604.pdf)
 - [Gradient-Based Learning Applied to Document Recognition, Yann LeCun, 1998](http://vision.stanford.edu/cs598_spring07/papers/Lecun98.pdf)
 - [Distinctive Image Features from Scale-Invariant Keypoints, David G. Lowe, 2004](https://www.cs.ubc.ca/~lowe/papers/ijcv04.pdf)
-- [Framewise phoneme classification with bidirectional LSTM and other neural network architectures, Graves, Alex & Jürgen Schmidhuber, 2005](ftp://ftp.idsia.ch/pub/juergen/nn_2005.pdf)
+- [Framewise phoneme classification with bidirectional LSTM and other neural network architectures, Graves, Alex & Jürgen Schmidhuber, 2005](https://www.cs.toronto.edu/~graves/ijcnn_2005.pdf)
 - [Self-taught Learning: Transfer Learning from Unlabeled Data, Rajat Raina et al., 2007](http://ai.stanford.edu/~hllee/icml07-selftaughtlearning.pdf)
 - [A Novel Connectionist System for Unconstrained Handwriting Recognition Alex Grave et al., 2008](http://people.idsia.ch/~juergen/tpami_2008.pdf)
 - [Deep Boltzmann Machines, Ruslan Salakhutdinov & Geoffrey Hinton, 2009](http://www.cs.toronto.edu/~hinton/absps/dbm.pdf)
