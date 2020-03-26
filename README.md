@@ -602,6 +602,7 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [reformers, google/trax](https://github.com/google/trax/tree/master/trax/models/reformer)
 - [The Abstraction and Reasoning Corpus (ARC), François Chollet, 2019](https://github.com/fchollet/ARC)
 - [Google AI Research](https://github.com/google-research/google-research)
+- [Stanza: A Python NLP Library for Many Human Languages, Stanford NLP Group's, 2020](https://github.com/stanfordnlp/stanza)
 > In progress...
 
 #### Notebooks
@@ -613,6 +614,7 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [Pennylane, Xanadu](https://github.com/XanaduAI/pennylane)
 - [Qiskit, IBM Resaerch](https://qiskit.org/textbook/ch-prerequisites/qiskit.html)[source code](https://github.com/Qiskit/qiskit-textbook)
 - [D-Wave Tutorials on Quantum Annealing](https://www.dwavesys.com/resources/tutorials)
+- [TensorFlow Quantum, 2020](https://www.tensorflow.org/quantum)
 > In progress...
 
 ###### [Back to top](#table-of-contents)
@@ -730,6 +732,7 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [A Beginner's Guide to the Mathematics of Neural Networks, A.C.C. Coolen, 1998](https://nms.kcl.ac.uk/ton.coolen/published/1998/summerschool98.pdf) or [this link](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.161.3556&rep=rep1&type=pdf)
 - [Introduction to Applied Linear Algebra, Stephen Boyd & Lieven Vandenberghe, 2018](https://web.stanford.edu/~boyd/vmls/vmls.pdf)
 - [the-math-behind-an-artificial-neural-network, hugolgst](https://github.com/hugolgst/the-math-behind-an-artificial-neural-network/blob/master/full-document.pdf?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
+- [Machine Learning From Scratch, Erik Linder-Norén, 2018](https://github.com/eriklindernoren/ML-From-Scratch/blob/master/README.md)
 > In progress... 
 
 ### Sites
@@ -743,6 +746,7 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [Reinforcement Learning Tips and Tricks](https://stable-baselines.readthedocs.io/en/master/guide/rl_tips.html)
 - [The Neural Network Zoo, Fjodor Van Veen, 2016](https://www.asimovinstitute.org/neural-network-zoo/) 
 - [Spacy Course, Ines Montani](https://course.spacy.io/)
+- [The perceptron neuron model, Roberto Lopez, 2020](https://www.neuraldesigner.com/blog/perceptron-the-main-component-of-neural-networks)
 > In progress...
 
 
