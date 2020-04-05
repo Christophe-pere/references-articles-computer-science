@@ -251,6 +251,7 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [A Neural Probabilistic Language Model, Yoshua Bengio et al., 2003](http://www.ai.mit.edu/projects/jmlr/papers/volume3/tmp/bengio03a.pdf) 
 - [Distinctive Image Features from Scale-Invariant Keypoints, David G. Lowe, 2004](https://www.cs.ubc.ca/~lowe/papers/ijcv04.pdf)
 - [Framewise phoneme classification with bidirectional LSTM and other neural network architectures, Graves, Alex & Jürgen Schmidhuber, 2005](https://www.cs.toronto.edu/~graves/ijcnn_2005.pdf)
+- [Reducing the Dimensionality of Data with Neural Networks, G. E. Hinton and R. R. Salakhutdinov, 2006](http://www.cs.toronto.edu/~hinton/science.pdf)
 - [Self-taught Learning: Transfer Learning from Unlabeled Data, Rajat Raina et al., 2007](http://ai.stanford.edu/~hllee/icml07-selftaughtlearning.pdf)
 - [A Novel Connectionist System for Unconstrained Handwriting Recognition Alex Grave et al., 2008](http://people.idsia.ch/~juergen/tpami_2008.pdf)
 - [Deep Boltzmann Machines, Ruslan Salakhutdinov & Geoffrey Hinton, 2009](http://www.cs.toronto.edu/~hinton/absps/dbm.pdf)
@@ -469,6 +470,8 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [Evolutionary principles in self-referential learning, or on learning how to learn,  J.  Schmidhuber, 1987](http://people.idsia.ch/~juergen/diploma1987ocr.pdf)
 - [Continual learning in Reinforcement Learning environments, Mark Bishop Ring, 1994](http://people.idsia.ch/~ring/Ring-dissertation.pdf)
 - [Explanation-Based Neural Network Learning: A Lifelong Learning Approach Sebastian Thrun, 1996](http://robots.stanford.edu/papers/thrun.book.html)
+- [Statistical Language Models based on Neural Networks, Mikolov Tomáš, 2012](http://www.fit.vutbr.cz/~imikolov/rnnlm/thesis.pdf)
+- [Training Recurrent Neural Networks, Ilya Sutskever, 2012](http://www.cs.utoronto.ca/~ilya/pubs/ilya_sutskever_phd_thesis.pdf)
 - [Statistical Language Models based on Neural Networks, Mikolov Tomáš, 2012](http://www.fit.vutbr.cz/~imikolov/rnnlm/thesis.pdf)
 - [Rational Approaches to Learning and Development, Celeste Kidd, 2013](https://www.celestekidd.com/papers/KiddDissertationMay2013.pdf)
 - [Metareasoning and Mental Simulation, Jessica B. Hamrick, 2017](http://www.jesshamrick.com/publications/pdf/Hamrick2017-Metareasoning_and_mental_simulation.pdf)
@@ -730,6 +733,7 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [Introduction to Computer Science I, Harvard](https://www.youtube.com/watch?v=z-OxzIC6pic&list=PLvJoKWRPIu8G6Si7LlvmBPA5rOJ9BA29R)
 - [MIT Deep Learning, Lex Fridman](https://deeplearning.mit.edu/)
 - [MIT 6.S191 - Introduction to Deep Learning, Alexander Amini & Ava Soleimany, 2020](http://introtodeeplearning.com/)
+- [Neural networks class, Hugo Larochelle](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
 > In progress...
 
 ### Support courses 
