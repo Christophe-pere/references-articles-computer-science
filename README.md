@@ -206,7 +206,7 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 > In progress...
 
 ### Machine Learning
-- [LIII. On lines and planes of closest fit to systems of points in space, Karl Pearson, 1901](https://zenodo.org/record/1430636#.XlrLsZpKiUk) Invention of PCA
+- [LIII. On lines and planes of closest fit to systems of points in space, Karl Pearson, 1901](https://zenodo.org/record/1430636#.XlrLsZpKiUk)
 - [An Inductive Inference Machine, Ray Solomonoff, 1957](http://world.std.com/~rjs/indinf56.pdf)
 - [Language identification in the limit, E. Mark Gold, 1967](http://web.mit.edu/~6.863/www/spring2009/readings/gold67limit.pdf)
 - [On the uniform convergence of relative frequencies of events to their probabilities, V. Vapnik & A. Chervonenkis, 1971](https://courses.engr.illinois.edu/ece544na/fa2014/vapnik71.pdf)
@@ -232,11 +232,9 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [Latent Dirichlet Allocation, David M. Blei & Andrew Y. Ng & Michael I. Jordan, 2003](http://jmlr.org/papers/v3/blei03a.html)
 - [An Introduction to Variable and Feature Selection, Isabelle Guyon & Andre Elisseeff, 2003](http://jmlr.org/papers/volume3/guyon03a/guyon03a.pdf)
 - [A fast learning algorithm for deep belief nets, Geoffrey E. Hinton & Simon Osindero & Yee-Whye Teh, 2006](https://www.cs.toronto.edu/~hinton/absps/fastnc.pdf)
-
 - [Representation Learning: A Review and New Perspectives, Yoshua Bengio & Aaron Courville & Pascal Vincent, 2012](https://arxiv.org/pdf/1206.5538)
 - [A guide to convolution arithmetic for deep learning, Vincent Dumoulin & Francesco Visin, 2018](https://arxiv.org/pdf/1603.07285.pdf)
 - [AutoML-Zero: Evolving Machine Learning Algorithms From Scratch, Esteban Real et al., 2020](https://arxiv.org/pdf/2003.03384)
-> In progress...
 
 ###### [Back to top](#table-of-contents)
 
