@@ -80,7 +80,7 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [Artificial Intelligence: A Modern Approach, 4th edition, Stuart Russell & Peter Norvig, 2020](https://www.amazon.com/Artificial-Intelligence-A-Modern-Approach/dp/0134610997)
 
 ### Machine Learning
-- [The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition,  Trevor Hastie & Robert Tibshirani & Jerome Friedman, 2008](https://www.amazon.ca/Elements-Statistical-Learning-Inference-Prediction/dp/0387848576/ref=sr_1_3?keywords=learning+statistics&qid=1582507088&sr=8-3)
+- [The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition,  Trevor Hastie & Robert Tibshirani & Jerome Friedman, corrected 2017](https://web.stanford.edu/~hastie/ElemStatLearn/printings/ESLII_print12.pdf)
 - [Pattern Recognition and Machine Learning, Christopher M. Bishop, 2011](https://www.amazon.ca/dp/0387310738/ref=as_li_tl?ie=UTF8&linkCode=gs2&linkId=11e0911952bfc7a8adf52b3eae0f461c&creativeASIN=0387310738&tag=petacrunch04-20&creative=9325&camp=1789)
 => [Notebooks for each chapter, ctgk](https://github.com/ctgk/PRML/blob/master/README.md)
 - [Programming Collective Intelligence: Building Smart Web 2.0 Applications, Toby Segaran, 2011](https://www.amazon.in/Programming-Collective-Intelligence-Segaran/dp/8184043708/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1483608623&sr=1-1&keywords=Programming+Collective+Intelligence&linkCode=sl1&tag=analyvidhy-21&linkId=2a33af9df134576d7cffb3af304efd33)
@@ -88,19 +88,21 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [Introduction to machine learning with Python: A Guide for Data Scientists, Andreas C. Müller & Sarah Guido, 2016](https://www.amazon.ca/Introduction-Machine-Learning-Python-Scientists/dp/1449369413/ref=asc_df_1449369413/?tag=googleshopc0c-20&linkCode=df0&hvadid=292901695602&hvpos=&hvnetw=g&hvrand=17038007849797717881&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9061026&hvtargid=pla-423142395481&psc=1)
 - [Machine Learning, Tom M Mitchell, 2017](https://www.amazon.in/Machine-Learning-Tom-M-Mitchell/dp/1259096955/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1483608679&sr=1-1&keywords=Machine+Learning+by+Tom+M+Mitchell&linkCode=sl1&tag=analyvidhy-21&linkId=8bcb0d1e9d7b8c4d2a5ae36e4db0bfa3)
 - [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems - 2nd edition, Aurélien Géron, 2019](https://www.amazon.ca/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646/ref=asc_df_1492032646/?tag=googleshopc0c-20&linkCode=df0&hvadid=335305582969&hvpos=1o1&hvnetw=g&hvrand=17038007849797717881&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9061026&hvtargid=pla-523968811896&psc=1)
+=> First edition available [here](https://github.com/ageron/handson-ml) for free
+
 - [Python Machine Learning: Machine Learning and Deep Learning with Python, scikit-learn, and TensorFlow 2 - 3rd Edition, Sebastian Raschka & Vahid Mirjalili, 2019](https://www.amazon.ca/Python-Machine-Learning-scikit-learn-TensorFlow/dp/1789955750/ref=sr_1_fkmr0_1?keywords=%3Bachine+learning+sebastian&qid=1581965682&s=books&sr=1-1-fkmr0 )
 - [The Hundred-Page Machine Learning Book, Andriy Burkov, 2019](https://www.amazon.co.uk/Hundred-Page-Machine-Learning-Book/dp/199957950X/ref=pd_aw_sbs_14_5/262-1001262-4541403?_encoding=UTF8&pd_rd_i=199957950X&pd_rd_r=ceb793b5-741c-4388-bbcb-c4b656d7da98&pd_rd_w=t3urK&pd_rd_wg=7EqqE&pf_rd_p=15216146-4434-47f5-99d9-56240c85bf4d&pf_rd_r=RAHG1THCANSMBVCZC4WJ&psc=1&refRID=RAHG1THCANSMBVCZC4WJ)
 
 ### Deep Learning
 
-- [Deep Learning, Ian Goodfellow et al., 2016](https://www.amazon.ca/Deep-Learning-Ian-Goodfellow/dp/0262035618/ref=sr_1_1?crid=383XDGD8SRUNC&keywords=deep+learning+ian+goodfellow&qid=1581965751&s=books&sprefix=deep+learning%2Cstripbooks%2C269&sr=1-1)
+- [Deep Learning, Ian Goodfellow et al., 2016](http://www.deeplearningbook.org/)
 - [Deep Learning with Python, François Chollet 2017](https://www.amazon.ca/Deep-Learning-Python-Francois-Chollet/dp/1617294438/ref=sr_1_1?keywords=deep+learning+with+python&qid=1581965794&s=books&sr=1-1)
 - [Neural Networks and Deep learning, Micheal Nielsen, 2019](http://neuralnetworksanddeeplearning.com/chap1.html)
 - [Deep Learning and the Game of Go, Max Pumperla & Kevin Ferguson, 2019](https://www.amazon.com/gp/product/1617295329/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1617295329&linkCode=as2&tag=petacrunch-20&linkId=0e4c17bcda09e79de9b186f2d8c26ffb)
 - [Dive into Deep Learning, Aston Zhang et al, 2020](https://d2l.ai/)
 
 ### Reinforcement Learning
-- [Reinforcement Learning: An Introduction - 2nd edition, Richard S. Sutton & Andrew G. Barto, 2018](https://www.amazon.ca/Reinforcement-Learning-Introduction-Richard-Sutton/dp/0262039249/ref=sr_1_1?crid=19RA25TZFYZJB&keywords=reinforcement+learning+an+introduction&qid=1581965840&s=books&sprefix=introduction+to+reinforce%2Cstripbooks%2C264&sr=1-1)
+- [Reinforcement Learning: An Introduction - 2nd edition, Richard S. Sutton & Andrew G. Barto, 2018](http://incompleteideas.net/book/RLbook2018.pdf)
 - [Algorithms for Reinforcement Learning, Csaba Szepesvári, 2019](https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf)
 
 ### Meta-Learning
@@ -119,8 +121,9 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [Quantum Computing: An Applied Approach, Jack D. Hilary, 2019](https://www.amazon.ca/Quantum-Computing-Approach-Jack-Hidary/dp/3030239217/ref=sr_1_1?keywords=quantum+information+and+quantum+computing&qid=1581965920&s=books&sr=1-1)
 
 ### Mathematics for Machine Learning
-- [Think Stats, Allen B. Downey, 2011](https://www.amazon.ca/Think-Stats-Allen-B-Downey/dp/1449307116)
-- [Think Bayes: Bayesian Statistics in Python, Allen B. Downey, 2013](https://www.amazon.ca/Think-Bayes-Bayesian-Statistics-Python/dp/1449370780/ref=sr_1_1?keywords=think+bayes&qid=1583981718&s=books&sr=1-1)
+- [Think Stats, Allen B. Downey, 2011](https://greenteapress.com/wp/think-stats-2e/?source=post_page-----2d4f32793a51----------------------)
+- [Think Bayes: Bayesian Statistics in Python, Allen B. Downey, 2013](https://greenteapress.com/wp/think-bayes/)
+- [Linear Algebra Done Right, 3rd edition, Sheldon Axler, 2015](https://link.springer.com/content/pdf/10.1007%2F978-3-319-11080-6.pdf)
 - [Practical Statistics for Data Scientists: 50 Essential Concepts,  Peter Bruce & Andrew Bruce, 2017](https://www.amazon.ca/Practical-Statistics-Data-Scientists-Essential/dp/1491952962/ref=sr_1_3?keywords=think+bayes&qid=1583981718&s=books&sr=1-3)
 - [Math for Scientists Refreshing the Essentials, Maurits Natasha & Ćurčić-Blake Branislava, 2017](https://www.springer.com/gp/book/9783319573533)
 - [Mathematics for Machine Learning, Marc Peter Deisenroth & A. Aldo Faisal & Cheng Soon Ong, 2019](https://mml-book.github.io/book/mml-book.pdf)
@@ -603,6 +606,8 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [The Abstraction and Reasoning Corpus (ARC), François Chollet, 2019](https://github.com/fchollet/ARC)
 - [Google AI Research](https://github.com/google-research/google-research)
 - [Stanza: A Python NLP Library for Many Human Languages, Stanford NLP Group's, 2020](https://github.com/stanfordnlp/stanza)
+- [DoWhy, Microsoft, 2019](https://github.com/microsoft/dowhy/blob/master/README.rst)
+- [TCDF: Temporal Causal Discovery Framework, M-Nauta](https://github.com/M-Nauta/TCDF)
 > In progress...
 
 #### Notebooks
@@ -657,7 +662,7 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [Machine Learning Blog](https://machinelearnings.co/)
 - [Science Daily](https://www.sciencedaily.com/news/computers_math/artificial_intelligence/)
 - [Hacker noon](https://hackernoon.com/)
-- [Machine Learning Medium fedd](https://medium.com/topic/machine-learning)
+- [Machine Learning Medium feed](https://medium.com/topic/machine-learning)
 - [Springboard Blog](https://www.springboard.com/blog/)
 - [KDnuggets](https://www.kdnuggets.com/tag/machine-learning) 
 - [Analytics Vidhya](https://www.analyticsvidhya.com/blog/?utm_source=feed_navbar)
@@ -733,6 +738,8 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [Introduction to Applied Linear Algebra, Stephen Boyd & Lieven Vandenberghe, 2018](https://web.stanford.edu/~boyd/vmls/vmls.pdf)
 - [the-math-behind-an-artificial-neural-network, hugolgst](https://github.com/hugolgst/the-math-behind-an-artificial-neural-network/blob/master/full-document.pdf?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
 - [Machine Learning From Scratch, Erik Linder-Norén, 2018](https://github.com/eriklindernoren/ML-From-Scratch/blob/master/README.md)
+- [Lot of material resources to learn Maths, Reddit r/learnmmath](https://www.reddit.com/r/learnmath/comments/8p922p/list_of_websites_ebooks_downloads_etc_for_mobile/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
+- [Linear Algebra, Reddit r/bibliographies](https://www.reddit.com/r/bibliographies/comments/akgoky/linear_algebra/?utm_source=share&utm_medium=ios_app&utm_name=iossmf) 
 > In progress... 
 
 ### Sites
