@@ -82,7 +82,7 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 ### Machine Learning
 - [The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition,  Trevor Hastie & Robert Tibshirani & Jerome Friedman, corrected 2017](https://web.stanford.edu/~hastie/ElemStatLearn/printings/ESLII_print12.pdf)
 - [Pattern Recognition and Machine Learning, Christopher M. Bishop, 2011](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
-=> [Notebooks for each chapter, ctgk](https://github.com/ctgk/PRML/blob/master/README.md)
+- [Notebooks for each chapter, ctgk](https://github.com/ctgk/PRML/blob/master/README.md)
 - [Programming Collective Intelligence: Building Smart Web 2.0 Applications, Toby Segaran, 2011](https://www.amazon.in/Programming-Collective-Intelligence-Segaran/dp/8184043708/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1483608623&sr=1-1&keywords=Programming+Collective+Intelligence&linkCode=sl1&tag=analyvidhy-21&linkId=2a33af9df134576d7cffb3af304efd33)
 - [Machine Learning: a Probabilistic Perspective, Kevin P. Murphy, 2012](https://www.amazon.com/gp/product/0262018020/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0262018020&linkCode=as2&tag=petacrunch-20&linkId=a52c63d00ba9f01f29e1db95d6b4c171)
 - [Introduction to machine learning with Python: A Guide for Data Scientists, Andreas C. Müller & Sarah Guido, 2016](https://www.amazon.ca/Introduction-Machine-Learning-Python-Scientists/dp/1449369413/ref=asc_df_1449369413/?tag=googleshopc0c-20&linkCode=df0&hvadid=292901695602&hvpos=&hvnetw=g&hvrand=17038007849797717881&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9061026&hvtargid=pla-423142395481&psc=1)
@@ -464,6 +464,10 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [Federated Learning](https://xzhu0027.gitbook.io/blog/ml-system/sys-ml-index/towards-federated-learning-at-scale-system-design)
 - [Meta-Reasoning, Georgia Tech OMSCS](https://omscs-transcend.readthedocs.io/gatech/cs7637/24---meta-reasoning.html)
 - [The Matrix Calculus You Need For Deep Learning, Terence Parr & Jeremy Howard](https://explained.ai/matrix-calculus/index.html)
+- [Visualizing machine learning one concept at a time, Jay Alammar](https://jalammar.github.io/)
+- [The Illustrated Transformer, Jay Alammar](https://jalammar.github.io/illustrated-transformer/)
+- [The Transformer Family, Lilian Weng, 2020](https://lilianweng.github.io/lil-log/2020/04/07/the-transformer-family.html)
+- [Attention? Attention!, Lilian Weng, 2018](https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html)
 > In progress...
 
 
@@ -687,6 +691,7 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [Abstraction and Reasoning Corpus, François Chollet, 2019](https://github.com/fchollet/ARC)
 - [Pathmind Open datasets](https://pathmind.com/wiki/open-datasets)
 - [Kaggle Datasets](https://www.kaggle.com/datasets?sortBy=relevance&group=all&search=tag%3A%27artificial%20intelligence%27)
+- [NLP datasets, niderhoff](https://github.com/niderhoff/nlp-datasets)
 ---
 
 ## Best-practices
