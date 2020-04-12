@@ -533,7 +533,7 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 
 ### People to follow 
 | Researchers | Arxiv | Google Scholar |
-| ------- | :---: | :---: |
+| :---:| :---: | :---: |
 | Aaron Courville | [link](https://arxiv.org/search/?searchtype=author&query=Courville%2C+A) | [link](https://scholar.google.com/citations?hl=en&user=km6CP8cAAAAJ) |
 | Adam Coates |  | [link](https://scholar.google.com/citations?hl=en&user=bLUllHEAAAAJ) | 
 | Andrej Karpathy |  |  [link](https://scholar.google.com/citations?user=l8WuQJgAAAAJ&hl=en) | 
@@ -581,9 +581,11 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 ### Librairies
 #### PyTorch
 > Orinigal tutorials on pyTorch
+
 - [PyTorch](https://pytorch.org/tutorials/)
 - [Introduction to Pytorch Code Examples, Stanford](https://cs230.stanford.edu/blog/pytorch/)
 > Here a list a lot of github resources on PyTorch, each repo contains an impressive collection of tutorials, books, papers etc. 
+
 - [Ritchie Ng](https://github.com/ritchieng/the-incredible-pytorch)
 - [bharathgs](https://github.com/bharathgs/Awesome-pytorch-list)
 - [gwding](https://github.com/gwding/the-incredible-pytorch)
@@ -595,10 +597,13 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 
 #### Tensorflow 
 > Original tensorflow documentation and turorial 
+
 - [Tensorflow 2.x](https://www.tensorflow.org/tutorials)
 > jtoy propose a github page with lot of resources, models, tutorials, books etc. on tensorflow
+
 - [jtoy](https://github.com/jtoy/awesome-tensorflow)
 > Ritchie Ng has began a github for TensorFlow 2
+
 - [Ritchie Ng](https://github.com/ritchieng/the-incredible-tensorflow)
 - [TensorFlow Forum Discussion](https://groups.google.com/a/tensorflow.org/forum/#!forum/discuss)
 ##### Notebooks
@@ -694,6 +699,7 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [Pathmind Open datasets](https://pathmind.com/wiki/open-datasets)
 - [Kaggle Datasets](https://www.kaggle.com/datasets?sortBy=relevance&group=all&search=tag%3A%27artificial%20intelligence%27)
 - [NLP datasets, niderhoff](https://github.com/niderhoff/nlp-datasets)
+
 ---
 
 ## Best-practices
@@ -728,7 +734,7 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [Machine Learning, Stanford, Andrew Ng](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
 - [Stanford CS231n, 2016](https://www.youtube.com/watch?list=PLlJy-eBtNFt6EuMxFYRiNRS07MCWN5UIA&v=g-PvXUjD6qg)
 - [Deep Learning, Stanford, 2018](https://www.youtube.com/watch?v=PySo_6S4ZAg&list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb)
-- [CS224N: Natural Language Processing with Deep Learning | Winter 2019](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
+- [CS224N: Natural Language Processing with Deep Learning - Winter 2019](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
 - [Reinforcement Learning, Stanford, 2019](https://www.youtube.com/watch?v=FgzM3zpZ55o&list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
 - [Introduction to Reinforcement Learning, DeepMind](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
 - [Advanced Deep Learing and Reinforcement learning, DeepMind](https://www.youtube.com/watch?v=iOh7QUZGyiU&list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
