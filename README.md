@@ -449,6 +449,7 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 
 ###### [Back to top](#table-of-contents)
 ---
+
 ## Posts and thesis 
 ### Blog posts
 - [Markov Chain Monte Carlo Without all the Bullshit, Jeremy Kun, 2015](https://jeremykun.com/2015/04/06/markov-chain-monte-carlo-without-all-the-bullshit/)
@@ -470,6 +471,7 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [The Illustrated Transformer, Jay Alammar](https://jalammar.github.io/illustrated-transformer/)
 - [The Transformer Family, Lilian Weng, 2020](https://lilianweng.github.io/lil-log/2020/04/07/the-transformer-family.html)
 - [Attention? Attention!, Lilian Weng, 2018](https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html)
+
 > In progress...
 
 
@@ -483,13 +485,18 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [Rational Approaches to Learning and Development, Celeste Kidd, 2013](https://www.celestekidd.com/papers/KiddDissertationMay2013.pdf)
 - [Metareasoning and Mental Simulation, Jessica B. Hamrick, 2017](http://www.jesshamrick.com/publications/pdf/Hamrick2017-Metareasoning_and_mental_simulation.pdf)
 - [Neural Transfer Learning for Natural Language Processing, Sebastian Ruder, 2019](https://ruder.io/thesis/neural_transfer_learning_for_nlp.pdf)
+
 > In progress...
 
 ###### [Back to top](#table-of-contents)
+
 ---
+
 ## Scientific Research
 ### Research guide 
+
 > The two references inside the article are very interesting
+
 - [An Opinionated Guide to ML Research, John Schulman](http://joschu.net/blog/opinionated-guide-ml-research.html)
 - [How to Be a Researcher - 2nd Edition, Jonathan St B. T. Evans, 2015](https://www.amazon.com/How-Be-Researcher-Jonathan-Evans-dp-1138917311/dp/1138917311/ref=mt_paperback?_encoding=UTF8&me=&qid=)
 - [How to write and publish your research](https://www.rndtoday.co.uk/resource/how-to-write-and-publish-your-research/)
@@ -521,7 +528,9 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [The Very Large Data Base Journal (VLDB Journal)](http://vldb.org/vldb_journal/)
 
 ### NLP 
+
 - [NLP-progress, Sebastian Ruder](https://github.com/sebastianruder/NLP-progress)
+
 > In progress...
 
 
@@ -565,6 +574,7 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 > In progress...
 
 ### AI communities
+
 - [AI Dreams](https://aidreams.co.uk/)
 - [Forum for Artificial Intelligence](https://www.cs.utexas.edu/~ai-lab/fai/) 
 - [Quora](https://www.quora.com/)
@@ -575,6 +585,7 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [DEV](https://dev.to/)
 - [ods.ai, Open Data Science](https://ods.ai/) 
 - [fastai](https://www.fast.ai/) 
+
 > In progress...
 
 ###### [Back to top](#table-of-contents)
@@ -598,16 +609,20 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [PyTorch Primer](https://colab.research.google.com/drive/1DgkVmi6GksWOByhYVQpyUB4Rk3PUq0Cp#scrollTo=4iSaSfH8bgSq)
 
 #### Tensorflow 
+
 > Original tensorflow documentation and turorial 
 
 - [Tensorflow 2.x](https://www.tensorflow.org/tutorials)
+
 > jtoy propose a github page with lot of resources, models, tutorials, books etc. on tensorflow
 
 - [jtoy](https://github.com/jtoy/awesome-tensorflow)
+
 > Ritchie Ng has began a github for TensorFlow 2
 
 - [Ritchie Ng](https://github.com/ritchieng/the-incredible-tensorflow)
 - [TensorFlow Forum Discussion](https://groups.google.com/a/tensorflow.org/forum/#!forum/discuss)
+
 ##### Notebooks
 - [TensorFlow 2.0 + Keras Crash Course, François CHollet, 2019](https://colab.research.google.com/drive/1UCJt8EYjlzCs1H1d1X0iDGYJsHKwu-NO)
 - [tf.keras for Researchers: Crash Course, François Chollet](https://colab.research.google.com/drive/14CvUNTaX1OFHDfaKaaZzrBsvMfhCOHIR)
@@ -624,6 +639,7 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [Stanza: A Python NLP Library for Many Human Languages, Stanford NLP Group's, 2020](https://github.com/stanfordnlp/stanza)
 - [DoWhy, Microsoft, 2019](https://github.com/microsoft/dowhy/blob/master/README.rst)
 - [TCDF: Temporal Causal Discovery Framework, M-Nauta](https://github.com/M-Nauta/TCDF)
+
 > In progress...
 
 #### Notebooks
@@ -636,6 +652,7 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [Qiskit, IBM Resaerch](https://qiskit.org/textbook/ch-prerequisites/qiskit.html)[source code](https://github.com/Qiskit/qiskit-textbook)
 - [D-Wave Tutorials on Quantum Annealing](https://www.dwavesys.com/resources/tutorials)
 - [TensorFlow Quantum, 2020](https://www.tensorflow.org/quantum)
+
 > In progress...
 
 ###### [Back to top](#table-of-contents)
@@ -750,6 +767,7 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [MIT Deep Learning, Lex Fridman](https://deeplearning.mit.edu/)
 - [MIT 6.S191 - Introduction to Deep Learning, Alexander Amini & Ava Soleimany, 2020](http://introtodeeplearning.com/)
 - [Neural networks class, Hugo Larochelle](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
+
 > In progress...
 
 ### Support courses 
@@ -759,6 +777,7 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [Machine Learning From Scratch, Erik Linder-Norén, 2018](https://github.com/eriklindernoren/ML-From-Scratch/blob/master/README.md)
 - [Lot of material resources to learn Maths, Reddit r/learnmmath](https://www.reddit.com/r/learnmath/comments/8p922p/list_of_websites_ebooks_downloads_etc_for_mobile/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
 - [Linear Algebra, Reddit r/bibliographies](https://www.reddit.com/r/bibliographies/comments/akgoky/linear_algebra/?utm_source=share&utm_medium=ios_app&utm_name=iossmf) 
+
 > In progress... 
 
 ### Sites
@@ -773,6 +792,7 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [The Neural Network Zoo, Fjodor Van Veen, 2016](https://www.asimovinstitute.org/neural-network-zoo/) 
 - [Spacy Course, Ines Montani](https://course.spacy.io/)
 - [The perceptron neuron model, Roberto Lopez, 2020](https://www.neuraldesigner.com/blog/perceptron-the-main-component-of-neural-networks)
+
 > In progress...
 
 
@@ -790,6 +810,7 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [Life 3.0: Being Human in the Age of Artificial Intelligence, Max Tegmark, 2018](https://www.amazon.ca/Life-3-0-Being-Artificial-Intelligence/dp/1101970316/ref=sr_1_1?crid=23BZ8KHCHHZDS&keywords=max+tegmark&qid=1582507239&sprefix=max+tergm%2Caps%2C178&sr=8-1)
 - [There is no such thing as Artificial Intelligence, Luc julia, 2020](https://www.amazon.ca/There-such-thing-Artificial-Intelligence/dp/241205911X/ref=sr_1_8?keywords=luc+julia&qid=1582506912&sr=8-8)
 - [How We Learn: Why Brains Learn Better Than Any Machine . . . for Now, Stanislas Daheane, 2020](https://www.amazon.ca/How-We-Learn-Brains-Machine/dp/0525559884/ref=sr_1_1?crid=25CYFQQQ9ZVWJ&keywords=how+we+learn+why+brains+learn+better+than+any+machine&qid=1582507037&sprefix=how+we+learn+%2Caps%2C180&sr=8-1)
+
 > In progress...
 
 ### Technical
