@@ -209,7 +209,7 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 ### Machine Learning
 - [LIII. On lines and planes of closest fit to systems of points in space, Karl Pearson, 1901](https://zenodo.org/record/1430636#.XlrLsZpKiUk)
 - [An Inductive Inference Machine, Ray Solomonoff, 1957](http://world.std.com/~rjs/indinf56.pdf)
-- [Language identification in the limit, E. Mark Gold, 1967](http://web.mit.edu/~6.863/www/spring2009/readings/gold67limit.pdf)
+- [Language  identification in the limit, E. Mark Gold, 1967](http://web.mit.edu/~6.863/www/spring2009/readings/gold67limit.pdf)
 - [On the uniform convergence of relative frequencies of events to their probabilities, V. Vapnik & A. Chervonenkis, 1971](https://courses.engr.illinois.edu/ece544na/fa2014/vapnik71.pdf)
 - [Maximum likelihood from incomplete data via the EM algorithm, A P Dempster & N M Laird & D B Rubin, 1977](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.133.4884&rep=rep1&type=pdf)
 - [A theory of the learnable, Leslie Valiant, 1984](https://people.mpi-inf.mpg.de/~mehlhorn/SeminarEvolvability/ValiantLearnable.pdf)
@@ -363,6 +363,7 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [Doing more with less: meta-reasoning and meta-learning in humans and machines, Thomas L Griffiths et al., 2019](https://cocosci.princeton.edu/papers/doing-more-with-less.pdf)
 
 ###### [Back to top](#table-of-contents)
+
 
 ### Federated Learning
 - [Federated Learning: Strategies For Improving Communication Efficiency, Jakub Konecny et al., 2016](https://arxiv.org/pdf/1610.05492.pdf)
