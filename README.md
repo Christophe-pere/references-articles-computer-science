@@ -532,34 +532,36 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [Artificial Intelligence](https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label%3Aai&btnG=)
 
 ### People to follow 
+
 | Researchers | Arxiv | Google Scholar |
 | :---:| :---: | :---: |
 | Aaron Courville | [link](https://arxiv.org/search/?searchtype=author&query=Courville%2C+A) | [link](https://scholar.google.com/citations?hl=en&user=km6CP8cAAAAJ) |
-| Adam Coates |  | [link](https://scholar.google.com/citations?hl=en&user=bLUllHEAAAAJ) | 
-| Andrej Karpathy |  |  [link](https://scholar.google.com/citations?user=l8WuQJgAAAAJ&hl=en) | 
-| Andrew Barto |  | [link](https://scholar.google.com/citations?hl=en&user=CMIgrCgAAAAJ) | 
+| Adam Coates | \- | [link](https://scholar.google.com/citations?hl=en&user=bLUllHEAAAAJ) | 
+| Andrej Karpathy | \- |  [link](https://scholar.google.com/citations?user=l8WuQJgAAAAJ&hl=en) | 
+| Andrew Barto | \- | [link](https://scholar.google.com/citations?hl=en&user=CMIgrCgAAAAJ) | 
 | Andrew Ng | [link](https://arxiv.org/search/?searchtype=author&query=Ng%2C+A+Y) | [link](https://scholar.google.com/citations?hl=en&user=mG4imMEAAAAJ) | 
 | Christopher D. Manning | [link](https://arxiv.org/search/?searchtype=author&query=Manning%2C+C+D) |  [link](https://scholar.google.com/citations?hl=en&user=1zmDOdwAAAAJ) |
-| Daphne Koller |  |  [link](http://ai.stanford.edu/users/koller/) |
-| David Silver | |  [link](https://scholar.google.com/citations?hl=en&user=-8DNE4UAAAAJ) | 
+| Daphne Koller | \- |  [link](http://ai.stanford.edu/users/koller/) |
+| David Silver | \-|  [link](https://scholar.google.com/citations?hl=en&user=-8DNE4UAAAAJ) | 
 | Doina Precup |  [link](https://arxiv.org/search/?searchtype=author&query=Precup%2C+D) | [link](https://scholar.google.com/citations?hl=en&user=j54VcVEAAAAJ) | 
 | François Chollet | [link](https://arxiv.org/search/?searchtype=author&query=Chollet%2C+F) | [link](https://scholar.google.com/citations?hl=en&user=VfYhf2wAAAAJ) |
-| [Gary Marcus](https://dblp.org/pers/m/Marcus:Gary.html)  | | |
+| [Gary Marcus](https://dblp.org/pers/m/Marcus:Gary.html)  |\- | \-|
 | Geoffrey Hinton | [link](https://arxiv.org/search/?searchtype=author&query=Hinton%2C+G) | [link](https://scholar.google.com/citations?hl=en&user=JicYPdAAAAAJ) |
 | Hugo Larochelle | [link](https://arxiv.org/search/?searchtype=author&query=Larochelle%2C+H) | [link](https://scholar.google.com/citations?hl=en&user=U89FHq4AAAAJ) |
 | Ian Googfellow | [link](https://arxiv.org/search/?searchtype=author&query=Goodfellow%2C+I) | [link](https://scholar.google.com/citations?hl=en&user=iYN86KEAAAAJ) |
 | Judea Pearl |  | [link](https://scholar.google.com/citations?hl=en&user=bAipNH8AAAAJ) |
-| Jürgen Schmidhuber | | [link](https://scholar.google.com/citations?hl=en&user=gLnCTgIAAAAJ) |
-| Michael I. Jordan |  |  [link](https://scholar.google.com/citations?hl=en&user=nzEluBwAAAAJ) |
-| Nando de Freitas |  | [link](https://scholar.google.com/citations?hl=en&user=nzEluBwAAAAJ) | 
+| Jürgen Schmidhuber | \-| [link](https://scholar.google.com/citations?hl=en&user=gLnCTgIAAAAJ) |
+| Michael I. Jordan | \- |  [link](https://scholar.google.com/citations?hl=en&user=nzEluBwAAAAJ) |
+| Nando de Freitas |\-  | [link](https://scholar.google.com/citations?hl=en&user=nzEluBwAAAAJ) | 
 | Oriol Vinyals | [link](https://arxiv.org/search/?searchtype=author&query=Vinyals%2C+O) | [link](https://scholar.google.com/citations?hl=en&user=NkzyCvUAAAAJ) |
-| Peter Norvig |  | [link](https://scholar.google.com/citations?user=Ol0vcWgAAAAJ&hl=en) | 
+| Peter Norvig | \- | [link](https://scholar.google.com/citations?user=Ol0vcWgAAAAJ&hl=en) | 
 | Richard S. Sutton | [link](https://arxiv.org/search/?searchtype=author&query=Sutton%2C+R+S) | [link](https://scholar.google.com/citations?hl=en&user=6m4wv6gAAAAJ) |
 | Sebastian Ruder | [link](https://arxiv.org/search/?searchtype=author&query=Ruder%2C+S) | [link](https://scholar.google.com/citations?hl=en&user=8ONXPV8AAAAJ) |
-| Stuart Russell |  | [link](https://scholar.google.com/citations?hl=en&user=2oy3OXYAAAAJ) | 
-| Terrence Sejnowski | |  [link](https://scholar.google.com/citations?hl=en&user=m1qAiOUAAAAJ) | 
+| Stuart Russell | \- | [link](https://scholar.google.com/citations?hl=en&user=2oy3OXYAAAAJ) | 
+| Terrence Sejnowski |\- |  [link](https://scholar.google.com/citations?hl=en&user=m1qAiOUAAAAJ) | 
 | Yann LeCun | [link](https://arxiv.org/search/?searchtype=author&query=LeCun%2C+Y) | [link](https://scholar.google.com/citations?hl=en&user=WLN3QrAAAAAJ) |
 | Yoshua Bengio | [link](https://arxiv.org/search/?searchtype=author&query=Bengio%2C+Y) | [link](https://scholar.google.com/citations?hl=en&user=kukA0LcAAAAJ) |
+
 > In progress...
 
 ### AI communities
