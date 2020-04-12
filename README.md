@@ -175,21 +175,37 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 
 ## Articles
 ### Repositories
+
 > An important list of materials about Computer Vision
+
 - [Awesome computer vision, jbhuang0604](https://github.com/jbhuang0604/awesome-computer-vision)
+
 > An important list of materials about Deep Learning in Computer Vision
+
 - [Awesome deep vision, kjw0612](https://github.com/kjw0612/awesome-deep-vision)
+
 > An important list of materials about Recurrent Neural Network
+
 - [Awesome rnn, kjw0612](https://github.com/kjw0612/awesome-rnn)
+
 > An important list of materials about Random Forest
+
 - [Awesome random forest, kjw0612](https://github.com/kjw0612/awesome-random-forest)
+
 > Terry Taewoong Um has a github page with the most important papers until 2017 
+
 - [Deep Learning papers, Terry Taewoong Um](https://github.com/terryum/awesome-deep-learning-papers)
+
 > floodsung has created a papers reading roadmap for deep learning for newcomers (papers + books)
+
 - [Deep Learning Papers Reading Roadmap, floodsung](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
+
 > Open AI maintained a web page with the most import paper in RL 
+
 - [Open AI spinningup](https://spinningup.openai.com/en/latest/spinningup/keypapers.html)
+
 > Denny Britz share papernotes on Deep Learning articles from 2011 to 2018-02
+
 - [Deep Learning Papernotes, Denny Britz](https://github.com/dennybritz/deeplearning-papernotes)
 
 ### Artificial Intelligence
@@ -205,6 +221,7 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [The Next Decade in AI: Four Steps Towards Robust Artificial Intelligence, Gary Marcus, 2020](https://arxiv.org/pdf/2002.06177v3)
 - [Graph Neural Networks Meet Neural-Symbolic Computing: A Survey and Perspective, Luis Lamb et al. 2020](https://arxiv.org/pdf/2003.00330)
 - [AI-GAs: AI-generating algorithms, an alternate paradigm for producing general artificial intelligence, Jeff Clune, 2020](https://arxiv.org/pdf/1905.10985.pdf)
+
 > In progress...
 
 ### Machine Learning
@@ -311,15 +328,19 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [Mesh R-CNN, Georgia Gkioxari & Jitendra Malik & Justin Johnson, 2019](https://arxiv.org/pdf/1906.02739)
 
 > An exhaustive list can be found in the Deep Learning, Goodfellow I. et al, 2016:
+
 - [Deep Learning, Goodfellow I. et al, 2016 - bibliography](https://www.deeplearningbook.org/contents/bib.html)
 
 > An exhaustive list about neural network search can be available here: 
+
 - [Literature on Neural Architecture Search, Marius Lindauer, currently maintained](https://www.automl.org/automl/literature-on-neural-architecture-search/)
 
 ###### [Back to top](#table-of-contents)
 
 ### Reinforcement Learning
+
 > A short list 
+
 - [Reinforcement Learning, an introduction, R Sutton & A Barto, 1998](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.32.7692&rep=rep1&type=pdf)
 - [Playing Atari with Deep Reinforcement Learning, Mnih et al, 2013](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)
 - [Recurrent Models of Visual Attention, Volodymyr Mnih et al., 2014](http://papers.nips.cc/paper/5542-recurrent-models-of-visual-attention.pdf)
@@ -335,6 +356,7 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [Mastering the game of Go without human knowledge, David Silver et al., 2017](https://www.nature.com/articles/nature24270.epdf?author_access_token=VJXbVjaSHxFoctQQ4p2k4tRgN0jAjWel9jnR3ZoTv0PVW4gB86EEpGqTRDtpIz-2rmo8-KG06gqVobU5NSCFeHILHcVFUeMsbvwS-lxjqQGg98faovwjxeTUgZAUMnRQ)
 - [Grandmaster level in StarCraft II using multi-agent reinforcement learning, Oriol Vinyals et al, 2019](https://www.nature.com/articles/s41586-019-1724-z.epdf?author_access_token=lZH3nqPYtWJXfDA10W0CNNRgN0jAjWel9jnR3ZoTv0PSZcPzJFGNAZhOlk4deBCKzKm70KfinloafEF1bCCXL6IIHHgKaDkaTkBcTEv7aT-wqDoG1VeO9-wO3GEoAMF9bAOt7mJ0RWQnRVMbyfgH9A%3D%3D)
 - [Reinforcement Learning for Combinatorial Optimization: A Survey, Nina Mazyavkina et al., 2020](https://arxiv.org/pdf/2003.03600)
+
 > In progress...
 
 ### Meta-Learning 
@@ -420,6 +442,7 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [Improving Variational Quantum Optimization using CVaR, Panagiotis Kl. Barkoutsos et al, 2019](https://arxiv.org/pdf/1907.04769.pdf)
 - [Evaluating Quantum Approximate Optimization Algorithm: A Case Study, Ruslan Shaydulin & Yuri Alexeev, 2019](https://arxiv.org/pdf/1910.04881.pdf)
 - [Analysis of Quantum Approximate Optimization Algorithm under Realistic Noise in Superconducting Qubits, Mahabubul Alam & Abdullah Ash-Saki & Swaroop Ghosh, 2019](https://arxiv.org/pdf/1907.09631.pdf)
+
 > In progress...
 
 #### Quantum Machine Learning 
@@ -431,14 +454,17 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [Quantum Graph Neural Networks, Guillaume Verdon et al, 2019](https://arxiv.org/pdf/1909.12264.pdf)
 - [Quantum circuit structure learning, Mateusz Ostaszewski & Edward Grant & Marcello Benedett, 2019](https://arxiv.org/pdf/1905.09692.pdf)
 - [TensorFlow Quantum: A Software Framework for Quantum Machine Learning, Michael Broughton et al., 2020](https://arxiv.org/pdf/2003.02989)
+
 > In progress...
 
 ### Causality
 - [Probabilistic Reasoning in Intelligent Systems: Networks of Plausible Inference, Judea Pearl, 1988](https://www.sciencedirect.com/book/9780080514895/probabilistic-reasoning-in-intelligent-systems)
+
 > In progress...
 
 ### Computational Neuroscience
 - [A Framework for Intelligence and Cortical Function Based on Grid Cells in the Neocortex, Jeff Hawkins, 2019](https://numenta.com/neuroscience-research/research-publications/papers/a-framework-for-intelligence-and-cortical-function-based-on-grid-cells-in-the-neocortex/) or [this link](https://www.frontiersin.org/articles/10.3389/fncir.2018.00121/full)
+
 > In progress
 
 
