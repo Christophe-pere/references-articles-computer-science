@@ -2,7 +2,6 @@
 
 > This repository is made to gather different resources for researchers and students in Computer Science specially for Machine Learning, Deep Learning, Reinforcement Learning and Quantum Computing. Additional usefull resources can be find at the end, tutorials and others github pages about librairies in AI. 
 
-> Page under construction ...
 
 
 ## Table of Contents 
@@ -186,8 +185,10 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [PyTorch Deep Learning Hands-on, Sherin Thomas & Sudhanshu Passi, 2019](https://www.packtpub.com/big-data-and-business-intelligence/hands-deep-learning-pytorch)
 - [Deep Learning with Tensorflow 2 and Keras, 2nd edition, Antonio Gulli & Amita Kapoor & Sujit Pal, 2019](https://github.com/PacktPublishing/Deep-Learning-with-TensorFlow-2-and-Keras)
 - [Hands-on Neural Network with Tensorflow 2, Paolo Galeone, 2019](https://github.com/PacktPublishing/Hands-On-Neural-Networks-with-TensorFlow-2.0)
+- [Responsible Artificial Intelligence, Dignum, Virginia, 2019](https://www.springer.com/gp/book/9783030303709)
 - [Interpretable Machine Learning, Christoph Molnar, 2020](https://christophm.github.io/interpretable-ml-book/)
 - [d2l, Aston Zhang et al, 2020](https://github.com/dsgiitr/d2l-pytorch/blob/master/README.md)
+
 
 ###### [Back to top](#table-of-contents)
 ---
@@ -227,6 +228,10 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 
 - [Deep Learning Papernotes, Denny Britz](https://github.com/dennybritz/deeplearning-papernotes)
 
+> Long list of papers in ML, DL and NLP
+
+- [AI-NLP-Paper-Readings, zhongpeixiang](https://github.com/zhongpeixiang/AI-NLP-Paper-Readings)
+
 ---
 
 ### Artificial Intelligence
@@ -243,7 +248,7 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [Graph Neural Networks Meet Neural-Symbolic Computing: A Survey and Perspective, Luis Lamb et al. 2020](https://arxiv.org/pdf/2003.00330)
 - [AI-GAs: AI-generating algorithms, an alternate paradigm for producing general artificial intelligence, Jeff Clune, 2020](https://arxiv.org/pdf/1905.10985.pdf)
 
-> In progress...
+
 
 ---
 
@@ -415,7 +420,7 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [Grandmaster level in StarCraft II using multi-agent reinforcement learning, Oriol Vinyals et al, 2019](https://www.nature.com/articles/s41586-019-1724-z.epdf?author_access_token=lZH3nqPYtWJXfDA10W0CNNRgN0jAjWel9jnR3ZoTv0PSZcPzJFGNAZhOlk4deBCKzKm70KfinloafEF1bCCXL6IIHHgKaDkaTkBcTEv7aT-wqDoG1VeO9-wO3GEoAMF9bAOt7mJ0RWQnRVMbyfgH9A%3D%3D)
 - [Reinforcement Learning for Combinatorial Optimization: A Survey, Nina Mazyavkina et al., 2020](https://arxiv.org/pdf/2003.03600)
 
-> In progress...
+
 
 ---
 
@@ -521,7 +526,7 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [Fault-tolerant quantum computation by anyons, A. Yu. Kitaev, 1997](https://arxiv.org/pdf/quant-ph/9707021)
 - [Quantum Computation by Adiabatic Evolution, Edward Farhi, 2000](https://arxiv.org/pdf/quant-ph/0001106)
 
-> In progress...
+
 
 #### Quantum Approximate Optimization Algorithm
 - [A Quantum Approximate Optimization Algorithm, Edward Farhi & Jeffrey Goldstone, 2014](https://arxiv.org/pdf/1411.4028.pdf)
@@ -529,7 +534,6 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [Evaluating Quantum Approximate Optimization Algorithm: A Case Study, Ruslan Shaydulin & Yuri Alexeev, 2019](https://arxiv.org/pdf/1910.04881.pdf)
 - [Analysis of Quantum Approximate Optimization Algorithm under Realistic Noise in Superconducting Qubits, Mahabubul Alam & Abdullah Ash-Saki & Swaroop Ghosh, 2019](https://arxiv.org/pdf/1907.09631.pdf)
 
-> In progress...
 
 #### Quantum Machine Learning 
 
@@ -541,7 +545,6 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [Quantum circuit structure learning, Mateusz Ostaszewski & Edward Grant & Marcello Benedett, 2019](https://arxiv.org/pdf/1905.09692.pdf)
 - [TensorFlow Quantum: A Software Framework for Quantum Machine Learning, Michael Broughton et al., 2020](https://arxiv.org/pdf/2003.02989)
 
-> In progress...
 
 ---
 
@@ -589,7 +592,6 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [The Transformer Family, Lilian Weng, 2020](https://lilianweng.github.io/lil-log/2020/04/07/the-transformer-family.html)
 - [Attention? Attention!, Lilian Weng, 2018](https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html)
 
-> In progress...
 
 ---
 
@@ -603,8 +605,6 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [Rational Approaches to Learning and Development, Celeste Kidd, 2013](https://www.celestekidd.com/papers/KiddDissertationMay2013.pdf)
 - [Metareasoning and Mental Simulation, Jessica B. Hamrick, 2017](http://www.jesshamrick.com/publications/pdf/Hamrick2017-Metareasoning_and_mental_simulation.pdf)
 - [Neural Transfer Learning for Natural Language Processing, Sebastian Ruder, 2019](https://ruder.io/thesis/neural_transfer_learning_for_nlp.pdf)
-
-> In progress...
 
 ###### [Back to top](#table-of-contents)
 
@@ -653,7 +653,7 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 
 - [NLP-progress, Sebastian Ruder](https://github.com/sebastianruder/NLP-progress)
 
-> In progress...
+
 
 ---
 
@@ -696,7 +696,6 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 | Yann LeCun | [link](https://arxiv.org/search/?searchtype=author&query=LeCun%2C+Y) | [link](https://scholar.google.com/citations?hl=en&user=WLN3QrAAAAAJ) |
 | Yoshua Bengio | [link](https://arxiv.org/search/?searchtype=author&query=Bengio%2C+Y) | [link](https://scholar.google.com/citations?hl=en&user=kukA0LcAAAAJ) |
 
-> In progress...
 
 ---
 
@@ -713,7 +712,7 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [ods.ai, Open Data Science](https://ods.ai/) 
 - [fastai](https://www.fast.ai/) 
 
-> In progress...
+
 
 ###### [Back to top](#table-of-contents)
 ---
@@ -772,7 +771,6 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [DoWhy, Microsoft, 2019](https://github.com/microsoft/dowhy/blob/master/README.rst)
 - [TCDF: Temporal Causal Discovery Framework, M-Nauta](https://github.com/M-Nauta/TCDF)
 
-> In progress...
 
 
 #### Notebooks
@@ -788,7 +786,6 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [D-Wave Tutorials on Quantum Annealing](https://www.dwavesys.com/resources/tutorials)
 - [TensorFlow Quantum, 2020](https://www.tensorflow.org/quantum)
 
-> In progress...
 
 ###### [Back to top](#table-of-contents)
 
@@ -862,6 +859,9 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 
 ## Best-practices
 - [Rules of ML, Google](https://developers.google.com/machine-learning/guides/rules-of-ml)
+- [Responsible AI Practices, Google AI](https://ai.google/responsibilities/responsible-ai-practices/)
+- [Responsible AI, Microsoft](https://www.microsoft.com/en-us/ai/responsible-ai)
+- [Responsbile use AI, Canada Gouvernment](https://www.canada.ca/en/government/system/digital-government/modern-emerging-technologies/responsible-use-ai.html)
 
 ---
 ## Explainability, interpretability
@@ -909,7 +909,6 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [MIT 6.S191 - Introduction to Deep Learning, Alexander Amini & Ava Soleimany, 2020](http://introtodeeplearning.com/)
 - [Neural networks class, Hugo Larochelle](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
 
-> In progress...
 
 ---
 
@@ -921,7 +920,7 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [Lot of material resources to learn Maths, Reddit r/learnmmath](https://www.reddit.com/r/learnmath/comments/8p922p/list_of_websites_ebooks_downloads_etc_for_mobile/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
 - [Linear Algebra, Reddit r/bibliographies](https://www.reddit.com/r/bibliographies/comments/akgoky/linear_algebra/?utm_source=share&utm_medium=ios_app&utm_name=iossmf) 
 
-> In progress... 
+
 
 ---
 
@@ -938,7 +937,6 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [Spacy Course, Ines Montani](https://course.spacy.io/)
 - [The perceptron neuron model, Roberto Lopez, 2020](https://www.neuraldesigner.com/blog/perceptron-the-main-component-of-neural-networks)
 
-> In progress...
 
 
 ###### [Back to top](#table-of-contents)
@@ -961,13 +959,11 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [This will make you Smarter, edited by John Brockman, 2012](https://www.amazon.ca/This-Will-Make-You-Smarter/dp/0062109391)
 
 
-> In progress...
-
 ### Technical
 - [The art of Computer Programming, Vol 1-2-3-4a, Donald E. Knuth](https://www.amazon.ca/Computer-Programming-Volumes-1-4A-Boxed/dp/0321751043)
 - [Advanced Deep Learning with Python, Ivan Vasilev, 2019](https://www.packtpub.com/data/advanced-deep-learning-with-python)
 
-> In progres...
+
 
 ###### [Back to top](#table-of-contents)
 ---
