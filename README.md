@@ -96,6 +96,8 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [Python Machine Learning: Machine Learning and Deep Learning with Python, scikit-learn, and TensorFlow 2 - 3rd Edition, Sebastian Raschka & Vahid Mirjalili, 2019](https://www.amazon.ca/Python-Machine-Learning-scikit-learn-TensorFlow/dp/1789955750/ref=sr_1_fkmr0_1?keywords=%3Bachine+learning+sebastian&qid=1581965682&s=books&sr=1-1-fkmr0 )
 - [The Hundred-Page Machine Learning Book, Andriy Burkov, 2019](https://www.amazon.co.uk/Hundred-Page-Machine-Learning-Book/dp/199957950X/ref=pd_aw_sbs_14_5/262-1001262-4541403?_encoding=UTF8&pd_rd_i=199957950X&pd_rd_r=ceb793b5-741c-4388-bbcb-c4b656d7da98&pd_rd_w=t3urK&pd_rd_wg=7EqqE&pf_rd_p=15216146-4434-47f5-99d9-56240c85bf4d&pf_rd_r=RAHG1THCANSMBVCZC4WJ&psc=1&refRID=RAHG1THCANSMBVCZC4WJ)
 
+---
+
 ### Deep Learning
 
 - [Deep Learning, Ian Goodfellow et al., 2016](http://www.deeplearningbook.org/)
@@ -104,24 +106,35 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [Deep Learning and the Game of Go, Max Pumperla & Kevin Ferguson, 2019](https://www.amazon.com/gp/product/1617295329/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1617295329&linkCode=as2&tag=petacrunch-20&linkId=0e4c17bcda09e79de9b186f2d8c26ffb)
 - [Dive into Deep Learning, Aston Zhang et al, 2020](https://d2l.ai/)
 
+---
+
 ### Reinforcement Learning
 - [Reinforcement Learning: An Introduction - 2nd edition, Richard S. Sutton & Andrew G. Barto, 2018](http://incompleteideas.net/book/RLbook2018.pdf)
 - [Algorithms for Reinforcement Learning, Csaba Szepesvári, 2019](https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf)
 
+---
+
 ### Meta-Learning
 - [Hands-On Meta Learning With Python, Sudharsan Ravichandiran, 2018](https://www.amazon.com/Hands-Meta-Learning-Python-algorithms-ebook/dp/B07KJJHYKF/ref=sr_1_1?ie=UTF8&qid=1543222179&sr=8-1&keywords=meta+learning+hands+on)
+
+---
 
 ### Meta-Reasoning
 - [Metareasoning: Thinking about Thinking, Michael T. Cox et al., 2011](https://www.amazon.com/Metareasoning-Thinking-about-MIT-Press/dp/0262014807)
 
+---
 
 ### Lifelong or Continual Learning
 - [Lifelong Machine Learning, Zhiyuan Chen & Bing Liu, 2nd edition, 2018](https://www.cs.uic.edu/~liub/lifelong-machine-learning.html)
+
+---
 
 ### Quantum Computing
 - [Quantum Computation and Quantum Information - 10th Anniversary Edition, Michael A. Nielsen & Isaac L. CHuang, 2010](https://www.amazon.ca/Quantum-Computation-Information-10th-Anniversary/dp/1107002176/ref=sr_1_2?keywords=quantum+information+and+quantum+computing&qid=1581965920&s=books&sr=1-2)
 - [Dancing with Qubits: How quantum computing works and how it can change the world, Robert S. Sutor, 2019](https://www.amazon.ca/Dancing-Qubits-quantum-computing-change/dp/1838827366/ref=sr_1_1?keywords=dancing+with+qubits&qid=1581965988&s=books&sr=1-1)
 - [Quantum Computing: An Applied Approach, Jack D. Hilary, 2019](https://www.amazon.ca/Quantum-Computing-Approach-Jack-Hidary/dp/3030239217/ref=sr_1_1?keywords=quantum+information+and+quantum+computing&qid=1581965920&s=books&sr=1-1)
+
+---
 
 ### Mathematics for Machine Learning
 - [Think Stats, Allen B. Downey, 2011](https://greenteapress.com/wp/think-stats-2e/?source=post_page-----2d4f32793a51----------------------)
@@ -131,9 +144,13 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [Math for Scientists Refreshing the Essentials, Maurits Natasha & Ćurčić-Blake Branislava, 2017](https://www.springer.com/gp/book/9783319573533)
 - [Mathematics for Machine Learning, Marc Peter Deisenroth & A. Aldo Faisal & Cheng Soon Ong, 2019](https://mml-book.github.io/book/mml-book.pdf)
 
+---
+
 ### Causality
 - [Causal Inference in Statistics: A Primer, Judea Pearl & Madelyn Glymour & Nicholas P. Jewell, 2016](https://www.amazon.ca/Causal-Inference-Statistics-Judea-Pearl/dp/1119186846)
 - [The Book Of Why, Judea Pearl, 2018](https://www.amazon.ca/s?k=the+book+of+why&gclid=Cj0KCQiAnL7yBRD3ARIsAJp_oLZvL4ri7zRq9iKm6wyCwOFg58aKVxCf4Z7qFcTT2e6M_goUr8nEhfIaAnhVEALw_wcB&hvadid=231052835689&hvdev=c&hvlocphy=9061026&hvnetw=g&hvqmt=e&hvrand=14158692902202346976&hvtargid=kwd-300942500351&hydadcr=23340_10308593&tag=googcana-20&ref=pd_sl_78ok7l002g_e)
+
+---
 
 ### Computational Neuroscience
 - [Theoretical Neuroscience: Computational and Mathematical Modeling of Neural Systems, Peter Dayan & Laurence F. Abbott, 2005](https://www.amazon.ca/Theoretical-Neuroscience-Computational-Mathematical-Modeling/dp/0262541858)
@@ -141,14 +158,15 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [From Neuron to Brain, John G. Nicholls et al., 2011](https://www.amazon.ca/Neuron-Brain-John-G-Nicholls/dp/0878936092)
 - [From Neuron to Cognition via Computational Neuroscience, Nicolas Brunel et al., 2016](https://www.amazon.ca/Neuron-Cognition-via-Computational-Neuroscience/dp/0262034964)
 
-
-
+---
 
 ### Data Analyse and Data Science
 - [Machine Learning for Hackers: Case Studies and Algorithms to Get You Started, Drew Conway & John Myles, 2012](https://www.amazon.in/Machine-Learning-Hackers-Conway/dp/9350236745/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1483608652&sr=1-1&keywords=Machine+Learning+for+Hackers&linkCode=sl1&tag=analyvidhy-21&linkId=aa17e72e798105d1043d53decfd915ae)
 - [Python Data Science Handbook: Essential Tools for Working with Data, Jake VanderPlas, 2016](https://www.amazon.com/gp/product/1491912057/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1491912057&linkCode=as2&tag=petacrunch-20&linkId=3882a97fd104467b624bad3e5ff5431b)
 - [Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython, Wes McKinney, 2017](https://www.amazon.com/gp/product/1491957662/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1491957662&linkCode=as2&tag=petacrunch-20&linkId=7664d523f4c3d5195b201dc219efdd15)
 - [Data Science from Scratch: First Principles with Python, 2nd edition, Joel Grus, 2019](https://www.amazon.ca/Data-Science-Scratch-Principles-Python/dp/1492041130/ref=sr_1_1?keywords=Data+Science+from+Scratch%3A+First+Principles+with+Python&qid=1583005130&s=books&sr=1-1)
+
+---
 
 ### Additional Books
 - [Markov Decision Processes: Discrete Stochastic Dynamic Programming, Martin L. Puterman, 2005](https://www.wiley.com/en-us/Markov+Decision+Processes%3A+Discrete+Stochastic+Dynamic+Programming-p-9780471727828)
@@ -208,6 +226,8 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 
 - [Deep Learning Papernotes, Denny Britz](https://github.com/dennybritz/deeplearning-papernotes)
 
+---
+
 ### Artificial Intelligence
 - [On Computable Numbers,with an Application to the Entscheidungsproblem, Alan M. Turing, 1936](https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf)
 - [Intelligent Machinery, Alan M Turing, 1948](https://weightagnostic.github.io/papers/turing1948.pdf)
@@ -223,6 +243,8 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [AI-GAs: AI-generating algorithms, an alternate paradigm for producing general artificial intelligence, Jeff Clune, 2020](https://arxiv.org/pdf/1905.10985.pdf)
 
 > In progress...
+
+---
 
 ### Machine Learning
 - [LIII. On lines and planes of closest fit to systems of points in space, Karl Pearson, 1901](https://zenodo.org/record/1430636#.XlrLsZpKiUk)
@@ -256,6 +278,8 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [AutoML-Zero: Evolving Machine Learning Algorithms From Scratch, Esteban Real et al., 2020](https://arxiv.org/pdf/2003.03384)
 
 ###### [Back to top](#table-of-contents)
+
+---
 
 ### Deep Learning
 - [A logical calculus of the ideas immanent in nervous activity, Warren S. McCulloch & Walter Pitts, 1943](https://www.cs.cmu.edu/~./epxing/Class/10715/reading/McCulloch.and.Pitts.pdf)
@@ -337,6 +361,8 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 
 ###### [Back to top](#table-of-contents)
 
+---
+
 ### Reinforcement Learning
 
 > A short list 
@@ -359,6 +385,8 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 
 > In progress...
 
+---
+
 ### Meta-Learning 
 - [Neural Turing Machines, Alex Graves & Greg Wayne & Ivo Danihelka, 2014](https://arxiv.org/pdf/1410.5401)
 - [Siamese Neural Networks for One-shot Image Recognition, Gregory Koch & Richard Zemel & Ruslan Salakhutdinov, 2015](http://www.cs.toronto.edu/~rsalakhu/papers/oneshot1.pdf)
@@ -372,6 +400,8 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [On First-Order Meta-Learning Algorithms, Alex Nichol & Joshua Achiam & John Schulman, 2018](https://arxiv.org/pdf/1803.02999)
 - [Meta-Learning: A Survey¸, Joaquin Vanschoren, 2018](https://arxiv.org/pdf/1810.03548.pdf)
 - [Learning to Continually Learn, Shawn Beaulieu, 2020](https://arxiv.org/abs/2002.09571)
+
+---
 
 ### Meta-reasoning
 - [On Optimal Game-Tree Search using Rational Meta-Reasoning, Stuart Russell & Eric Wefald, 1989](https://www.ijcai.org/Proceedings/89-1/Papers/053.pdf)
@@ -387,9 +417,12 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 
 ###### [Back to top](#table-of-contents)
 
+---
 
 ### Federated Learning
 - [Federated Learning: Strategies For Improving Communication Efficiency, Jakub Konecny et al., 2016](https://arxiv.org/pdf/1610.05492.pdf)
+
+---
 
 ### Lifelong or Continual Learning
 - [A Lifelong Learning Perspective for Mobile Robot Navigation, Sebastian Thrun, 1995](http://robots.stanford.edu/papers/thrun.learning-robot-navg.html)
@@ -417,13 +450,19 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [Overcoming catastrophic forgetting in neural networks, James Kirkpatrick et al., 2016](https://arxiv.org/abs/1612.00796)
 - [Continual Lifelong Learning with Neural Networks: A Review, German I. Paris et al., 2018](https://arxiv.org/pdf/1802.07569.pdf)
 
+---
+
 ### Explainability, interpretability
 - [Explaining Explanations: An Overview of Interpretability of Machine Learning, Leilani H. Gilpin et al., 2019](https://arxiv.org/pdf/1806.00069.pdf)
 
 ###### [Back to top](#table-of-contents)
 
+---
+
 ### Knowledge Graphs
 - [Knowledge Graphs, Aidan Hogan et al., 2020](https://arxiv.org/pdf/2003.02320.pdf)
+
+---
 
 ### Quantum Computing
 #### Quantum Computing
@@ -457,16 +496,21 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 
 > In progress...
 
+---
+
 ### Causality
 - [Probabilistic Reasoning in Intelligent Systems: Networks of Plausible Inference, Judea Pearl, 1988](https://www.sciencedirect.com/book/9780080514895/probabilistic-reasoning-in-intelligent-systems)
 
 > In progress...
+
+---
 
 ### Computational Neuroscience
 - [A Framework for Intelligence and Cortical Function Based on Grid Cells in the Neocortex, Jeff Hawkins, 2019](https://numenta.com/neuroscience-research/research-publications/papers/a-framework-for-intelligence-and-cortical-function-based-on-grid-cells-in-the-neocortex/) or [this link](https://www.frontiersin.org/articles/10.3389/fncir.2018.00121/full)
 
 > In progress
 
+---
 
 ### Others
 - [A Mathematical Theory of Communication,  C. E. Shannon, 1949](https://mast.queensu.ca/~math474/shannon1948.pdf)
@@ -500,6 +544,7 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 
 > In progress...
 
+---
 
 ### Thesis
 - [Evolutionary principles in self-referential learning, or on learning how to learn,  J.  Schmidhuber, 1987](http://people.idsia.ch/~juergen/diploma1987ocr.pdf)
@@ -534,7 +579,9 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [Getting started with Git and GitHub](https://github.com/maptime/getting-started-with-git-and-github/blob/master/README.md)
 - [Slow-Science manifesto, take time to do good science](http://slow-science.org/)
 - [Build stuff!, 2020](https://why.degree/motivation/) 
-	
+
+---
+
 ### Research Papers & Academic Resources
 - [Computer Science, ArXiv](https://arxiv.org/list/cs/recent)
 - [Arxiv Sanity Preserver](http://www.arxiv-sanity.com/)
@@ -553,18 +600,23 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [Berkeley - Medium](https://medium.com/@ml.at.berkeley)
 - [The Very Large Data Base Journal (VLDB Journal)](http://vldb.org/vldb_journal/)
 
+---
+
 ### NLP 
 
 - [NLP-progress, Sebastian Ruder](https://github.com/sebastianruder/NLP-progress)
 
 > In progress...
 
+---
 
 ### List of most cited researchers
 - [Machine Learning](https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label%3Amachine_learning&btnG=)
 - [Deep Learning](https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:deep_learning&before_author=JEO1_xc5AQAJ&astart=0)
 - [Reinforcement Learning](https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label%3Areinforcement_learning&btnG=)
 - [Artificial Intelligence](https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label%3Aai&btnG=)
+
+---
 
 ### People to follow 
 
@@ -599,6 +651,8 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 
 > In progress...
 
+---
+
 ### AI communities
 
 - [AI Dreams](https://aidreams.co.uk/)
@@ -617,7 +671,11 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 ###### [Back to top](#table-of-contents)
 ---
 ## Resources
+--- 
+
 ### Librairies
+---
+
 #### PyTorch
 > Orinigal tutorials on pyTorch
 
@@ -669,9 +727,12 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 
 > In progress...
 
+
 #### Notebooks
 - [Reformers, Trax Quick Intro](https://colab.research.google.com/github/google/trax/blob/master/trax/intro.ipynb)
 - [PracticalAI, madewithml](https://github.com/madewithml/practicalAI)
+
+---
 
 ### Quantum Computing
 - [Micheal Nielsen ](https://quantum.country/)
@@ -683,6 +744,8 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 > In progress...
 
 ###### [Back to top](#table-of-contents)
+
+---
 
 ### Blogs 
 - [Medium](https://medium.com/)
@@ -734,6 +797,8 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 
 ###### [Back to top](#table-of-contents)
 
+--- 
+
 ## Datasets
 - [Dataset Search, Google](https://datasetsearch.research.google.com/)
 - [Google Research Datasets](https://research.google/tools/datasets/)
@@ -774,6 +839,8 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [Stanford Online](https://online.stanford.edu/courses?keywords=machine%2520learning&availability%5bavailable%5d=available&availability%5bclosed%5d=closed&availability%5bwaitlist%5d=waitlist)
 - [Reinforcement Learning, Denny Britz](https://github.com/dennybritz/reinforcement-learning)
 
+---
+
 ### Youtube
 - [Linear Algebra, MIT edu](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/)
 - [Machine Learning](https://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA)
@@ -797,6 +864,8 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 
 > In progress...
 
+---
+
 ### Support courses 
 - [A Beginner's Guide to the Mathematics of Neural Networks, A.C.C. Coolen, 1998](https://nms.kcl.ac.uk/ton.coolen/published/1998/summerschool98.pdf) or [this link](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.161.3556&rep=rep1&type=pdf)
 - [Introduction to Applied Linear Algebra, Stephen Boyd & Lieven Vandenberghe, 2018](https://web.stanford.edu/~boyd/vmls/vmls.pdf)
@@ -806,6 +875,8 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [Linear Algebra, Reddit r/bibliographies](https://www.reddit.com/r/bibliographies/comments/akgoky/linear_algebra/?utm_source=share&utm_medium=ios_app&utm_name=iossmf) 
 
 > In progress... 
+
+---
 
 ### Sites
 - [Practical Deep Learning for Coders, v3](https://course.fast.ai/index.html)
