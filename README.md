@@ -232,6 +232,10 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 
 - [AI-NLP-Paper-Readings, zhongpeixiang](https://github.com/zhongpeixiang/AI-NLP-Paper-Readings)
 
+> Sung Ju Hwang offers a big repository of artificial intelligence papers
+
+- [AdvancedML - reading list for artificial intelligence papers, Sung Ju Hwang](https://github.com/sjhwang82/AdvancedML)
+
 ---
 
 ### Artificial Intelligence
@@ -458,6 +462,16 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 
 ### Federated Learning
 - [Federated Learning: Strategies For Improving Communication Efficiency, Jakub Konecny et al., 2016](https://arxiv.org/pdf/1610.05492.pdf)
+- [Federated Optimization: Distributed Machine Learning for On-Device Intelligence, Jakub Konecny et al., 2016](https://arxiv.org/pdf/1610.02527.pdf)
+- [Communication-Efficient Learning of Deep Networks from Decentralized Data, H. Brendan McMahan et al., 2017](http://proceedings.mlr.press/v54/mcmahan17a/mcmahan17a.pdf)
+- [Federated Multi-Task Learning, Virginia Smith et al., 2017](https://papers.nips.cc/paper/7029-federated-multi-task-learning.pdf)
+- [Agnostic Federated Learning, Mehryar Mohri and Gary Sivek and Ananda Theertha Suresh, 2019](http://proceedings.mlr.press/v97/mohri19a/mohri19a.pdf)
+- [Bayesian Nonparametric Federated Learning of Neural Networks, Mikhail Yurochkin et al., 2019](http://proceedings.mlr.press/v97/yurochkin19a/yurochkin19a.pdf)
+- [Towards Federated Learning At Scale: System Design, Keith Bonawitz et al., 2019](https://arxiv.org/pdf/1902.01046.pdf)
+- [Federated Optimisation In Heterogeneous Networks, Tian Li et al., 2020](https://proceedings.mlsys.org/static/paper_files/mlsys/2020/176-Paper.pdf)
+- [Federated Learning with Matched Averaging, Hongyi Wang et al., 2020](https://openreview.net/forum?id=BkluqlSFDS)
+- [On the Convergence of FedAvg on Non-IID Data, Xiang Li et al., 2020](https://openreview.net/pdf?id=HJxNAnVtDS)
+
 
 ---
 
