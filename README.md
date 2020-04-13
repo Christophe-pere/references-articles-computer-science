@@ -252,7 +252,7 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [Graph Neural Networks Meet Neural-Symbolic Computing: A Survey and Perspective, Luis Lamb et al. 2020](https://arxiv.org/pdf/2003.00330)
 - [AI-GAs: AI-generating algorithms, an alternate paradigm for producing general artificial intelligence, Jeff Clune, 2020](https://arxiv.org/pdf/1905.10985.pdf)
 
-
+###### [Back to top](#table-of-contents)
 
 ---
 
@@ -401,6 +401,7 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [CaRe: Open Knowledge Graph Embeddings, Swapnil Gupta and Sreyash Kenkre and Partha Talukdar, 2019](http://talukdar.net/papers/CaRe_EMNLP2019.pdf)
 - [Knowledge Graphs, Aidan Hogan et al., 2020](https://arxiv.org/pdf/2003.02320.pdf)
 
+###### [Back to top](#table-of-contents)
 
 --- 
 
@@ -424,7 +425,7 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [Grandmaster level in StarCraft II using multi-agent reinforcement learning, Oriol Vinyals et al, 2019](https://www.nature.com/articles/s41586-019-1724-z.epdf?author_access_token=lZH3nqPYtWJXfDA10W0CNNRgN0jAjWel9jnR3ZoTv0PSZcPzJFGNAZhOlk4deBCKzKm70KfinloafEF1bCCXL6IIHHgKaDkaTkBcTEv7aT-wqDoG1VeO9-wO3GEoAMF9bAOt7mJ0RWQnRVMbyfgH9A%3D%3D)
 - [Reinforcement Learning for Combinatorial Optimization: A Survey, Nina Mazyavkina et al., 2020](https://arxiv.org/pdf/2003.03600)
 
-
+###### [Back to top](#table-of-contents)
 
 ---
 
@@ -441,6 +442,8 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [On First-Order Meta-Learning Algorithms, Alex Nichol & Joshua Achiam & John Schulman, 2018](https://arxiv.org/pdf/1803.02999)
 - [Meta-Learning: A Survey¸, Joaquin Vanschoren, 2018](https://arxiv.org/pdf/1810.03548.pdf)
 - [Learning to Continually Learn, Shawn Beaulieu, 2020](https://arxiv.org/abs/2002.09571)
+
+###### [Back to top](#table-of-contents)
 
 ---
 
@@ -472,6 +475,7 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [Federated Learning with Matched Averaging, Hongyi Wang et al., 2020](https://openreview.net/forum?id=BkluqlSFDS)
 - [On the Convergence of FedAvg on Non-IID Data, Xiang Li et al., 2020](https://openreview.net/pdf?id=HJxNAnVtDS)
 
+###### [Back to top](#table-of-contents)
 
 ---
 
@@ -500,6 +504,8 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [Progressive Neural Networks, Andrei A. Rusu et al., 2016](https://arxiv.org/abs/1606.04671)
 - [Overcoming catastrophic forgetting in neural networks, James Kirkpatrick et al., 2016](https://arxiv.org/abs/1612.00796)
 - [Continual Lifelong Learning with Neural Networks: A Review, German I. Paris et al., 2018](https://arxiv.org/pdf/1802.07569.pdf)
+
+###### [Back to top](#table-of-contents)
 
 ---
 
@@ -559,6 +565,7 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [Quantum circuit structure learning, Mateusz Ostaszewski & Edward Grant & Marcello Benedett, 2019](https://arxiv.org/pdf/1905.09692.pdf)
 - [TensorFlow Quantum: A Software Framework for Quantum Machine Learning, Michael Broughton et al., 2020](https://arxiv.org/pdf/2003.02989)
 
+###### [Back to top](#table-of-contents)
 
 ---
 
@@ -606,6 +613,7 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [The Transformer Family, Lilian Weng, 2020](https://lilianweng.github.io/lil-log/2020/04/07/the-transformer-family.html)
 - [Attention? Attention!, Lilian Weng, 2018](https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html)
 
+###### [Back to top](#table-of-contents)
 
 ---
 
@@ -641,6 +649,8 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [Slow-Science manifesto, take time to do good science](http://slow-science.org/)
 - [Build stuff!, 2020](https://why.degree/motivation/) 
 
+###### [Back to top](#table-of-contents)
+
 ---
 
 ### Research Papers & Academic Resources
@@ -660,6 +670,8 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [Caltech Institute of Technology (CIT)](http://work.caltech.edu/library/index.html)
 - [Berkeley - Medium](https://medium.com/@ml.at.berkeley)
 - [The Very Large Data Base Journal (VLDB Journal)](http://vldb.org/vldb_journal/)
+
+###### [Back to top](#table-of-contents)
 
 ---
 
@@ -710,6 +722,7 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 | Yann LeCun | [link](https://arxiv.org/search/?searchtype=author&query=LeCun%2C+Y) | [link](https://scholar.google.com/citations?hl=en&user=WLN3QrAAAAAJ) |
 | Yoshua Bengio | [link](https://arxiv.org/search/?searchtype=author&query=Bengio%2C+Y) | [link](https://scholar.google.com/citations?hl=en&user=kukA0LcAAAAJ) |
 
+###### [Back to top](#table-of-contents)
 
 ---
 
@@ -791,6 +804,8 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [Reformers, Trax Quick Intro](https://colab.research.google.com/github/google/trax/blob/master/trax/intro.ipynb)
 - [PracticalAI, madewithml](https://github.com/madewithml/practicalAI)
 
+###### [Back to top](#table-of-contents)
+
 ---
 
 ### Quantum Computing
@@ -869,6 +884,8 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [Kaggle Datasets](https://www.kaggle.com/datasets?sortBy=relevance&group=all&search=tag%3A%27artificial%20intelligence%27)
 - [NLP datasets, niderhoff](https://github.com/niderhoff/nlp-datasets)
 
+###### [Back to top](#table-of-contents)
+
 ---
 
 ## Best-practices
@@ -885,6 +902,7 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 
 
 ###### [Back to top](#table-of-contents)
+
 ---
 ## Courses 
 ### MOOCs
@@ -899,6 +917,8 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [Harvard Online](https://online-learning.harvard.edu/)
 - [Stanford Online](https://online.stanford.edu/courses?keywords=machine%2520learning&availability%5bavailable%5d=available&availability%5bclosed%5d=closed&availability%5bwaitlist%5d=waitlist)
 - [Reinforcement Learning, Denny Britz](https://github.com/dennybritz/reinforcement-learning)
+
+###### [Back to top](#table-of-contents)
 
 ---
 
@@ -923,6 +943,7 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [MIT 6.S191 - Introduction to Deep Learning, Alexander Amini & Ava Soleimany, 2020](http://introtodeeplearning.com/)
 - [Neural networks class, Hugo Larochelle](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
 
+###### [Back to top](#table-of-contents)
 
 ---
 
@@ -935,6 +956,7 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [Linear Algebra, Reddit r/bibliographies](https://www.reddit.com/r/bibliographies/comments/akgoky/linear_algebra/?utm_source=share&utm_medium=ios_app&utm_name=iossmf) 
 
 
+###### [Back to top](#table-of-contents)
 
 ---
 
