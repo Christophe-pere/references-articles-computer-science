@@ -623,6 +623,7 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 
 - [PyTorch](https://pytorch.org/tutorials/)
 - [Introduction to Pytorch Code Examples, Stanford](https://cs230.stanford.edu/blog/pytorch/)
+
 > Here a list a lot of github resources on PyTorch, each repo contains an impressive collection of tutorials, books, papers etc. 
 
 - [Ritchie Ng](https://github.com/ritchieng/the-incredible-pytorch)
@@ -828,14 +829,19 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 ## General and technical additional books
 ### General
 #### AI
-- [Thinking, Fast and Slow, Daniel Kahneman, 2013](https://www.amazon.ca/Thinking-Fast-Slow-Daniel-Kahneman/dp/0385676530/ref=sr_1_1?gclid=CjwKCAiA-vLyBRBWEiwAzOkGVEqIUL86vIRZjjjxLWey6FAddc0Dmbss2E2MqlCNcFLdyQU6hELgfxoC9SgQAvD_BwE&hvadid=208385907519&hvdev=c&hvlocphy=9061026&hvnetw=g&hvqmt=e&hvrand=4531609964028782532&hvtargid=kwd-354475353767&hydadcr=23336_9622016&keywords=think+fast+and+slow&qid=1583201295&sr=8-1)
 - [The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World, Pedro Domingos, 2015](https://www.amazon.in/Master-Algorithm-Ultimate-Learning-Machine/dp/0465065708/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=analyvidhy-21&linkId=2e47223a968d21a0b7b411bc53b14edf&language=en_IN)
 - [Superintelligence: Paths, Dangers, Strategies, Nick Bostrom, 2016](https://www.amazon.ca/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/0198739834/ref=sr_1_1?gclid=Cj0KCQiA4sjyBRC5ARIsAEHsELHxPya7k-L3v-CkJz5vYjk42FdwCkCtBFSzLPV0MdhVBIQ3LTIxfKgaAmp2EALw_wcB&hvadid=267118898067&hvdev=c&hvlocphy=9061026&hvnetw=g&hvqmt=e&hvrand=9290510744535489763&hvtargid=kwd-310248068568&hydadcr=22489_9261686&keywords=superintelligence+by+nick+bostrom&qid=1582506567&sr=8-1)
-- [Homo Deus, Yuval Noah Harari, 2018](https://www.amazon.com/gp/product/0062464345/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0062464345&linkCode=as2&tag=petacrunch-20&linkId=6c3109714d799eae0e3feeca6f5b4351)
 - [Architects of Intelligence: The truth about AI from the people building it, Martin Ford, 2018](https://www.amazon.ca/Architects-Intelligence-truth-people-building/dp/1789131510/ref=sr_1_1?keywords=martin+ford&qid=1582506752&sr=8-1)
 - [Life 3.0: Being Human in the Age of Artificial Intelligence, Max Tegmark, 2018](https://www.amazon.ca/Life-3-0-Being-Artificial-Intelligence/dp/1101970316/ref=sr_1_1?crid=23BZ8KHCHHZDS&keywords=max+tegmark&qid=1582507239&sprefix=max+tergm%2Caps%2C178&sr=8-1)
 - [There is no such thing as Artificial Intelligence, Luc julia, 2020](https://www.amazon.ca/There-such-thing-Artificial-Intelligence/dp/241205911X/ref=sr_1_8?keywords=luc+julia&qid=1582506912&sr=8-8)
+
+#### Other
+
+- [Thinking, Fast and Slow, Daniel Kahneman, 2013](https://www.amazon.ca/Thinking-Fast-Slow-Daniel-Kahneman/dp/0385676530/ref=sr_1_1?gclid=CjwKCAiA-vLyBRBWEiwAzOkGVEqIUL86vIRZjjjxLWey6FAddc0Dmbss2E2MqlCNcFLdyQU6hELgfxoC9SgQAvD_BwE&hvadid=208385907519&hvdev=c&hvlocphy=9061026&hvnetw=g&hvqmt=e&hvrand=4531609964028782532&hvtargid=kwd-354475353767&hydadcr=23336_9622016&keywords=think+fast+and+slow&qid=1583201295&sr=8-1)
+- [Homo Deus, Yuval Noah Harari, 2018](https://www.amazon.com/gp/product/0062464345/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0062464345&linkCode=as2&tag=petacrunch-20&linkId=6c3109714d799eae0e3feeca6f5b4351)
 - [How We Learn: Why Brains Learn Better Than Any Machine . . . for Now, Stanislas Daheane, 2020](https://www.amazon.ca/How-We-Learn-Brains-Machine/dp/0525559884/ref=sr_1_1?crid=25CYFQQQ9ZVWJ&keywords=how+we+learn+why+brains+learn+better+than+any+machine&qid=1582507037&sprefix=how+we+learn+%2Caps%2C180&sr=8-1)
+- [This will make you Smarter, edited by John Brockman, 2012](https://www.amazon.ca/This-Will-Make-You-Smarter/dp/0062109391)
+
 
 > In progress...
 
