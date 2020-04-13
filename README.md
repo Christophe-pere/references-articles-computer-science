@@ -485,7 +485,26 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 ---
 
 ### Explainability, interpretability
+- [The Mythos of Model Interpretability, Zachary C. Lipton, 2016](https://arxiv.org/pdf/1606.03490)
+- [“Why Should I Trust You?” Explaining the Predictions of Any Classifier, Marco Tulio Ribeiro and Sameer Singh and Carlos Guestrin, 2016](https://arxiv.org/pdf/1602.04938.pdf)
+- [RETAIN: An Interpretable Predictive Model for Healthcare using Reverse Time Attention Mechanism, Edward Choi et al., 2016](https://arxiv.org/pdf/1608.05745.pdf)
+- [Towards A Rigorous Science of Interpretable Machine Learning, Finale Doshi-Velez and Been Kim, 2017](https://arxiv.org/pdf/1702.08608.pdf)
+- [What do we need to build explainable AI systems for the medical domain?, Andreas Holzinger et al., 2017](https://arxiv.org/pdf/1712.09923)
+- [Attentive Explanations: Justifying Decisions and Pointing to the Evidence, Dong Huk Park et al., 2017](https://arxiv.org/pdf/1711.07373.pdf)
+- [Transparency: Motivations and Challenges, Adrian Weller, 2017](https://arxiv.org/pdf/1708.01870.pdf)
+- [Explaining Explanations in AI, Brent Mittelstadt and Chris Russell and Sandra Wachter, 2018](https://arxiv.org/pdf/1811.01439)
+- [AI Fairness 360: An Extensible Toolkit for Detecting, Understanding, and Mitigating Unwanted Algorithmic Bias, Rachel K. E. Bellamy et al., 2018](https://arxiv.org/pdf/1810.01943)
+- [Techniques for Interpretable Machine Learning, Mengnan Du and Ninghao Liu and Xia Hu, 2018](https://arxiv.org/pdf/1808.00033.pdf)
+- [Stop Explaining Black Box Machine Learning Models for High Stakes Decisions and Use Interpretable Models Instead, Cynthia Rudin, 2018](https://arxiv.org/pdf/1811.10154.pdf)
+- [On the Art and Science of Explainable Machine Learning: Techniques, Recommendations, and Responsibilities, Patrick Hall, 2018](https://arxiv.org/pdf/1810.02909.pdf)
+- [A Survey Of Methods For Explaining Black Box Models Riccardo Guidotti et al., 2018](https://arxiv.org/pdf/1802.01933.pdf)
+- [A comparative study of fairness-enhancing interventions in machine learning, Sorelle A. Friedler et al., 2018](https://arxiv.org/pdf/1802.04422.pdf)
+- [50 Years of Test (Un)fairness: Lessons for Machine Learning Ben Hutchinson and Margaret Mitchell, 2018](https://arxiv.org/pdf/1811.10104.pdf)
 - [Explaining Explanations: An Overview of Interpretability of Machine Learning, Leilani H. Gilpin et al., 2019](https://arxiv.org/pdf/1806.00069.pdf)
+- [A Marauder’s Map of Security and Privacy in Machine Learning: An overview of current and future research directions for making machine learning secure and private, Nicolas Papernot, 2018](https://arxiv.org/pdf/1811.01134.pdf)
+- [Interpretable machine learning: definitions, methods, and applications, W. James Murdoch et al., 2019](https://arxiv.org/pdf/1901.04592)
+- [Explanation in Human-AI Systems: A Literature Meta-Review, Synopsis of Key Ideas and Publications, and Bibliography for Explainable AI Shane T. Mueller et al., 2019](https://arxiv.org/pdf/1902.01876v1)
+
 
 ###### [Back to top](#table-of-contents)
 
