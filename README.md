@@ -27,6 +27,7 @@
 	- [Artificial intelligence](#artificial-intelligence-1)
 	- [Machine Learning](#machine-learning-1)
 	- [Deep Learning](#deep-learning-1)
+	- [Knowledge Graph / Knowledge Graph Net](#knowledge-graph-and-knowledge-graph-net)
 	- [Reinforcement Learning](#reinforcement-learning-1)
 	- [Meta-Learning](#meta-learning-1)
 	- [Meta-Reasoning](#meta-reasoning-1)
@@ -363,6 +364,37 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 
 ---
 
+
+### Knowledge Graphs and Knowledge Graph Nets
+- [RESCAL: A Three-Way Model for Collective Learning on Multi-Relational Data, Maximilian Nickel and Volker Tresp and Hans-Peter Kriegel, 2011](http://www.icml-2011.org/papers/438_icmlpaper.pdf)
+- [Representation Learning: A Review and New Perspectives, Yoshua Bengio and Aaron Courville and Pascal Vincent, 2012](https://arxiv.org/pdf/1206.5538.pdf)
+- [NTN: Reasoning With Neural Tensor Networks for Knowledge Base Completion, Richard Socher el al., 2013](http://papers.nips.cc/paper/5028-reasoning-with-neural-tensor-networks-for-knowledge-base-completion.pdf)
+- [TransH: Knowledge Graph Embedding by Translating on Hyperplanes, Zhen Wang et al., 2014](https://www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/viewFile/8531/8546)
+- [TransR & CTransR: Learning Entity and Relation Embeddings for Knowledge Graph Completion, Yankai Lin et al., 2015](http://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/download/9571/9523/)
+- [A Review of Relational Machine Learning for Knowledge Graphs, Maximilian Nickel et al., 2015](https://arxiv.org/pdf/1503.00759.pdf)
+- [HolE: Holographic Embeddings of Knowledge Graphs, Maximilian Nickel and Lorenzo Rosasco and Tomaso A. Poggio, 2016](http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/download/12484/11828)
+- [TranSparse: Knowledge Graph Completion with Adaptive Sparse Transfer Matrix, Guoliang Ji et al., 2016](http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/download/11982/11693)
+- [GAKE: Graph Aware Knowledge Embedding, Jun Feng et al., 2016](http://yangy.org/works/gake/gake-coling16.pdf)
+- [ProPPR: Learning First-Order Logic Embeddings via Matrix Factorization, William Yang Wang and William W. Cohen, 2016](https://www.cs.ucsb.edu/~william/papers/ijcai2016.pdf)
+- [Knowledge Graph Embedding: A Survey of Approaches and Applications, Quan Wang et al., 2017](https://persagen.com/files/misc/Wang2017Knowledge.pdf)
+- [SSP: Semantic Space Projection for Knowledge Graph Embedding with Text Descriptions, Han Xiao et al., 2017](http://www.aaai.org/Conferences/AAAI/2017/PreliminaryPapers/14-XiaoH-14306.pdf)
+- [ProjE: Embedding Projection for Knowledge Graph Completion, Baoxu Shi and Tim Weninger, 2017](http://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14279/13906)
+- [ITransF: An Interpretable Knowledge Transfer Model for Knowledge Base Completion, Qizhe Xie et al., 2017](https://arxiv.org/pdf/1704.05908.pdf)
+- [Convolutional 2D Knowledge Graph Embeddings, Tim Dettmers et al., 2018](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewPDFInterstitial/17366/15884)
+- [Accurate Text-Enhanced Knowledge Graph Representation Learning, Bo An et al., 2018](http://aclweb.org/anthology/N18-1068)
+- [ConvKB: A Novel Embedding Model for Knowledge Base Completion Based on Convolutional Neural Network, Dai Quoc Nguyen et al., 2018](http://aclweb.org/anthology/N18-2053)
+- [Modeling Relational Data with Graph Convolutional Networks, Michael Schlichtkrull et al., 2018](https://arxiv.org/pdf/1703.06103.pdf)
+- [Canonical Tensor Decomposition for Knowledge Base Completion, Timothée Lacroix and Nicolas Usunier and Guillaume Obozinski, 2018](https://arxiv.org/pdf/1806.07297.pdf)
+- [Improving Knowledge Graph Embedding Using Simple Constraints, Boyang Ding et al., 2018](https://aclweb.org/anthology/P18-1011)
+- [Learning Attention-based Embeddings for Relation Prediction in Knowledge Graphs, Deepak Nathani et al., 2019](https://arxiv.org/pdf/1906.01195.pdf)
+- [RSN: Learning to Exploit Long-term Relational Dependencies in Knowledge Graphs, Lingbing Guo and Zequn Sun and Wei Hu, 2019](http://proceedings.mlr.press/v97/guo19c/guo19c.pdf)
+- [CapsE:A Capsule Network-based Embedding Model for Knowledge Graph Completion and Search Personalization, Dai Quoc Nguyen et al., 2019](https://www.aclweb.org/anthology/N19-1226)
+- [CaRe: Open Knowledge Graph Embeddings, Swapnil Gupta and Sreyash Kenkre and Partha Talukdar, 2019](http://talukdar.net/papers/CaRe_EMNLP2019.pdf)
+- [Knowledge Graphs, Aidan Hogan et al., 2020](https://arxiv.org/pdf/2003.02320.pdf)
+
+
+--- 
+
 ### Reinforcement Learning
 
 > A short list 
@@ -457,10 +489,6 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 
 ###### [Back to top](#table-of-contents)
 
----
-
-### Knowledge Graphs
-- [Knowledge Graphs, Aidan Hogan et al., 2020](https://arxiv.org/pdf/2003.02320.pdf)
 
 ---
 
