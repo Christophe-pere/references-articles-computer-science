@@ -27,7 +27,7 @@
 	- [Artificial intelligence](#artificial-intelligence-1)
 	- [Machine Learning](#machine-learning-1)
 	- [Deep Learning](#deep-learning-1)
-	- [Knowledge Graph / Knowledge Graph Net](#knowledge-graph-and-knowledge-graph-net)
+	- [Knowledge Graph / Knowledge Graph Net](#knowledge-graphs-and-knowledge-graph-nets)
 	- [Reinforcement Learning](#reinforcement-learning-1)
 	- [Meta-Learning](#meta-learning-1)
 	- [Meta-Reasoning](#meta-reasoning-1)
