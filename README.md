@@ -30,6 +30,7 @@
 	- [Reinforcement Learning](#reinforcement-learning-1)
 	- [Meta-Learning](#meta-learning-1)
 	- [Meta-Reasoning](#meta-reasoning-1)
+	- [Consciousness](#consciousness)
 	- [Federated Learning](#federated-learning)
 	- [Lifelong or Continual Learning](#lifelong-or-continual-learning-1)
 	- [Explainability, interpretability](#explainability-interpretability)
