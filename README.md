@@ -401,6 +401,7 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [CapsE:A Capsule Network-based Embedding Model for Knowledge Graph Completion and Search Personalization, Dai Quoc Nguyen et al., 2019](https://www.aclweb.org/anthology/N19-1226)
 - [CaRe: Open Knowledge Graph Embeddings, Swapnil Gupta and Sreyash Kenkre and Partha Talukdar, 2019](http://talukdar.net/papers/CaRe_EMNLP2019.pdf)
 - [Knowledge Graphs, Aidan Hogan et al., 2020](https://arxiv.org/pdf/2003.02320.pdf)
+- [Benchmarking Graph Neural Networks, Vijay Prakash Dwivedi et al., 2020](https://arxiv.org/pdf/2003.00982.pdf)
 
 ###### [Back to top](#table-of-contents)
 
