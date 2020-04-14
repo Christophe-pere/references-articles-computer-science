@@ -680,6 +680,7 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [Getting started with Git and GitHub](https://github.com/maptime/getting-started-with-git-and-github/blob/master/README.md)
 - [Slow-Science manifesto, take time to do good science](http://slow-science.org/)
 - [Build stuff!, 2020](https://why.degree/motivation/) 
+- [How to summarize a research article, University of Washington](https://depts.washington.edu/psych/files/writing_center/summarizing.pdf)
 
 ###### [Back to top](#table-of-contents)
 
