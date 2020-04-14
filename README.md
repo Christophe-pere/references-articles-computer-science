@@ -30,6 +30,7 @@
 	- [Reinforcement Learning](#reinforcement-learning-1)
 	- [Meta-Learning](#meta-learning-1)
 	- [Meta-Reasoning](#meta-reasoning-1)
+	- [Consciousness](#consciousness)
 	- [Federated Learning](#federated-learning)
 	- [Lifelong or Continual Learning](#lifelong-or-continual-learning-1)
 	- [Explainability, interpretability](#explainability-interpretability)
@@ -460,6 +461,36 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [Doing more with less: meta-reasoning and meta-learning in humans and machines, Thomas L Griffiths et al., 2019](https://cocosci.princeton.edu/papers/doing-more-with-less.pdf)
 
 ###### [Back to top](#table-of-contents)
+
+---
+
+### Consciousness
+- [The Importance of Quantum Decoherence in Brain Processes, Max Tegmark, 1999](https://arxiv.org/pdf/quant-ph/9907009.pdf)
+- [Non-Computability of Consciousness, Daegene Song, 2007](https://arxiv.org/pdf/0705.1617.pdf)
+- [Mathematical Foundations of Consciousness, Willard L. Miranker, Gregg J. Zuckerman, 2008](https://arxiv.org/ftp/arxiv/papers/0810/0810.4339.pdf)
+- [Do Artificial Reinforcement-Learning Agents Matter Morally? Brian Tomasik, 2014](https://arxiv.org/pdf/1410.8233.pdf)
+- [Is Intelligence Artificial? Kieran Greer, 2015](https://arxiv.org/ftp/arxiv/papers/1403/1403.1076.pdf)
+- [Ascribing Consciousness to Artificial Intelligence, Murray Shanahan, 2015](https://arxiv.org/ftp/arxiv/papers/1504/1504.05696.pdf)
+- [The method of artificial systems, Christopher A. Tucker, 2015](https://arxiv.org/ftp/arxiv/papers/1507/1507.01384.pdf)
+- [Non-Evolutionary Superintelligences Do Nothing, Eventually, Telmo Menezes, 2016](https://arxiv.org/pdf/1609.02009.pdf)
+- [An affective computational model for machine consciousness, Rohitash Chandra, 2017](https://arxiv.org/pdf/1701.00349.pdf)
+- [Living Together: Mind and Machine Intelligence, Neil D. Lawrence, 2017](https://arxiv.org/pdf/1705.07996.pdf)
+- [The Limits to Machine Consciousness, Subhash Kak, 2017](https://arxiv.org/ftp/arxiv/papers/1707/1707.06257.pdf)
+- [The Morphospace of Consciousness, Xerxes D. Arsiwalla, 2018](https://arxiv.org/pdf/1705.11190.pdf)
+- [Conscious Enactive Computation, Daniel Estrada, 2018](https://arxiv.org/pdf/1812.02578.pdf)
+- [The Consciousness Prior, Yoshua Bengio, 2019](https://arxiv.org/pdf/1709.08568.pdf)
+- [A theory of consciousness: computation, algorithm, and neurobiological realization, J. H. van Hateren, 2019](https://arxiv.org/ftp/arxiv/papers/1804/1804.02952.pdf)
+- [A Mathematical Framework for Superintelligent Machines, Daniel J. Buehrer, 2019](https://arxiv.org/ftp/arxiv/papers/1804/1804.03301.pdf)
+- [The meta-problem and the transfer of knowledge between theories of consciousness: a software engineer’s take, Marcel Kvassay, 2019](https://arxiv.org/ftp/arxiv/papers/1903/1903.03418.pdf)
+- [The Mode of Computing, Luis A. Pineda, 2019](https://arxiv.org/pdf/1903.10559.pdf)
+- [Neural Consciousness Flow, Xiaoran Xu et al., 2019](https://arxiv.org/pdf/1905.13049.pdf)
+- [Secrets of the Brain: An Introduction to the Brain Anatomical Structure and Biological Function, Jiawei Zhang, 2019](https://arxiv.org/pdf/1906.03314.pdf)
+- [Consciousness and Automated Reasoning, Ulrike Barthelme and Ulrich Furbach and Claudia Schon, 2020](https://arxiv.org/pdf/2001.09442.pdf)
+- [A Machine Consciousness architecture based on Deep Learning and Gaussian Processes, Eduardo C. Garrido Merchan and Martin Molina, 2020](https://arxiv.org/pdf/2002.00509.pdf)
+- [The Mathematical Structure of Integrated Information Theory, Johanes Kleiner and Sean Tull, 2020](https://arxiv.org/pdf/2002.07655.pdf)
+- [ConsciousControlFlow(CCF): A Demonstration for conscious Artificial Intelligence Hongzhi Wang et al., 2020](https://arxiv.org/pdf/2004.04376.pdf)
+- [Will we ever have Conscious Machines? Patrick Krauss and Andreas Maier, 2020](https://arxiv.org/pdf/2003.14132.pdf)
+
 
 ---
 
