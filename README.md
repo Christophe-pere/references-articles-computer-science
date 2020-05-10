@@ -1066,3 +1066,10 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 Your contributions are always welcome!
 
 If you want to contribute to this list (please do), send me a pull request or contact me [@chris](twitter.com/Christo35427519) or [chris](linkedin.com/in/phdchristophepere)
+
+--- 
+## Licence
+
+[![License: CC0-1.0](https://licensebuttons.net/l/zero/1.0/80x15.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, Christophe PERE has waived all copyright and related or neighboring rights to Computer Science References for researchers. This work is published from: Canada.
