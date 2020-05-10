@@ -107,6 +107,8 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [Deep Learning and the Game of Go, Max Pumperla & Kevin Ferguson, 2019](https://www.amazon.com/gp/product/1617295329/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1617295329&linkCode=as2&tag=petacrunch-20&linkId=0e4c17bcda09e79de9b186f2d8c26ffb)
 - [Dive into Deep Learning, Aston Zhang et al, 2020](https://d2l.ai/)
 - [The fastai book, fast.ai, 2020](https://github.com/fastai/fastbook)
+
+
 ---
 
 ### Reinforcement Learning
@@ -951,7 +953,9 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [Responsible AI, Microsoft](https://www.microsoft.com/en-us/ai/responsible-ai)
 - [Responsbile use AI, Canada Gouvernment](https://www.canada.ca/en/government/system/digital-government/modern-emerging-technologies/responsible-use-ai.html)
 - [Natural Language Processing best Practices](https://www.kdnuggets.com/2020/05/natural-language-processing-recipes-best-practices-examples.html)
+
 ---
+
 ## Explainability, interpretability
 - [H2O.ai Interpretability](https://github.com/h2oai/mli-resources)
 - [Interpretability in machine learning, jphall11663](https://github.com/jphall663/awesome-machine-learning-interpretability#)
