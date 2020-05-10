@@ -240,7 +240,7 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 ---
 
 ### Artificial Intelligence
-- [On Computable Numbers,with an Application to the Entscheidungsproblem, Alan M. Turing, 1936](https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf)
+- [On Computable Numbers, with an Application to the Entscheidungsproblem, Alan M. Turing, 1936](https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf)
 - [Intelligent Machinery, Alan M Turing, 1948](https://weightagnostic.github.io/papers/turing1948.pdf)
 - [Computing Machinery and Intelligence, Alan M. Turing, 1950](https://academic.oup.com/mind/article/LIX/236/433/986238)
 - [A Proposal for the Dartmouth Summer Research Project on Artificial Intelligence, John NcCarthy at al, 1955](http://jmc.stanford.edu/articles/dartmouth/dartmouth.pdf)
@@ -286,6 +286,8 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [A fast learning algorithm for deep belief nets, Geoffrey E. Hinton & Simon Osindero & Yee-Whye Teh, 2006](https://www.cs.toronto.edu/~hinton/absps/fastnc.pdf)
 - [Representation Learning: A Review and New Perspectives, Yoshua Bengio & Aaron Courville & Pascal Vincent, 2012](https://arxiv.org/pdf/1206.5538)
 - [A guide to convolution arithmetic for deep learning, Vincent Dumoulin & Francesco Visin, 2018](https://arxiv.org/pdf/1603.07285.pdf)
+- [Online Learning Rate Aadaptation With Hypergradient Descent, Atılım Gunes Baydin et al., 2018](https://arxiv.org/pdf/1703.04782.pdf)
+- [Tackling Climate Change with Machine Learning, David Rolnick et al., 2019](https://arxiv.org/pdf/1906.05433.pdf?utm_campaign=nathan.ai%20newsletter&utm_medium=email&utm_source=Revue%20newsletter)
 - [AutoML-Zero: Evolving Machine Learning Algorithms From Scratch, Esteban Real et al., 2020](https://arxiv.org/pdf/2003.03384)
 
 ###### [Back to top](#table-of-contents)
@@ -341,6 +343,7 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [Deep Visual-Semantic Alignments for Generating Image Descriptions, Andrej Karpathy & Li Fei-Fei, 2014](https://arxiv.org/pdf/1412.2306v2.pdf)
 - [Spatial Transformer Networks, Max Jaderberg et al., 2015](https://arxiv.org/pdf/1506.02025.pdf)
 - [Fast R-CNN, Ross Girshick, 2015](https://arxiv.org/pdf/1504.08083.pdf)
+- [The Netflix Recommender System: Algorithms, Business Value, and Innovation, CARLOS A. GOMEZ-URIBE and NEIL HUNT, 2015](https://dl.acm.org/doi/pdf/10.1145/2843948)
 - [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks, Shaoqing Ren et al., 2015](https://arxiv.org/pdf/1506.01497v3.pdf)
 - [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift, Sergey Ioffe & Christian Szegedy, 2015](https://arxiv.org/pdf/1502.03167)
 - [Character-level convolutional networks for text classification, Xiang Z. & Junbo Jake Z. & Yann L. 2015](http://papers.nips.cc/paper/5782-character-level-convolutional-networks-for-text-classification.pdf)
@@ -359,8 +362,12 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding, Jacob Devlin et al., 2018](https://arxiv.org/pdf/1810.04805)
 - [Neural Ordinary Differential Equations, Ricky T. Q. Chen et al., 2018](https://arxiv.org/pdf/1806.07366)
 - [XLNet: Generalized Autoregressive Pretraining for Language Understanding, Zhilin Yang et al, 2019](https://arxiv.org/pdf/1906.08237.pdf)
+- [RILOD: Near Real-Time Incremental Learning for Object Detection at the Edge, Dawei Li et al., 2019](https://arxiv.org/abs/1904.00781)
 - [PyTorch: An Imperative Style, High-Performance Deep Learning Library, Adam Paszke et al, 2019](https://arxiv.org/pdf/1912.01703.pdf)
 - [Mesh R-CNN, Georgia Gkioxari & Jitendra Malik & Justin Johnson, 2019](https://arxiv.org/pdf/1906.02739)
+- [Taxonomy of Real Faults in Deep Learning Systems, Nargiz Humbatova et al., 2019](https://arxiv.org/abs/1910.11015)
+- [Modeling yield response to crop management using convolutional neural networks, Alexandre Barbosa et al., 2020](https://www.sciencedirect.com/science/article/pii/S0168169919308543)
+- [Explainable Deep Learning: A Field Guide for the Uninitiated, Ning Xie et al., 2020](https://arxiv.org/abs/2004.14545)
 
 > An exhaustive list can be found in the Deep Learning, Goodfellow I. et al, 2016:
 
@@ -425,7 +432,11 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm, David Silver et al., 2017](https://arxiv.org/abs/1712.01815)
 - [Mastering the game of Go without human knowledge, David Silver et al., 2017](https://www.nature.com/articles/nature24270.epdf?author_access_token=VJXbVjaSHxFoctQQ4p2k4tRgN0jAjWel9jnR3ZoTv0PVW4gB86EEpGqTRDtpIz-2rmo8-KG06gqVobU5NSCFeHILHcVFUeMsbvwS-lxjqQGg98faovwjxeTUgZAUMnRQ)
 - [Grandmaster level in StarCraft II using multi-agent reinforcement learning, Oriol Vinyals et al, 2019](https://www.nature.com/articles/s41586-019-1724-z.epdf?author_access_token=lZH3nqPYtWJXfDA10W0CNNRgN0jAjWel9jnR3ZoTv0PSZcPzJFGNAZhOlk4deBCKzKm70KfinloafEF1bCCXL6IIHHgKaDkaTkBcTEv7aT-wqDoG1VeO9-wO3GEoAMF9bAOt7mJ0RWQnRVMbyfgH9A%3D%3D)
+- [Emergent Tool Use From Multi-Agent Autocurricula, Bowen Baker et al., 2019](https://arxiv.org/abs/1909.07528)
+- [SQIL: Imitation Learning via Reinforcement Learning with Sparse Rewards, Siddharth Reddy and Anca D. Dragan and Sergey Levine, 2019](https://arxiv.org/abs/1905.11108)
 - [Reinforcement Learning for Combinatorial Optimization: A Survey, Nina Mazyavkina et al., 2020](https://arxiv.org/pdf/2003.03600)
+- [Chip Placement with Deep Reinforcement Learning, Azalia Mirhoseini et al., 2020](https://arxiv.org/abs/2004.10746)
+
 
 ###### [Back to top](#table-of-contents)
 
@@ -438,6 +449,7 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [Matching Networks for One Shot Learning, Oriol Vinyals et al., 2016](http://papers.nips.cc/paper/6385-matching-networks-for-one-shot-learning.pdf)
 - [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks, Chelsea Finn & Pieter Abbeel & Sergey Levine, 2017](https://arxiv.org/pdf/1703.03400)
 - [Meta Networks, Tsendsuren Munkhdalai & Hong Yu, 2017](https://arxiv.org/pdf/1703.00837)
+- [Learning to Reinforcement Learn, Jane X Wang et al., 2017](https://arxiv.org/pdf/1611.05763.pdf)
 - [Prototypical Networks for Few-shot Learning, Jake Snell & Kevin Swersky & Richard Zemel, 2017](http://papers.nips.cc/paper/6996-prototypical-networks-for-few-shot-learning.pdf)
 - [Optimization As A Model For Few-Shot Learning, Sachin Ravi & Hugo Larochelle, 2017](https://openreview.net/pdf?id=rJY0-Kcll)
 - [Learning to Compare: Relation Network for Few-Shot Learning, Flood Sung et al., 2018](http://openaccess.thecvf.com/content_cvpr_2018/papers_backup/Sung_Learning_to_Compare_CVPR_2018_paper.pdf)
@@ -570,6 +582,10 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 
 ### Quantum Computing
 #### Quantum Computing
+
+> A very good repository: Awesome Quantum Computing is offer by Desiree Vogt-Lee and a lot of contributors
+- [Awesome Quantum Computing, Desiree Vogt-Lee et al.](https://github.com/desireevl/awesome-quantum-computing)
+
 - [Optimization by simulated annealing, S Kirkpatrick & C D Gelatt & M P Vecchi., 1983](http://www2.stat.duke.edu/~scs/Courses/Stat376/Papers/TemperAnneal/KirkpatrickAnnealScience1983.pdf)
 - [Quantum mechanical computers, Richard P. Feynman, 1986](https://link.springer.com/article/10.1007%2FBF01886518)
 - [The Solovay-Kitaev algorithm, 1997](http://arxiv.org/abs/quant-ph/0505030)
@@ -619,6 +635,7 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [A Mathematical Theory of Communication,  C. E. Shannon, 1949](https://mast.queensu.ca/~math474/shannon1948.pdf)
 - [Introduction to Algorithms, T H Cormen et al 1990](https://mitpress.mit.edu/books/introduction-algorithms)
 - [Computational Complexity: A Modern Approach, Sanjeev Arora & Boaz Barak, 2007](https://theory.cs.princeton.edu/complexity/book.pdf)
+- [Open-endedness: The last grand challenge you’ve never heard of, Kenneth Stanley et al., 2017](https://www.oreilly.com/radar/open-endedness-the-last-grand-challenge-youve-never-heard-of/)
 
 ###### [Back to top](#table-of-contents)
 ---
@@ -632,6 +649,7 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [Collection of materials for Newbie in Deep Learning and Machine Learning and Data Science, Oleg Gorodnitchi, 2018](https://itnext.io/collection-of-materials-for-newbie-in-deep-learning-and-machine-learning-and-data-science-56ccaa73c18)
 - [Meta-Learning: Learning to Learn Fast, Lilian Weng, 2018](https://lilianweng.github.io/lil-log/2018/11/30/meta-learning.html)
 - [Understanding Neural Networks: What, How and Why? Unraveling the black box, Euge Inzaugarat, 2018](https://towardsdatascience.com/understanding-neural-networks-what-how-and-why-18ec703ebd31)
+- [Backpropagation 101, thinc.ai](https://thinc.ai/docs/backprop101)
 - [Meta-Reinforcement Learning, Michaël Trazzi, 2019](https://blog.floydhub.com/meta-rl/ )
 - [Meta-Reinforcement Learning, Lilian Weng, 2019](https://lilianweng.github.io/lil-log/2019/06/23/meta-reinforcement-learning.html)
 - [Meta-Learning: from Few-Shot Learning to Rapid  Reinforcement Learning ICML 2019 Tutorial, Chelsea Finn & Sergey Levine, 2019](https://sites.google.com/view/icml19metalearning)
@@ -644,6 +662,8 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [The Illustrated Transformer, Jay Alammar](https://jalammar.github.io/illustrated-transformer/)
 - [The Transformer Family, Lilian Weng, 2020](https://lilianweng.github.io/lil-log/2020/04/07/the-transformer-family.html)
 - [Attention? Attention!, Lilian Weng, 2018](https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html)
+- [The mathematics of optimization for deep learning, Tivadar Danka, 2020](https://towardsdatascience.com/the-mathematics-of-optimization-for-deep-learning-11af2b1fda30)
+
 
 ###### [Back to top](#table-of-contents)
 
@@ -726,34 +746,36 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 
 ### People to follow 
 
-| Researchers | Arxiv | Google Scholar |
-| :---:| :---: | :---: |
-| Aaron Courville | [link](https://arxiv.org/search/?searchtype=author&query=Courville%2C+A) | [link](https://scholar.google.com/citations?hl=en&user=km6CP8cAAAAJ) |
-| Adam Coates | \- | [link](https://scholar.google.com/citations?hl=en&user=bLUllHEAAAAJ) | 
-| Andrej Karpathy | \- |  [link](https://scholar.google.com/citations?user=l8WuQJgAAAAJ&hl=en) | 
-| Andrew Barto | \- | [link](https://scholar.google.com/citations?hl=en&user=CMIgrCgAAAAJ) | 
-| Andrew Ng | [link](https://arxiv.org/search/?searchtype=author&query=Ng%2C+A+Y) | [link](https://scholar.google.com/citations?hl=en&user=mG4imMEAAAAJ) | 
-| Christopher D. Manning | [link](https://arxiv.org/search/?searchtype=author&query=Manning%2C+C+D) |  [link](https://scholar.google.com/citations?hl=en&user=1zmDOdwAAAAJ) |
-| Daphne Koller | \- |  [link](http://ai.stanford.edu/users/koller/) |
-| David Silver | \-|  [link](https://scholar.google.com/citations?hl=en&user=-8DNE4UAAAAJ) | 
-| Doina Precup |  [link](https://arxiv.org/search/?searchtype=author&query=Precup%2C+D) | [link](https://scholar.google.com/citations?hl=en&user=j54VcVEAAAAJ) | 
-| François Chollet | [link](https://arxiv.org/search/?searchtype=author&query=Chollet%2C+F) | [link](https://scholar.google.com/citations?hl=en&user=VfYhf2wAAAAJ) |
-| [Gary Marcus](https://dblp.org/pers/m/Marcus:Gary.html)  |\- | \-|
-| Geoffrey Hinton | [link](https://arxiv.org/search/?searchtype=author&query=Hinton%2C+G) | [link](https://scholar.google.com/citations?hl=en&user=JicYPdAAAAAJ) |
-| Hugo Larochelle | [link](https://arxiv.org/search/?searchtype=author&query=Larochelle%2C+H) | [link](https://scholar.google.com/citations?hl=en&user=U89FHq4AAAAJ) |
-| Ian Googfellow | [link](https://arxiv.org/search/?searchtype=author&query=Goodfellow%2C+I) | [link](https://scholar.google.com/citations?hl=en&user=iYN86KEAAAAJ) |
-| Judea Pearl |  | [link](https://scholar.google.com/citations?hl=en&user=bAipNH8AAAAJ) |
-| Jürgen Schmidhuber | \-| [link](https://scholar.google.com/citations?hl=en&user=gLnCTgIAAAAJ) |
-| Michael I. Jordan | \- |  [link](https://scholar.google.com/citations?hl=en&user=nzEluBwAAAAJ) |
-| Nando de Freitas |\-  | [link](https://scholar.google.com/citations?hl=en&user=nzEluBwAAAAJ) | 
-| Oriol Vinyals | [link](https://arxiv.org/search/?searchtype=author&query=Vinyals%2C+O) | [link](https://scholar.google.com/citations?hl=en&user=NkzyCvUAAAAJ) |
-| Peter Norvig | \- | [link](https://scholar.google.com/citations?user=Ol0vcWgAAAAJ&hl=en) | 
-| Richard S. Sutton | [link](https://arxiv.org/search/?searchtype=author&query=Sutton%2C+R+S) | [link](https://scholar.google.com/citations?hl=en&user=6m4wv6gAAAAJ) |
-| Sebastian Ruder | [link](https://arxiv.org/search/?searchtype=author&query=Ruder%2C+S) | [link](https://scholar.google.com/citations?hl=en&user=8ONXPV8AAAAJ) |
-| Stuart Russell | \- | [link](https://scholar.google.com/citations?hl=en&user=2oy3OXYAAAAJ) | 
-| Terrence Sejnowski |\- |  [link](https://scholar.google.com/citations?hl=en&user=m1qAiOUAAAAJ) | 
-| Yann LeCun | [link](https://arxiv.org/search/?searchtype=author&query=LeCun%2C+Y) | [link](https://scholar.google.com/citations?hl=en&user=WLN3QrAAAAAJ) |
-| Yoshua Bengio | [link](https://arxiv.org/search/?searchtype=author&query=Bengio%2C+Y) | [link](https://scholar.google.com/citations?hl=en&user=kukA0LcAAAAJ) |
+| Researchers | Arxiv | Google Scholar | GitHub | 
+| :---:| :---: | :---: | :---: |
+| Aaron Courville | [link](https://arxiv.org/search/?searchtype=author&query=Courville%2C+A) | [link](https://scholar.google.com/citations?hl=en&user=km6CP8cAAAAJ) | |
+| Adam Coates | \- | [link](https://scholar.google.com/citations?hl=en&user=bLUllHEAAAAJ) | |
+| Andrej Karpathy | \- |  [link](https://scholar.google.com/citations?user=l8WuQJgAAAAJ&hl=en) |  |
+| Andrew Barto | \- | [link](https://scholar.google.com/citations?hl=en&user=CMIgrCgAAAAJ) |  |
+| Andrew Ng | [link](https://arxiv.org/search/?searchtype=author&query=Ng%2C+A+Y) | [link](https://scholar.google.com/citations?hl=en&user=mG4imMEAAAAJ) |  |
+| Christopher D. Manning | [link](https://arxiv.org/search/?searchtype=author&query=Manning%2C+C+D) |  [link](https://scholar.google.com/citations?hl=en&user=1zmDOdwAAAAJ) | | 
+| Daphne Koller | \- |  [link](http://ai.stanford.edu/users/koller/) | | 
+| David Silver | \-|  [link](https://scholar.google.com/citations?hl=en&user=-8DNE4UAAAAJ) | | 
+| Doina Precup |  [link](https://arxiv.org/search/?searchtype=author&query=Precup%2C+D) | [link](https://scholar.google.com/citations?hl=en&user=j54VcVEAAAAJ) | |
+| François Chollet | [link](https://arxiv.org/search/?searchtype=author&query=Chollet%2C+F) | [link](https://scholar.google.com/citations?hl=en&user=VfYhf2wAAAAJ) | | 
+| [Gary Marcus](https://dblp.org/pers/m/Marcus:Gary.html)  |\- | \-| | 
+| Geoffrey Hinton | [link](https://arxiv.org/search/?searchtype=author&query=Hinton%2C+G) | [link](https://scholar.google.com/citations?hl=en&user=JicYPdAAAAAJ) | | 
+| Hugo Larochelle | [link](https://arxiv.org/search/?searchtype=author&query=Larochelle%2C+H) | [link](https://scholar.google.com/citations?hl=en&user=U89FHq4AAAAJ) | | 
+| Ian Googfellow | [link](https://arxiv.org/search/?searchtype=author&query=Goodfellow%2C+I) | [link](https://scholar.google.com/citations?hl=en&user=iYN86KEAAAAJ) | | 
+| Judea Pearl |  | [link](https://scholar.google.com/citations?hl=en&user=bAipNH8AAAAJ) | | 
+| Jürgen Schmidhuber | \-| [link](https://scholar.google.com/citations?hl=en&user=gLnCTgIAAAAJ) | | 
+| Justin Johnson | | [link](https://scholar.google.com/citations?user=mS5k4CYAAAAJ&hl=en) | [link](https://github.com/jcjohnson)|
+| Li Fei-Fei | | [link](https://scholar.google.com/citations?user=rDfyQnIAAAAJ&hl=en)| |
+| Michael I. Jordan | \- |  [link](https://scholar.google.com/citations?hl=en&user=nzEluBwAAAAJ) | | 
+| Nando de Freitas |\-  | [link](https://scholar.google.com/citations?hl=en&user=nzEluBwAAAAJ) |  | 
+| Oriol Vinyals | [link](https://arxiv.org/search/?searchtype=author&query=Vinyals%2C+O) | [link](https://scholar.google.com/citations?hl=en&user=NkzyCvUAAAAJ) | | 
+| Peter Norvig | \- | [link](https://scholar.google.com/citations?user=Ol0vcWgAAAAJ&hl=en) |  | 
+| Richard S. Sutton | [link](https://arxiv.org/search/?searchtype=author&query=Sutton%2C+R+S) | [link](https://scholar.google.com/citations?hl=en&user=6m4wv6gAAAAJ) | | 
+| Sebastian Ruder | [link](https://arxiv.org/search/?searchtype=author&query=Ruder%2C+S) | [link](https://scholar.google.com/citations?hl=en&user=8ONXPV8AAAAJ) | | 
+| Stuart Russell | \- | [link](https://scholar.google.com/citations?hl=en&user=2oy3OXYAAAAJ) |  | 
+| Terrence Sejnowski |\- |  [link](https://scholar.google.com/citations?hl=en&user=m1qAiOUAAAAJ) | | 
+| Yann LeCun | [link](https://arxiv.org/search/?searchtype=author&query=LeCun%2C+Y) | [link](https://scholar.google.com/citations?hl=en&user=WLN3QrAAAAAJ) | | 
+| Yoshua Bengio | [link](https://arxiv.org/search/?searchtype=author&query=Bengio%2C+Y) | [link](https://scholar.google.com/citations?hl=en&user=kukA0LcAAAAJ) | | 
 
 ###### [Back to top](#table-of-contents)
 
@@ -830,7 +852,9 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [Stanza: A Python NLP Library for Many Human Languages, Stanford NLP Group's, 2020](https://github.com/stanfordnlp/stanza)
 - [DoWhy, Microsoft, 2019](https://github.com/microsoft/dowhy/blob/master/README.rst)
 - [TCDF: Temporal Causal Discovery Framework, M-Nauta](https://github.com/M-Nauta/TCDF)
-
+- [A gentle introduction to neurolib, Caglar Cakan](https://caglorithm.github.io/notebooks/neurolib-intro/)
+- [pycaret](https://pycaret.org/)
+- [RLlib: Scalable Reinforcement Learning](https://ray.readthedocs.io/en/latest/rllib.html)
 
 
 #### Notebooks
@@ -926,7 +950,7 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [Responsible AI Practices, Google AI](https://ai.google/responsibilities/responsible-ai-practices/)
 - [Responsible AI, Microsoft](https://www.microsoft.com/en-us/ai/responsible-ai)
 - [Responsbile use AI, Canada Gouvernment](https://www.canada.ca/en/government/system/digital-government/modern-emerging-technologies/responsible-use-ai.html)
-
+- [Natural Language Processing best Practices](https://www.kdnuggets.com/2020/05/natural-language-processing-recipes-best-practices-examples.html)
 ---
 ## Explainability, interpretability
 - [H2O.ai Interpretability](https://github.com/h2oai/mli-resources)
@@ -975,6 +999,7 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [MIT Deep Learning, Lex Fridman](https://deeplearning.mit.edu/)
 - [MIT 6.S191 - Introduction to Deep Learning, Alexander Amini & Ava Soleimany, 2020](http://introtodeeplearning.com/)
 - [Neural networks class, Hugo Larochelle](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
+- [Deep Unsupervised Learning, Pieter Abbeel et al., 2020](https://m.youtube.com/watch?v=1CT-kxjYbFU&feature=youtu.be)
 
 ###### [Back to top](#table-of-contents)
 
@@ -1006,7 +1031,8 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [Spacy Course, Ines Montani](https://course.spacy.io/)
 - [The perceptron neuron model, Roberto Lopez, 2020](https://www.neuraldesigner.com/blog/perceptron-the-main-component-of-neural-networks)
 
-
+### Notebooks
+- [CS231n Python Tutorial With Google Colab, Justin Johnson](https://colab.research.google.com/github/cs231n/cs231n.github.io/blob/master/python-colab.ipynb)
 
 ###### [Back to top](#table-of-contents)
 --- 
