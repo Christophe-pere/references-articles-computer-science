@@ -106,7 +106,7 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 - [Neural Networks and Deep learning, Micheal Nielsen, 2019](http://neuralnetworksanddeeplearning.com/chap1.html)
 - [Deep Learning and the Game of Go, Max Pumperla & Kevin Ferguson, 2019](https://www.amazon.com/gp/product/1617295329/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1617295329&linkCode=as2&tag=petacrunch-20&linkId=0e4c17bcda09e79de9b186f2d8c26ffb)
 - [Dive into Deep Learning, Aston Zhang et al, 2020](https://d2l.ai/)
-
+- [The fastai book, fast.ai, 2020](https://github.com/fastai/fastbook)
 ---
 
 ### Reinforcement Learning
