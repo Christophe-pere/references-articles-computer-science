@@ -1012,7 +1012,7 @@ or the github repository of the author : [link](https://github.com/jeffheaton/ai
 ### Support courses 
 - [A Beginner's Guide to the Mathematics of Neural Networks, A.C.C. Coolen, 1998](https://nms.kcl.ac.uk/ton.coolen/published/1998/summerschool98.pdf) or [this link](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.161.3556&rep=rep1&type=pdf)
 - [Introduction to Applied Linear Algebra, Stephen Boyd & Lieven Vandenberghe, 2018](https://web.stanford.edu/~boyd/vmls/vmls.pdf)
-- [the-math-behind-an-artificial-neural-network, hugolgst](https://github.com/hugolgst/the-math-behind-an-artificial-neural-network/blob/master/full-document.pdf?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
+- [The math behind a neural network, Hugo Lageneste](https://github.com/olivia-ai/the-math-behind-a-neural-network/raw/master/full-document.pdf)
 - [Machine Learning From Scratch, Erik Linder-Norén, 2018](https://github.com/eriklindernoren/ML-From-Scratch/blob/master/README.md)
 - [Lot of material resources to learn Maths, Reddit r/learnmmath](https://www.reddit.com/r/learnmath/comments/8p922p/list_of_websites_ebooks_downloads_etc_for_mobile/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
 - [Linear Algebra, Reddit r/bibliographies](https://www.reddit.com/r/bibliographies/comments/akgoky/linear_algebra/?utm_source=share&utm_medium=ios_app&utm_name=iossmf) 
